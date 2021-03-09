@@ -1,0 +1,1965 @@
+,age,date,district,city,perpetrator_en_new,excuses_cat
+0,18.0,31/12/2017,Esenyurt, Istanbul,boyfriend,Unknown
+1,17.0,31/12/2017,Ağlasun, Burdur,boyfriend,Separation & Jealousy
+2,38.0,30/12/2017,Merkez, Bolu,boyfriend,Other
+3,53.0,27/12/2017,Etimesgut, Ankara,boyfriend,Separation & Jealousy
+4,22.0,25/12/2017,Yenişehir, Diyarbakır,partner,Separation & Jealousy
+5,49.0,24/12/2017,Merkez, Uşak,son,Unknown
+6,38.0,24/12/2017,Milas, Muğla,boyfriend,Separation & Jealousy
+7,38.0,23/12/2017,Antakya, Hatay,ex-partner,Separation & Jealousy
+8,28.0,23/12/2017,Çukurova, Adana,ex-partner,Other
+9,40.0,19/12/2017,Karabağlar, İzmir,boyfriend,Unknown
+10,21.0,19/12/2017,Bornova, İzmir,known man,Other
+11,37.0,18/12/2017,Kozan, Adana,boyfriend,Separation & Jealousy
+12,36.0,18/12/2017,Ceyhan, Adana,known man,Other
+13,43.0,17/12/2017,Ahmetli, Manisa,partner,Other
+14,33.0,13/12/2017,Merkez, Sivas,partner,Other
+15,7.0,13/12/2017,Melikgazi, Kayseri,father,Other
+16,41.0,13/12/2017,Melikgazi, Kayseri,partner,Other
+17,16.0,13/12/2017,Melikgazi, Kayseri,father,Other
+18,30.0,11/12/2017,Dilovası, Kocaeli,partner,Other
+19,40.0,10/12/2017,Osmangazi, Bursa,known man,Separation & Jealousy
+20,35.0,9/12/2017,Bahçelievler, Istanbul,son,Unknown
+21,41.0,6/12/2017,Suluova, Amasya,partner,Separation & Jealousy
+22,35.0,5/12/2017,Merkez, Batman,relative,Unknown
+23,27.0,5/12/2017,Kepez, Antalya,partner,Separation & Jealousy
+24,19.0,5/12/2017,Muratlı, Tekirdağ,known man,Separation & Jealousy
+25,,4/12/2017,Silvan, Diyarbakır,partner,Unknown
+26,11.0,3/12/2017,Gökçebey, Zonguldak,father,Other
+27,22.0,3/12/2017,Yıldırım, Bursa,partner,Separation & Jealousy
+28,17.0,3/12/2017,Kartal, Istanbul,boyfriend,Separation & Jealousy
+29,39.0,3/12/2017,Gökçebey, Zonguldak,ex-partner,Other
+30,40.0,30/11/2017,Merkez, Düzce,partner,Other
+31,16.0,27/11/2017,Gaziosmanpaşa, Istanbul,boyfriend,Sexual expectation
+32,40.0,27/11/2017,Üsküdar, Istanbul,partner,Separation & Jealousy
+33,20.0,26/11/2017,Merkez, Şanlıurfa,father,Unknown
+34,,25/11/2017,Gökçebey, Zonguldak,son,Other
+35,60.0,24/11/2017,Selçuklu, Konya,partner,Unknown
+36,19.0,19/11/2017,Adapazarı, Sakarya,father,Unknown
+37,28.0,18/11/2017,Sorgun, Yozgat,partner,Separation & Jealousy
+38,35.0,17/11/2017,Seyhan, Adana,son,Other
+39,49.0,16/11/2017,Bağlar, Diyarbakır,brother,Other
+40,32.0,14/11/2017,Sancaktepe, Istanbul,partner,Unknown
+41,25.0,12/11/2017,Anamur, Mersin,boyfriend,Unknown
+42,24.0,11/11/2017,Akyazı, Sakarya,ex-partner,Unknown
+43,64.0,4/11/2017,Merkez, Aksaray,partner,Unknown
+44,35.0,2/11/2017,Merkez, Denizli,ex-partner,Separation & Jealousy
+45,35.0,31/10/2017,Esenyurt, Istanbul,partner,Separation & Jealousy
+46,21.0,30/10/2017,Ceyhan, Adana,known man,Unknown
+47,38.0,28/10/2017,Döşemealtı, Antalya,boyfriend,Other
+48,62.0,28/10/2017,Kadıköy, Istanbul,partner,Separation & Jealousy
+49,31.0,22/10/2017,Şuhut, Afyonkarahisar,partner,Unknown
+50,31.0,20/10/2017,Gebze, Kocaeli,boyfriend,Masculinity&Honor
+51,32.0,17/10/2017,Şahinbey, Gaziantep,partner,Separation & Jealousy
+52,33.0,15/10/2017,Gebze, Kocaeli,partner,Unknown
+53,47.0,15/10/2017,Muratpaşa, Antalya,partner,Unknown
+54,23.0,15/10/2017,Muratpaşa, Antalya,father,Unknown
+55,17.0,14/10/2017,Pendik, Istanbul,known man,Separation & Jealousy
+56,24.0,14/10/2017,Bağcılar, Istanbul,brother,Masculinity&Honor
+57,22.0,13/10/2017,Merkez, Elazığ,father,Other
+58,39.0,12/10/2017,Merkez, Düzce,partner,Unknown
+59,36.0,11/10/2017,Başakşehir, Istanbul,ex-partner,Separation & Jealousy
+60,20.0,10/10/2017,Bahçelievler, Istanbul,relative,Woman Decision and Preferences
+61,44.0,10/10/2017,Devrek, Zonguldak,son,Masculinity&Honor
+62,47.0,9/10/2017,Çerkezköy, Tekirdağ,partner,Masculinity&Honor
+63,25.0,8/10/2017,Merkez, Kars,partner,Other
+64,55.0,8/10/2017,Soma, Manisa,partner,Other
+65,23.0,7/10/2017,Aydıncık, Yozgat,partner,Unknown
+66,56.0,7/10/2017,Aydıncık, Yozgat,partner,Unknown
+67,35.0,7/10/2017,Merkez, Bolu,partner,Unknown
+68,37.0,7/10/2017,Didim, Aydın,known man,Sexual expectation
+69,53.0,5/10/2017,Merkez, Tekirdağ,partner,Unknown
+70,75.0,5/10/2017,Salihli, Manisa,partner,Other
+71,36.0,4/10/2017,Merkez, Kastamonu,partner,Separation & Jealousy
+72,42.0,4/10/2017,Erbaa, Tokat,known man,Fight
+73,,3/10/2017,Merkez, Isparta,partner,Other
+74,26.0,30/09/2017,Turhal, Tokat,relative,Masculinity&Honor
+75,31.0,28/09/2017,Merkez, Uşak,ex-partner,Unknown
+76,31.0,27/09/2017,Merkez, Denizli,ex-partner,Masculinity&Honor
+77,6.0,26/09/2017,Edremit, Balıkesir,known man,Other
+78,70.0,26/09/2017,Merkez, Şanlıurfa,son,Other
+79,32.0,23/09/2017,Konak, İzmir,known man,Other
+80,60.0,22/09/2017,Üsküdar, Istanbul,relative,Other
+81,22.0,22/09/2017,Üsküdar, Istanbul,relative,Other
+82,42.0,21/09/2017,Merkez, Kilis,partner,Other
+83,45.0,21/09/2017,Çerkezköy, Tekirdağ,partner,Separation & Jealousy
+84,25.0,21/09/2017,Merkez, Kilis,partner,Separation & Jealousy
+85,35.0,21/09/2017,Yıldırım, Bursa,partner,Other
+86,20.0,20/09/2017,Gölhisar, Burdur,boyfriend,Other
+87,62.0,20/09/2017,Merkez, Bolu,partner,Other
+88,,20/09/2017,Toroslar, Mersin,ex-partner,Unknown
+89,23.0,19/09/2017,Mezitli, Mersin,known man,Other
+90,26.0,19/09/2017,Fatih, Istanbul,partner,Separation & Jealousy
+91,55.0,14/09/2017,Meram, Konya,known man,Fight
+92,22.0,14/09/2017,Kağıthane, Istanbul,partner,Separation & Jealousy
+93,30.0,14/09/2017,Kağıthane, Istanbul,relative,Other
+94,35.0,14/09/2017,Meram, Konya,partner,Separation & Jealousy
+95,51.0,11/9/2017,Demre, Antalya,boyfriend,Other
+96,36.0,9/9/2017,Merkez, Muş,brother,Unknown
+97,,9/9/2017,Merkez, Muş,partner,Unknown
+98,,9/9/2017,Merkez, Muş,relative,Unknown
+99,,9/9/2017,Merkez, Muş,relative,Unknown
+100,42.0,9/9/2017,Şehitkâmil, Gaziantep,partner,Unknown
+101,31.0,8/9/2017,Karşıyaka, İzmir,attacker,Other
+102,5.0,7/9/2017,Merkez, Nevşehir,relative,Unknown
+103,33.0,4/9/2017,Merkez, Şanlıurfa,relative,Unknown
+104,46.0,4/9/2017,Terme, Samsun,relative,Separation & Jealousy
+105,36.0,2/9/2017,Menemen, İzmir,ex-partner,Separation & Jealousy
+106,30.0,2/9/2017,Bahçelievler, Istanbul,partner,Separation & Jealousy
+107,36.0,1/9/2017,Kuyucak, Aydın,partner,Unknown
+108,24.0,31/08/2017,Bandırma, Balıkesir,partner,Other
+109,37.0,31/08/2017,Karatay, Konya,partner,Separation & Jealousy
+110,,21/08/2017,Şehitkâmil, Gaziantep,partner,Other
+111,45.0,19/08/2017,Meram, Konya,boyfriend,Woman Decision and Preferences
+112,24.0,18/08/2017,Merkez, Trabzon,known man,Sexual expectation
+113,70.0,17/08/2017,Esenyurt, Istanbul,relative,Other
+114,37.0,17/08/2017,Demre, Antalya,partner,Other
+115,26.0,16/08/2017,Kınık, İzmir,partner,Unknown
+116,41.0,14/08/2017,Salihli, Manisa,known man,Unknown
+117,25.0,11/8/2017,Gebze, Kocaeli,partner,Unknown
+118,51.0,10/8/2017,Derince, Kocaeli,partner,Separation & Jealousy
+119,21.0,31/07/2017,Patnos, Ağrı,partner,Unknown
+120,17.0,30/07/2017,Erbaa, Tokat,boyfriend,Separation & Jealousy
+121,40.0,30/07/2017,Viranşehir, Şanlıurfa,ex-partner,Other
+122,20.0,30/07/2017,Viranşehir, Şanlıurfa,father,Other
+123,27.0,27/07/2017,Cihanbeyli, Konya,partner,Unknown
+124,70.0,21/07/2017,Boyabat, Sinop,partner,Other
+125,47.0,20/07/2017,Çukurova, Adana,ex-partner,Other
+126,33.0,13/07/2017,Tomarza, Kayseri,partner,Unknown
+127,35.0,11/7/2017,Akhisar, Manisa,ex-partner,Masculinity&Honor
+128,34.0,11/7/2017,Domaniç, Kütahya,boyfriend,Separation & Jealousy
+129,63.0,9/7/2017,Seyhan, Adana,known man,Other
+130,34.0,9/7/2017,Seyhan, Adana,relative,Other
+131,24.0,9/7/2017,Merkez, Çorum,known man,Unknown
+132,65.0,6/7/2017,Tarsus, Mersin,relative,Unknown
+133,20.0,6/7/2017,Kaynarca, Sakarya,attacker,Sexual expectation
+134,33.0,5/7/2017,Kula, Manisa,partner,Other
+135,20.0,2/7/2017,Yavuzeli, Gaziantep,partner,Separation & Jealousy
+136,33.0,1/7/2017,Kırıkhan, Hatay,partner,Woman Decision and Preferences
+137,88.0,30/06/2017,Merkez, Elazığ,son,Unknown
+138,46.0,29/06/2017,Kestel, Bursa,partner,Separation & Jealousy
+139,24.0,26/06/2017,Akyurt, Ankara,ex-partner,Unknown
+140,17.0,20/06/2017,İzmit, Kocaeli,father,Woman Decision and Preferences
+141,26.0,18/06/2017,Seyhan, Adana,partner,Separation & Jealousy
+142,29.0,17/06/2017,Merkez, Bilecik,partner,Separation & Jealousy
+143,51.0,15/06/2017,Buca, İzmir,partner,Masculinity&Honor
+144,26.0,13/06/2017,Yıldırım, Bursa,known man,Other
+145,36.0,13/06/2017,Selçuklu, Konya,boyfriend,Unknown
+146,16.0,4/6/2017,Şuhut, Afyonkarahisar,relative,Other
+147,30.0,3/6/2017,Konyaaltı, Antalya,partner,Separation & Jealousy
+148,31.0,3/6/2017,Konyaaltı, Antalya,relative,Other
+149,50.0,3/6/2017,Merkez, Denizli,relative,Other
+150,55.0,3/6/2017,Merkez, Denizli,partner,Separation & Jealousy
+151,6.0,2/6/2017,Çınarcık, Yalova,attacker,Sexual expectation
+152,45.0,2/6/2017,Karabağlar, İzmir,boyfriend,Masculinity&Honor
+153,35.0,2/6/2017,Beyoğlu, Istanbul,partner,Masculinity&Honor
+154,5.0,30/05/2017,Bornova, İzmir,father,Unknown
+155,34.0,30/05/2017,Bornova, İzmir,partner,Unknown
+156,1.0,28/05/2017,Şahinbey, Gaziantep,father,Other
+157,21.0,28/05/2017,Antakya, Hatay,partner,Separation & Jealousy
+158,6.0,28/05/2017,Şahinbey, Gaziantep,father,Other
+159,28.0,28/05/2017,Şahinbey, Gaziantep,partner,Other
+160,18.0,27/05/2017,Arnavutköy, Istanbul,brother,Masculinity&Honor
+161,2.0,26/05/2017,Merkez, Edirne,relative,Other
+162,,26/05/2017,Merkez, Edirne,relative,Fight
+163,54.0,24/05/2017,Antakya, Hatay,son,Unknown
+164,30.0,24/05/2017,Kayapınar, Diyarbakır,partner,Separation & Jealousy
+165,37.0,23/05/2017,Osmangazi, Bursa,partner,Other
+166,23.0,21/05/2017,İnegöl, Bursa,partner,Other
+167,55.0,21/05/2017,Didim, Aydın,known man,Woman Decision and Preferences
+168,44.0,18/05/2017,Döşemealtı, Antalya,boyfriend,Unknown
+169,41.0,17/05/2017,Selçuklu, Konya,ex-partner,Children
+170,59.0,17/05/2017,Selçuklu, Konya,relative,Other
+171,32.0,16/05/2017,Dikili, İzmir,ex-partner,Other
+172,35.0,16/05/2017,Çankaya, Ankara,partner,Separation & Jealousy
+173,18.0,12/5/2017,Köyceğiz, Muğla,known man,Separation & Jealousy
+174,24.0,10/5/2017,Melikgazi, Kayseri,boyfriend,Other
+175,28.0,10/5/2017,Karabağlar, İzmir,relative,Masculinity&Honor
+176,79.0,8/5/2017,Merkez, Kilis,relative,Unknown
+177,46.0,8/5/2017,İlkadım, Samsun,partner,Separation & Jealousy
+178,40.0,6/5/2017,Konak, İzmir,ex-partner,Other
+179,,6/5/2017,Eyüp, Istanbul,boyfriend,Other
+180,19.0,5/5/2017,Sultanbeyli, Istanbul,partner,Separation & Jealousy
+181,16.0,5/5/2017,Osmangazi, Bursa,boyfriend,Unknown
+182,41.0,3/5/2017,Seyhan, Adana,relative,Separation & Jealousy
+183,31.0,3/5/2017,Tuzla, Istanbul,boyfriend,Unknown
+184,66.0,3/5/2017,Seyhan, Adana,relative,Separation & Jealousy
+185,68.0,3/5/2017,Seyhan, Adana,relative,Separation & Jealousy
+186,18.0,30/04/2017,Merkez, Siirt,boyfriend,Masculinity&Honor
+187,35.0,30/04/2017,Ceyhan, Adana,relative,Other
+188,32.0,30/04/2017,Ceyhan, Adana,relative,Other
+189,30.0,30/04/2017,Akdağmadeni, Yozgat,brother,Other
+190,55.0,28/04/2017,Osmangazi, Bursa,son,Separation & Jealousy
+191,39.0,27/04/2017,Sancaktepe, Istanbul,ex-partner,Unknown
+192,60.0,25/04/2017,Suruç, Şanlıurfa,partner,Other
+193,63.0,23/04/2017,Karacabey, Bursa,partner,Unknown
+194,40.0,23/04/2017,Ceyhan, Adana,partner,Unknown
+195,45.0,19/04/2017,Manavgat, Antalya,boyfriend,Masculinity&Honor
+196,51.0,19/04/2017,Çaldıran, Van,partner,Other
+197,27.0,16/04/2017,Ümraniye, Istanbul,partner,Separation & Jealousy
+198,20.0,14/04/2017,Didim, Aydın,father,Separation & Jealousy
+199,35.0,13/04/2017,Nallıhan, Ankara,brother,Masculinity&Honor
+200,22.0,13/04/2017,Edremit, Balıkesir,partner,Unknown
+201,21.0,11/4/2017,Yüreğir, Adana,relative,Masculinity&Honor
+202,31.0,11/4/2017,Yüreğir, Adana,relative,Masculinity&Honor
+203,55.0,10/4/2017,Beylikdüzü, Istanbul,ex-partner,Separation & Jealousy
+204,35.0,8/4/2017,Sandıklı, Afyonkarahisar,relative,Other
+205,26.0,3/4/2017,Çorlu, Tekirdağ,boyfriend,Separation & Jealousy
+206,,31/03/2017,Merkez, Ağrı,son,Unknown
+207,,31/03/2017,Taşköprü, Kastamonu,boyfriend,Unknown
+208,37.0,31/03/2017,Osmangazi, Bursa,partner,Separation & Jealousy
+209,26.0,28/03/2017,Salihli, Manisa,boyfriend,Separation & Jealousy
+210,5.0,28/03/2017,İskenderun, Hatay,father,Other
+211,28.0,28/03/2017,İskenderun, Hatay,ex-partner,Separation & Jealousy
+212,29.0,27/03/2017,Merkez, Afyonkarahisar,ex-partner,Separation & Jealousy
+213,,22/03/2017,Pursaklar, Ankara,ex-partner,Unknown
+214,64.0,21/03/2017,Melikgazi, Kayseri,known man,Other
+215,28.0,21/03/2017,Çiğli, İzmir,boyfriend,Separation & Jealousy
+216,60.0,21/03/2017,Şehitkâmil, Gaziantep,partner,Unknown
+217,43.0,20/03/2017,Fatih, Istanbul,known man,Other
+218,32.0,19/03/2017,Osmangazi, Bursa,brother,Other
+219,34.0,19/03/2017,Merkez, Kahramanmaraş,partner,Other
+220,38.0,18/03/2017,Şahinbey, Gaziantep,brother,Masculinity&Honor
+221,39.0,17/03/2017,Erbaa, Tokat,partner,Separation & Jealousy
+222,45.0,16/03/2017,Çekmeköy, Istanbul,partner,Unknown
+223,38.0,16/03/2017,Merkez, Balıkesir,partner,Household service expectations
+224,,15/03/2017,Sarıyer, Istanbul,ex-partner,Unknown
+225,48.0,14/03/2017,Merkez, Denizli,boyfriend,Masculinity&Honor
+226,23.0,11/3/2017,Şehitkâmil, Gaziantep,partner,Masculinity&Honor
+227,68.0,11/3/2017,Fethiye, Muğla,partner,Unknown
+228,3.0,11/3/2017,Şehitkâmil, Gaziantep,relative,Other
+229,20.0,10/3/2017,Gürsu, Bursa,partner,Separation & Jealousy
+230,59.0,9/3/2017,Gemlik, Bursa,son,Unknown
+231,25.0,9/3/2017,Bodrum, Muğla,ex-partner,Masculinity&Honor
+232,,7/3/2017,Karşıyaka, İzmir,boyfriend,Masculinity&Honor
+233,42.0,7/3/2017,Manavgat, Antalya,ex-partner,Woman Decision and Preferences
+234,79.0,6/3/2017,Karabağlar, İzmir,relative,Unknown
+235,62.0,2/3/2017,Merkez, Kastamonu,partner,Unknown
+236,24.0,1/3/2017,Ataşehir, Istanbul,brother,Unknown
+237,50.0,28/02/2017,Edremit, Balıkesir,attacker,Unknown
+238,29.0,27/02/2017,Bismil, Diyarbakır,relative,Other
+239,25.0,25/02/2017,Merkez, Ağrı,partner,Unknown
+240,64.0,22/02/2017,İnönü, Eskişehir,attacker,Other
+241,27.0,21/02/2017,Alaşehir, Manisa,partner,Separation & Jealousy
+242,10.0,21/02/2017,Alaşehir, Manisa,father,Other
+243,29.0,19/02/2017,Kepez, Antalya,partner,Separation & Jealousy
+244,25.0,18/02/2017,Kocasinan, Kayseri,partner,Separation & Jealousy
+245,26.0,16/02/2017,Merkez, Aksaray,boyfriend,Separation & Jealousy
+246,83.0,15/02/2017,Merkez, Bolu,attacker,Sexual expectation
+247,37.0,14/02/2017,Aksu, Antalya,partner,Unknown
+248,13.0,14/02/2017,Aksu, Antalya,father,Unknown
+249,37.0,11/2/2017,Menemen, İzmir,boyfriend,Unknown
+250,17.0,10/2/2017,Bağcılar, Istanbul,ex-partner,Separation & Jealousy
+251,25.0,9/2/2017,Avcılar, Istanbul,partner,Unknown
+252,53.0,8/2/2017,Buca, İzmir,partner,Other
+253,24.0,8/2/2017,Silifke, Mersin,ex-partner,Separation & Jealousy
+254,62.0,5/2/2017,Sorgun, Yozgat,partner,Unknown
+255,35.0,3/2/2017,Nilüfer, Bursa,partner,Separation & Jealousy
+256,26.0,1/2/2017,Küçükçekmece, Istanbul,partner,Separation & Jealousy
+257,30.0,30/01/2017,Bozova, Şanlıurfa,partner,Other
+258,20.0,28/01/2017,Edremit, Van,partner,Separation & Jealousy
+259,19.0,28/01/2017,Ceylanpınar, Şanlıurfa,partner,Masculinity&Honor
+260,35.0,28/01/2017,İlkadım, Samsun,ex-partner,Separation & Jealousy
+261,,28/01/2017,İvrindi, Balıkesir,partner,Separation & Jealousy
+262,46.0,27/01/2017,Sarıkaya, Yozgat,partner,Separation & Jealousy
+263,23.0,25/01/2017,Çiğli, İzmir,relative,Unknown
+264,27.0,21/01/2017,Akçakale, Şanlıurfa,brother,Masculinity&Honor
+265,22.0,21/01/2017,Eyüp, Istanbul,partner,Other
+266,42.0,20/01/2017,Tirebolu, Giresun,partner,Other
+267,18.0,20/01/2017,Tirebolu, Giresun,partner,Separation & Jealousy
+268,47.0,18/01/2017,Buca, İzmir,known man,Woman Decision and Preferences
+269,23.0,18/01/2017,Buca, İzmir,known man,Other
+270,20.0,18/01/2017,Buca, İzmir,known man,Unknown
+271,43.0,17/01/2017,Küçükçekmece, Istanbul,boyfriend,Other
+272,36.0,17/01/2017,Aliağa, İzmir,partner,Separation & Jealousy
+273,51.0,16/01/2017,Kartepe, Kocaeli,partner,Other
+274,32.0,16/01/2017,Kartepe, Kocaeli,relative,Other
+275,42.0,16/01/2017,Çukurova, Adana,boyfriend,Separation & Jealousy
+276,29.0,16/01/2017,Merkez, Sivas,known man,Woman Decision and Preferences
+277,35.0,13/01/2017,Alanya, Antalya,known man,Unknown
+278,38.0,12/1/2017,Edremit, Balıkesir,partner,Separation & Jealousy
+279,48.0,5/1/2017,Sürmene, Trabzon,brother,Other
+280,50.0,5/1/2017,Sürmene, Trabzon,brother,Other
+281,23.0,5/1/2017,Meram, Konya,known man,Other
+282,22.0,5/1/2017,Çatalca, Istanbul,partner,Other
+283,75.0,5/1/2017,Sürmene, Trabzon,son,Other
+284,47.0,3/1/2017,Merkez, Balıkesir,partner,Separation & Jealousy
+285,46.0,29/12/2016,Karabağlar, İzmir,partner,Separation & Jealousy
+286,86.0,28/12/2016,İnönü, Eskişehir,attacker,Other
+287,25.0,27/12/2016,Babaeski, Kırklareli,ex-partner,Unknown
+288,24.0,27/12/2016,Merkez, Van,partner,Unknown
+289,38.0,23/12/2016,Melikgazi, Kayseri,partner,Other
+290,35.0,22/12/2016,Tarsus, Mersin,partner,Separation & Jealousy
+291,22.0,18/12/2016,Tire, İzmir,partner,Other
+292,68.0,17/12/2016,Merkez, Yalova,partner,Other
+293,45.0,17/12/2016,Merkez, Yalova,partner,Separation & Jealousy
+294,23.0,17/12/2016,Serik, Antalya,partner,Separation & Jealousy
+295,,16/12/2016,Hazro, Diyarbakır,son,Unknown
+296,18.0,10/12/2016,Gerede, Bolu,ex-partner,Separation & Jealousy
+297,22.0,9/12/2016,Kağıthane, Istanbul,partner,Separation & Jealousy
+298,27.0,7/12/2016,Sarıçam, Adana,attacker,Other
+299,21.0,7/12/2016,Seyhan, Adana,partner,Masculinity&Honor
+300,25.0,3/12/2016,Gemlik, Bursa,known man,Separation & Jealousy
+301,28.0,3/12/2016,Merkez, Kütahya,partner,Separation & Jealousy
+302,,30/11/2016,Bandırma, Balıkesir,son,Other
+303,34.0,27/11/2016,Gömeç, Balıkesir,partner,Unknown
+304,48.0,25/11/2016,Bodrum, Muğla,boyfriend,Masculinity&Honor
+305,49.0,24/11/2016,Tepebaşı, Eskişehir,partner,Masculinity&Honor
+306,37.0,20/11/2016,Sarıçam, Adana,partner,Other
+307,22.0,19/11/2016,Sancaktepe, Istanbul,partner,Other
+308,24.0,18/11/2016,Merkez, Elazığ,partner,Unknown
+309,37.0,17/11/2016,Karabağlar, İzmir,ex-partner,Unknown
+310,32.0,17/11/2016,Karatay, Konya,ex-partner,Separation & Jealousy
+311,71.0,17/11/2016,Karatay, Konya,relative,Other
+312,36.0,13/11/2016,Karapınar, Konya,boyfriend,Unknown
+313,38.0,12/11/2016,Kemer, Antalya,partner,Unknown
+314,31.0,10/11/2016,Gaziosmanpaşa, Istanbul,boyfriend,Separation & Jealousy
+315,43.0,10/11/2016,Fatsa, Ordu,son,Unknown
+316,45.0,7/11/2016,Yüreğir, Adana,partner,Separation & Jealousy
+317,24.0,6/11/2016,Melikgazi, Kayseri,partner,Separation & Jealousy
+318,20.0,3/11/2016,İslahiye, Gaziantep,partner,Other
+319,63.0,3/11/2016,Bolvadin, Afyonkarahisar,attacker,Other
+320,29.0,2/11/2016,Şehitkâmil, Gaziantep,partner,Other
+321,26.0,28/10/2016,Merkez, Erzincan,partner,Unknown
+322,50.0,27/10/2016,Akkuş, Ordu,partner,Unknown
+323,22.0,26/10/2016,Eyüp, Istanbul,ex-partner,Children
+324,29.0,25/10/2016,Kaş, Antalya,boyfriend,Separation & Jealousy
+325,30.0,23/10/2016,Karabağlar, İzmir,ex-partner,Masculinity&Honor
+326,29.0,17/10/2016,Merkez, Van,partner,Unknown
+327,66.0,17/10/2016,Bigadiç, Balıkesir,boyfriend,Other
+328,4.0,14/10/2016,Alaşehir, Manisa,attacker,Sexual expectation
+329,20.0,14/10/2016,Turhal, Tokat,partner,Separation & Jealousy
+330,17.0,11/10/2016,Merkez, Şanlıurfa,brother,Masculinity&Honor
+331,35.0,11/10/2016,Pendik, Istanbul,ex-partner,Unknown
+332,44.0,11/10/2016,Burhaniye, Balıkesir,known man,Unknown
+333,22.0,9/10/2016,Didim, Aydın,partner,Separation & Jealousy
+334,45.0,9/10/2016,Didim, Aydın,partner,Other
+335,44.0,8/10/2016,Ortaca, Muğla,ex-partner,Separation & Jealousy
+336,36.0,8/10/2016,Toroslar, Mersin,partner,Other
+337,82.0,7/10/2016,Kadirli, Osmaniye,son,Other
+338,38.0,6/10/2016,Kartal, Istanbul,partner,Separation & Jealousy
+339,20.0,6/10/2016,Merkez, Trabzon,ex-partner,Other
+340,27.0,5/10/2016,Merkez, Şanlıurfa,partner,Separation & Jealousy
+341,30.0,4/10/2016,Tepebaşı, Eskişehir,partner,Woman Decision and Preferences
+342,41.0,1/10/2016,Doğanşehir, Malatya,partner,Unknown
+343,,1/10/2016,Merkez, Çorum,partner,Unknown
+344,33.0,30/09/2016,Çankaya, Ankara,partner,Separation & Jealousy
+345,70.0,29/09/2016,Merkez, Bolu,partner,Other
+346,18.0,28/09/2016,Bergama, İzmir,ex-partner,Unknown
+347,17.0,27/09/2016,Serik, Antalya,known man,Separation & Jealousy
+348,35.0,26/09/2016,Beyoğlu, Istanbul,boyfriend,Unknown
+349,22.0,21/09/2016,Yeşilyurt, Malatya,partner,Masculinity&Honor
+350,37.0,21/09/2016,Tavşanlı, Kütahya,ex-partner,Unknown
+351,62.0,21/09/2016,İskilip, Çorum,partner,Other
+352,29.0,20/09/2016,Altındağ, Ankara,partner,Separation & Jealousy
+353,22.0,19/09/2016,Akdeniz, Mersin,relative,Unknown
+354,39.0,19/09/2016,Şahinbey, Gaziantep,ex-partner,Masculinity&Honor
+355,18.0,18/09/2016,Nilüfer, Bursa,known man,Separation & Jealousy
+356,27.0,17/09/2016,Polatlı, Ankara,partner,Unknown
+357,39.0,14/09/2016,Kemer, Antalya,ex-partner,Separation & Jealousy
+358,30.0,12/9/2016,Siverek, Şanlıurfa,partner,Separation & Jealousy
+359,29.0,9/9/2016,Gaziemir, İzmir,boyfriend,Other
+360,,8/9/2016,Elbistan, Kahramanmaraş,partner,Other
+361,34.0,4/9/2016,Yenişehir, Mersin,brother,Separation & Jealousy
+362,60.0,2/9/2016,Enez, Edirne,known man,Fight
+363,39.0,30/08/2016,Melikgazi, Kayseri,partner,Separation & Jealousy
+364,24.0,30/08/2016,Yenişehir, Diyarbakır,partner,Unknown
+365,26.0,28/08/2016,Merkez, Denizli,partner,Other
+366,20.0,28/08/2016,Muratpaşa, Antalya,partner,Unknown
+367,39.0,25/08/2016,Merkez, Karaman,partner,Separation & Jealousy
+368,55.0,20/08/2016,Kepez, Antalya,ex-partner,Unknown
+369,66.0,18/08/2016,Merkez, Çorum,partner,Unknown
+370,33.0,17/08/2016,Merkez, Trabzon,brother,Other
+371,64.0,17/08/2016,Şahinbey, Gaziantep,partner,Other
+372,22.0,16/08/2016,Kepez, Antalya,known man,Other
+373,26.0,16/08/2016,Tatvan, Bitlis,partner,Unknown
+374,46.0,15/08/2016,Turgutlu, Manisa,partner,Other
+375,30.0,13/08/2016,Selçuklu, Konya,father,Other
+376,,12/8/2016,Kadınhanı, Konya,partner,Separation & Jealousy
+377,23.0,12/8/2016,Sarıyer, Istanbul,attacker,Woman Decision and Preferences
+378,25.0,11/8/2016,Alaşehir, Manisa,partner,Separation & Jealousy
+379,26.0,7/8/2016,Muğla,,partner,Masculinity&Honor
+380,17.0,5/8/2016,Odunpazarı, Eskişehir,attacker,Sexual expectation
+381,42.0,4/8/2016,Ereğli, Konya,partner,Unknown
+382,6.0,4/8/2016,Ereğli, Konya,father,Unknown
+383,73.0,3/8/2016,Kaynaşlı, Düzce,son,Other
+384,45.0,3/8/2016,Kaynaşlı, Düzce,brother,Other
+385,17.0,3/8/2016,Merkez, Batman,brother,Woman Decision and Preferences
+386,45.0,23/07/2016,Merkez, Burdur,brother,Other
+387,35.0,23/07/2016,Başkale, Van,partner,Woman Decision and Preferences
+388,,18/07/2016,Savur, Mardin,partner,Other
+389,,18/07/2016,Savur, Mardin,relative,Other
+390,88.0,17/07/2016,Hilvan, Şanlıurfa,partner,Unknown
+391,54.0,14/07/2016,Merkez, Bayburt,known man,Unknown
+392,41.0,13/07/2016,Sarıveliler, Karaman,partner,Fight
+393,32.0,12/7/2016,Mamak, Ankara,partner,Unknown
+394,25.0,12/7/2016,Buca, İzmir,boyfriend,Unknown
+395,50.0,12/7/2016,Merkez, Kırıkkale,partner,Other
+396,5.0,11/7/2016,Gündoğmuş, Antalya,relative,Other
+397,31.0,11/7/2016,Bünyan, Kayseri,partner,Other
+398,45.0,11/7/2016,Gündoğmuş, Antalya,partner,Fight
+399,39.0,10/7/2016,Gemlik, Bursa,known man,Separation & Jealousy
+400,30.0,9/7/2016,Seyhan, Adana,partner,Other
+401,45.0,7/7/2016,Merkez, Giresun,ex-partner,Unknown
+402,47.0,7/7/2016,Toroslar, Mersin,partner,Masculinity&Honor
+403,49.0,5/7/2016,Kartepe, Kocaeli,known man,Other
+404,24.0,4/7/2016,Kulu, Konya,boyfriend,Unknown
+405,42.0,2/7/2016,Kepez, Antalya,partner,Unknown
+406,57.0,27/06/2016,Kartepe, Kocaeli,partner,Masculinity&Honor
+407,12.0,25/06/2016,Merkez, Yalova,relative,Sexual expectation
+408,27.0,23/06/2016,Darıca, Kocaeli,partner,Separation & Jealousy
+409,33.0,23/06/2016,Şehitkâmil, Gaziantep,relative,Other
+410,30.0,23/06/2016,Fethiye, Muğla,partner,Woman Decision and Preferences
+411,34.0,22/06/2016,Altındağ, Ankara,partner,Other
+412,31.0,20/06/2016,Konyaaltı, Antalya,partner,Unknown
+413,32.0,19/06/2016,Nizip, Gaziantep,partner,Separation & Jealousy
+414,17.0,17/06/2016,Manisa,,boyfriend,Separation & Jealousy
+415,29.0,16/06/2016,Ümraniye, Istanbul,known man,Unknown
+416,60.0,15/06/2016,Ödemiş, İzmir,ex-partner,Other
+417,35.0,15/06/2016,Kovancılar, Elazığ,partner,Unknown
+418,21.0,15/06/2016,Esenyurt, Istanbul,partner,Separation & Jealousy
+419,23.0,14/06/2016,Tuzluca, Iğdır,ex-partner,Unknown
+420,68.0,13/06/2016,Konak, İzmir,attacker,Other
+421,61.0,13/06/2016,Sancaktepe, Istanbul,partner,Other
+422,30.0,12/6/2016,Marmaris, Muğla,ex-partner,Unknown
+423,3.0,8/6/2016,Erdemli, Mersin,father,Unknown
+424,30.0,8/6/2016,Erdemli, Mersin,partner,Unknown
+425,26.0,7/6/2016,Hendek, Sakarya,partner,Separation & Jealousy
+426,54.0,2/6/2016,Kepez, Antalya,partner,Unknown
+427,22.0,31/05/2016,Başkale, Van,partner,Separation & Jealousy
+428,26.0,31/05/2016,Sincan, Ankara,partner,Other
+429,20.0,30/05/2016,Tepebaşı, Eskişehir,partner,Unknown
+430,24.0,29/05/2016,Edremit, Balıkesir,ex-partner,Unknown
+431,29.0,28/05/2016,Bodrum, Muğla,ex-partner,Masculinity&Honor
+432,40.0,28/05/2016,Tuzla, Istanbul,known man,Other
+433,41.0,27/05/2016,Kozan, Adana,boyfriend,Separation & Jealousy
+434,,25/05/2016,Çarşamba, Samsun,known man,Unknown
+435,35.0,21/05/2016,Yomra, Trabzon,partner,Masculinity&Honor
+436,41.0,14/05/2016,Ortaca, Muğla,boyfriend,Unknown
+437,30.0,11/5/2016,Merkez, Edirne,ex-partner,Other
+438,20.0,11/5/2016,Ankara,,ex-partner,Unknown
+439,67.0,11/5/2016,Tire, İzmir,relative,Unknown
+440,33.0,8/5/2016,Merkez, Iğdır,partner,Woman Decision and Preferences
+441,33.0,6/5/2016,Üsküdar, Istanbul,partner,Separation & Jealousy
+442,43.0,4/5/2016,Eyüp, Istanbul,son,Masculinity&Honor
+443,19.0,1/5/2016,Merkez, Iğdır,partner,Separation & Jealousy
+444,36.0,29/04/2016,Başakşehir, Istanbul,boyfriend,Other
+445,49.0,29/04/2016,Merkez, Karabük,partner,Separation & Jealousy
+446,23.0,28/04/2016,Seferihisar, İzmir,partner,Separation & Jealousy
+447,25.0,27/04/2016,Seyhan, Adana,brother,Masculinity&Honor
+448,27.0,26/04/2016,Çubuk, Ankara,ex-partner,Unknown
+449,27.0,25/04/2016,Muratpaşa, Antalya,partner,Other
+450,22.0,19/04/2016,Sarayköy, Denizli,boyfriend,Separation & Jealousy
+451,55.0,18/04/2016,Çiğli, İzmir,relative,Unknown
+452,66.0,17/04/2016,Osmangazi, Bursa,partner,Unknown
+453,25.0,14/04/2016,Şahinbey, Gaziantep,brother,Masculinity&Honor
+454,75.0,14/04/2016,Karamürsel, Kocaeli,son,Other
+455,30.0,13/04/2016,Merkez, Elazığ,partner,Separation & Jealousy
+456,39.0,13/04/2016,Gölcük, Kocaeli,boyfriend,Unknown
+457,33.0,11/4/2016,Buca, İzmir,partner,Unknown
+458,36.0,11/4/2016,Şehitkâmil, Gaziantep,partner,Unknown
+459,6.0,10/4/2016,Beyoğlu, Istanbul,relative,Sexual expectation
+460,33.0,9/4/2016,Tarsus, Mersin,ex-partner,Unknown
+461,43.0,4/4/2016,Melikgazi, Kayseri,partner,Separation & Jealousy
+462,52.0,2/4/2016,Sancaktepe, Istanbul,brother,Fight
+463,33.0,31/03/2016,Meram, Konya,boyfriend,Other
+464,37.0,30/03/2016,Merkez, Şanlıurfa,boyfriend,Unknown
+465,45.0,29/03/2016,Alaşehir, Manisa,partner,Other
+466,41.0,29/03/2016,Beyoğlu, Istanbul,known man,Sexual expectation
+467,31.0,28/03/2016,Palandöken, Erzurum,ex-partner,Separation & Jealousy
+468,76.0,23/03/2016,Küçükçekmece, Istanbul,relative,Other
+469,52.0,23/03/2016,Kuşadası, Aydın,partner,Other
+470,35.0,20/03/2016,Çorlu, Tekirdağ,known man,Other
+471,,18/03/2016,Çankaya, Ankara,ex-partner,Separation & Jealousy
+472,,18/03/2016,Mamak, Ankara,ex-partner,Masculinity&Honor
+473,17.0,17/03/2016,Karabağlar, İzmir,ex-partner,Masculinity&Honor
+474,51.0,15/03/2016,Merkez, Trabzon,partner,Unknown
+475,18.0,15/03/2016,Merkez, Trabzon,father,Unknown
+476,21.0,12/3/2016,Merkez, Uşak,partner,Unknown
+477,31.0,9/3/2016,Şahinbey, Gaziantep,brother,Other
+478,18.0,8/3/2016,Yüksekova, Hakkâri,relative,Other
+479,16.0,8/3/2016,Yüksekova, Hakkâri,relative,Other
+480,31.0,8/3/2016,Siverek, Şanlıurfa,son,Unknown
+481,47.0,8/3/2016,Buca, İzmir,boyfriend,Other
+482,5.0,8/3/2016,Yüksekova, Hakkâri,father,Other
+483,27.0,7/3/2016,Ümraniye, Istanbul,partner,Separation & Jealousy
+484,55.0,7/3/2016,Karşıyaka, İzmir,partner,Separation & Jealousy
+485,28.0,6/3/2016,Esenyurt, Istanbul,partner,Separation & Jealousy
+486,39.0,6/3/2016,Merkez, Zonguldak,boyfriend,Separation & Jealousy
+487,57.0,6/3/2016,Merkez, Zonguldak,known man,Other
+488,31.0,6/3/2016,Bakırköy, Istanbul,known man,Unknown
+489,20.0,5/3/2016,Kozan, Adana,brother,Woman Decision and Preferences
+490,52.0,2/3/2016,Darıca, Kocaeli,partner,Unknown
+491,66.0,1/3/2016,Gölcük, Kocaeli,partner,Other
+492,47.0,1/3/2016,Gölcük, Kocaeli,partner,Separation & Jealousy
+493,45.0,26/02/2016,Karşıyaka, İzmir,ex-partner,Separation & Jealousy
+494,47.0,25/02/2016,Niksar, Tokat,known man,Other
+495,23.0,24/02/2016,Merkez, Zonguldak,attacker,Unknown
+496,23.0,23/02/2016,Amasra, Bartın,partner,Separation & Jealousy
+497,24.0,22/02/2016,Büyükçekmece, Istanbul,partner,Separation & Jealousy
+498,29.0,16/02/2016,Gümüşhacıköy, Amasya,known man,Separation & Jealousy
+499,25.0,15/02/2016,Yüreğir, Adana,known man,Separation & Jealousy
+500,31.0,15/02/2016,Bağlar, Diyarbakır,boyfriend,Separation & Jealousy
+501,25.0,14/02/2016,Başakşehir, Istanbul,partner,Other
+502,52.0,12/2/2016,Güney, Denizli,attacker,Unknown
+503,16.0,11/2/2016,Merkez, Aksaray,boyfriend,Separation & Jealousy
+504,33.0,9/2/2016,Merkez, Şanlıurfa,partner,Unknown
+505,21.0,5/2/2016,Şahinbey, Gaziantep,partner,Separation & Jealousy
+506,13.0,5/2/2016,Şehitkâmil, Gaziantep,relative,Other
+507,20.0,5/2/2016,Etimesgut, Ankara,relative,Other
+508,48.0,5/2/2016,Şehitkâmil, Gaziantep,relative,Other
+509,35.0,5/2/2016,Esenler, Istanbul,partner,Fight
+510,22.0,5/2/2016,Şehitkâmil, Gaziantep,relative,Other
+511,40.0,5/2/2016,Etimesgut, Ankara,relative,Other
+512,36.0,5/2/2016,Şahinbey, Gaziantep,relative,Other
+513,48.0,4/2/2016,Aksu, Antalya,partner,Unknown
+514,31.0,3/2/2016,Seyhan, Adana,brother,Masculinity&Honor
+515,50.0,3/2/2016,Orhangazi, Bursa,partner,Masculinity&Honor
+516,22.0,1/2/2016,Merkez, Kastamonu,partner,Unknown
+517,34.0,30/01/2016,Kağıthane, Istanbul,partner,Separation & Jealousy
+518,40.0,30/01/2016,Küçükçekmece, Istanbul,known man,Separation & Jealousy
+519,22.0,28/01/2016,Sorgun, Yozgat,partner,Other
+520,20.0,28/01/2016,Körfez, Kocaeli,partner,Separation & Jealousy
+521,18.0,27/01/2016,Keçiören, Ankara,father,Unknown
+522,45.0,27/01/2016,Keçiören, Ankara,partner,Unknown
+523,16.0,24/01/2016,Merkez, Elazığ,relative,Fight
+524,33.0,20/01/2016,Konyaaltı, Antalya,partner,Separation & Jealousy
+525,53.0,20/01/2016,Merkez, Isparta,son,Other
+526,15.0,20/01/2016,Burhaniye, Balıkesir,boyfriend,Masculinity&Honor
+527,67.0,20/01/2016,Bafra, Samsun,son,Other
+528,,20/01/2016,Merkez, Isparta,known man,Other
+529,63.0,20/01/2016,Merkez, Batman,relative,Other
+530,46.0,19/01/2016,Hopa, Artvin,partner,Other
+531,84.0,19/01/2016,Selçuklu, Konya,attacker,Other
+532,60.0,18/01/2016,İslahiye, Gaziantep,partner,Other
+533,26.0,15/01/2016,Nazilli, Aydın,boyfriend,Separation & Jealousy
+534,37.0,15/01/2016,Çilimli, Düzce,son,Woman Decision and Preferences
+535,30.0,15/01/2016,Kandıra, Kocaeli,partner,Separation & Jealousy
+536,31.0,14/01/2016,Torbalı, İzmir,ex-partner,Unknown
+537,49.0,9/1/2016,Bayat, Çorum,son,Other
+538,19.0,8/1/2016,Seyhan, Adana,father,Other
+539,26.0,7/1/2016,Karacabey, Bursa,ex-partner,Masculinity&Honor
+540,27.0,7/1/2016,Çaycuma, Zonguldak,boyfriend,Unknown
+541,35.0,6/1/2016,Çayeli, Rize,known man,Sexual expectation
+542,26.0,4/1/2016,Bornova, İzmir,known man,Other
+543,23.0,3/1/2016,Merkez, Batman,boyfriend,Unknown
+544,40.0,1/1/2016,Didim, Aydın,ex-partner,Children
+545,28.0,1/1/2016,Kadirli, Osmaniye,father,Separation & Jealousy
+546,30.0,28/12/2015,Merkez, Tokat,partner,Unknown
+547,20.0,26/12/2015,Nizip, Gaziantep,attacker,Unknown
+548,36.0,25/12/2015,Bafra, Samsun,partner,Separation & Jealousy
+549,,23/12/2015,Zeytinburnu, Istanbul,known man,Woman Decision and Preferences
+550,43.0,22/12/2015,Merkez, Trabzon,ex-partner,Woman Decision and Preferences
+551,24.0,19/12/2015,Merkez, Kırklareli,ex-partner,Separation & Jealousy
+552,23.0,14/12/2015,Yeşilhisar, Kayseri,boyfriend,Other
+553,41.0,13/12/2015,Şahinbey, Gaziantep,brother,Other
+554,42.0,13/12/2015,Şahinbey, Gaziantep,brother,Other
+555,35.0,13/12/2015,Merkez, Erzincan,known man,Other
+556,26.0,12/12/2015,Sarıkamış, Kars,partner,Separation & Jealousy
+557,50.0,8/12/2015,Merkez, Bingöl,brother,Unknown
+558,30.0,7/12/2015,Kepez, Antalya,boyfriend,Sexual expectation
+559,20.0,6/12/2015,Merkez, Aydın,partner,Separation & Jealousy
+560,3.0,6/12/2015,Merkez, Aydın,father,Unknown
+561,,3/12/2015,Avcılar, Istanbul,attacker,Woman Decision and Preferences
+562,23.0,3/12/2015,Karşıyaka, İzmir,partner,Separation & Jealousy
+563,16.0,3/12/2015,Merkez, Kırıkkale,father,Masculinity&Honor
+564,52.0,3/12/2015,Didim, Aydın,boyfriend,Unknown
+565,21.0,1/12/2015,Yıldırım, Bursa,relative,Other
+566,41.0,1/12/2015,Yıldırım, Bursa,boyfriend,Other
+567,40.0,29/11/2015,Karatay, Konya,partner,Separation & Jealousy
+568,50.0,28/11/2015,Fatih, Istanbul,attacker,Other
+569,33.0,24/11/2015,Maltepe, Istanbul,known man,Woman Decision and Preferences
+570,20.0,23/11/2015,Bağcılar, Istanbul,ex-partner,Masculinity&Honor
+571,60.0,22/11/2015,Milas, Muğla,son,Unknown
+572,40.0,20/11/2015,Esenyurt, Istanbul,boyfriend,Other
+573,49.0,19/11/2015,İlkadım, Samsun,known man,Other
+574,40.0,15/11/2015,Bağcılar, Istanbul,partner,Separation & Jealousy
+575,30.0,15/11/2015,Şahinbey, Gaziantep,boyfriend,Other
+576,43.0,13/11/2015,Sürmene, Trabzon,partner,Separation & Jealousy
+577,38.0,12/11/2015,Akhisar, Manisa,ex-partner,Unknown
+578,32.0,11/11/2015,Orhangazi, Bursa,boyfriend,Masculinity&Honor
+579,25.0,11/11/2015,Darıca, Kocaeli,partner,Separation & Jealousy
+580,37.0,9/11/2015,Gemlik, Bursa,partner,Other
+581,10.0,9/11/2015,Gemlik, Bursa,father,Other
+582,60.0,8/11/2015,Dalaman, Muğla,known man,Other
+583,45.0,7/11/2015,Kemalpaşa, İzmir,brother,Other
+584,26.0,4/11/2015,Merkez, Iğdır,partner,Unknown
+585,46.0,3/11/2015,İskenderun, Hatay,partner,Separation & Jealousy
+586,31.0,3/11/2015,Esenyurt, Istanbul,partner,Unknown
+587,30.0,2/11/2015,Merkez, Kütahya,partner,Separation & Jealousy
+588,83.0,2/11/2015,Gönen, Balıkesir,partner,Other
+589,57.0,2/11/2015,Gönen, Balıkesir,partner,Separation & Jealousy
+590,18.0,1/11/2015,Şahinbey, Gaziantep,boyfriend,Other
+591,20.0,30/10/2015,Şahinbey, Gaziantep,boyfriend,Separation & Jealousy
+592,34.0,30/10/2015,Bağcılar, Istanbul,boyfriend,Unknown
+593,43.0,30/10/2015,Havsa, Edirne,known man,Separation & Jealousy
+594,34.0,29/10/2015,Pendik, Istanbul,partner,Separation & Jealousy
+595,48.0,28/10/2015,Torbalı, İzmir,partner,Other
+596,19.0,27/10/2015,Merkez, Afyonkarahisar,partner,Other
+597,57.0,26/10/2015,Toroslar, Mersin,ex-partner,Masculinity&Honor
+598,27.0,25/10/2015,Çaycuma, Zonguldak,partner,Separation & Jealousy
+599,,22/10/2015,Eyüp, Istanbul,partner,Other
+600,72.0,21/10/2015,Bahşılı, Kırıkkale,partner,Other
+601,31.0,21/10/2015,Şehitkâmil, Gaziantep,father-in-law,Sexual expectation
+602,51.0,21/10/2015,Şehitkâmil, Gaziantep,partner,Other
+603,29.0,20/10/2015,Merkez, Ardahan,boyfriend,Woman Decision and Preferences
+604,22.0,20/10/2015,Merkez, Ardahan,known man,Other
+605,51.0,16/10/2015,Odunpazarı, Eskişehir,partner,Masculinity&Honor
+606,21.0,15/10/2015,Gerede, Bolu,known man,Separation & Jealousy
+607,51.0,9/10/2015,Yağlıdere, Giresun,partner,Other
+608,45.0,8/10/2015,Sultanhisar, Aydın,partner,Other
+609,60.0,6/10/2015,Şehitkâmil, Gaziantep,brother,Other
+610,33.0,4/10/2015,Gölcük, Kocaeli,known man,Separation & Jealousy
+611,18.0,3/10/2015,Karamürsel, Kocaeli,father,Masculinity&Honor
+612,32.0,29/09/2015,Muratpaşa, Antalya,partner,Separation & Jealousy
+613,23.0,28/09/2015,Merkez, Trabzon,brother,Woman Decision and Preferences
+614,45.0,25/09/2015,Orhangazi, Bursa,partner,Fight
+615,20.0,24/09/2015,Esenler, Istanbul,boyfriend,Other
+616,24.0,23/09/2015,Turgutlu, Manisa,relative,Other
+617,22.0,19/09/2015,Hassa, Hatay,ex-partner,Other
+618,47.0,19/09/2015,Adapazarı, Sakarya,partner,Other
+619,53.0,19/09/2015,Kırkağaç, Manisa,partner,Other
+620,28.0,19/09/2015,Fatih, Istanbul,boyfriend,Masculinity&Honor
+621,14.0,16/09/2015,Seyhan, Adana,relative,Other
+622,44.0,14/09/2015,Merkez, Çanakkale,partner,Separation & Jealousy
+623,40.0,14/09/2015,Çekmeköy, Istanbul,known man,Other
+624,25.0,14/09/2015,Ceyhan, Adana,brother,Masculinity&Honor
+625,37.0,14/09/2015,Çekmeköy, Istanbul,ex-partner,Separation & Jealousy
+626,32.0,11/9/2015,Osmangazi, Bursa,partner,Masculinity&Honor
+627,51.0,8/9/2015,Yığılca, Düzce,relative,Fight
+628,52.0,8/9/2015,Yığılca, Düzce,relative,Fight
+629,31.0,8/9/2015,Tire, İzmir,ex-partner,Separation & Jealousy
+630,39.0,7/9/2015,Çumra, Konya,son,Fight
+631,33.0,7/9/2015,Finike, Antalya,ex-partner,Separation & Jealousy
+632,37.0,6/9/2015,Gemerek, Sivas,ex-partner,Separation & Jealousy
+633,17.0,6/9/2015,Tekkeköy, Samsun,partner,Other
+634,,4/9/2015,Merkez, Trabzon,known man,Woman Decision and Preferences
+635,24.0,4/9/2015,Akdeniz, Mersin,partner,Other
+636,32.0,3/9/2015,Sur, Diyarbakır,partner,Separation & Jealousy
+637,18.0,1/9/2015,Mamak, Ankara,partner,Separation & Jealousy
+638,38.0,29/08/2015,Merkez, Manisa,boyfriend,Other
+639,32.0,28/08/2015,Merkez, Aydın,relative,Sexual expectation
+640,35.0,27/08/2015,Görele, Giresun,partner,Unknown
+641,43.0,27/08/2015,Konyaaltı, Antalya,known man,Fight
+642,23.0,26/08/2015,Tarsus, Mersin,boyfriend,Unknown
+643,77.0,19/08/2015,Mamak, Ankara,son,Unknown
+644,52.0,19/08/2015,Mezitli, Mersin,known man,Other
+645,42.0,17/08/2015,Bodrum, Muğla,partner,Other
+646,65.0,16/08/2015,Kiraz, İzmir,partner,Other
+647,18.0,16/08/2015,Keçiören, Ankara,partner,Separation & Jealousy
+648,36.0,16/08/2015,Gebze, Kocaeli,known man,Sexual expectation
+649,18.0,14/08/2015,Aziziye, Erzurum,boyfriend,Separation & Jealousy
+650,29.0,13/08/2015,Odunpazarı, Eskişehir,partner,Separation & Jealousy
+651,64.0,12/8/2015,Atakum, Samsun,partner,Other
+652,45.0,12/8/2015,Seyhan, Adana,known man,Other
+653,35.0,11/8/2015,Ümraniye, Istanbul,boyfriend,Woman Decision and Preferences
+654,,10/8/2015,Kayapınar, Diyarbakır,partner,Separation & Jealousy
+655,32.0,9/8/2015,Merkez, Sivas,partner,Unknown
+656,25.0,8/8/2015,Merkez, Balıkesir,partner,Other
+657,30.0,8/8/2015,Kayapınar, Diyarbakır,ex-partner,Other
+658,,7/8/2015,Zeytinburnu, Istanbul,known man,Unknown
+659,35.0,5/8/2015,Kaman, Kırşehir,father-in-law,Other
+660,,31/07/2015,Sur, Diyarbakır,brother,Masculinity&Honor
+661,21.0,31/07/2015,Merkez, Giresun,known man,Woman Decision and Preferences
+662,48.0,31/07/2015,Merkez, Giresun,known man,Woman Decision and Preferences
+663,42.0,30/07/2015,Keçiören, Ankara,partner,Other
+664,17.0,28/07/2015,Konak, İzmir,father,Woman Decision and Preferences
+665,67.0,24/07/2015,Anamur, Mersin,partner,Other
+666,20.0,22/07/2015,Bayraklı, İzmir,partner,Other
+667,26.0,17/07/2015,Merkez, Afyonkarahisar,partner,Unknown
+668,15.0,15/07/2015,Alaşehir, Manisa,father,Unknown
+669,24.0,14/07/2015,Ödemiş, İzmir,boyfriend,Other
+670,,14/07/2015,Merkez, Tekirdağ,boyfriend,Other
+671,32.0,13/07/2015,Ortaköy, Aksaray,relative,Other
+672,60.0,13/07/2015,Ortaköy, Aksaray,partner,Other
+673,31.0,13/07/2015,Ortaköy, Aksaray,partner,Separation & Jealousy
+674,60.0,10/7/2015,Güngören, Istanbul,partner,Unknown
+675,17.0,8/7/2015,Kandıra, Kocaeli,boyfriend,Unknown
+676,36.0,6/7/2015,Merkez, Bilecik,partner,Separation & Jealousy
+677,73.0,3/7/2015,Meram, Konya,son,Other
+678,38.0,3/7/2015,Bafra, Samsun,partner,Other
+679,32.0,2/7/2015,Niksar, Tokat,partner,Unknown
+680,41.0,28/06/2015,Besni, Adıyaman,ex-partner,Other
+681,20.0,27/06/2015,Ermenek, Karaman,ex-partner,Children
+682,43.0,27/06/2015,Ermenek, Karaman,relative,Other
+683,12.0,27/06/2015,Ermenek, Karaman,relative,Other
+684,13.0,27/06/2015,Ermenek, Karaman,relative,Other
+685,41.0,25/06/2015,Seyhan, Adana,partner,Other
+686,35.0,20/06/2015,Çankaya, Ankara,boyfriend,Masculinity&Honor
+687,18.0,18/06/2015,Ortaca, Muğla,known man,Sexual expectation
+688,25.0,18/06/2015,Nizip, Gaziantep,partner,Other
+689,42.0,18/06/2015,Yıldırım, Bursa,boyfriend,Other
+690,75.0,18/06/2015,Yıldırım, Bursa,relative,Other
+691,39.0,18/06/2015,Mamak, Ankara,partner,Other
+692,6.0,16/06/2015,Konyaaltı, Antalya,relative,Unknown
+693,42.0,16/06/2015,Konyaaltı, Antalya,brother,Unknown
+694,24.0,15/06/2015,Kargı, Çorum,partner,Masculinity&Honor
+695,19.0,13/06/2015,Merkez, Malatya,relative,Unknown
+696,35.0,10/6/2015,Merkez, Malatya,partner,Unknown
+697,5.0,10/6/2015,Merkez, Malatya,father,Unknown
+698,47.0,10/6/2015,Gönen, Balıkesir,known man,Woman Decision and Preferences
+699,43.0,9/6/2015,İzmit, Kocaeli,son,Unknown
+700,55.0,7/6/2015,Dörtdivan, Bolu,partner,Separation & Jealousy
+701,18.0,2/6/2015,Kepez, Antalya,partner,Masculinity&Honor
+702,65.0,2/6/2015,Hassa, Hatay,partner,Other
+703,26.0,1/6/2015,Ortaca, Muğla,partner,Household service expectations
+704,23.0,1/6/2015,Bodrum, Muğla,ex-partner,Unknown
+705,33.0,1/6/2015,Saruhanlı, Manisa,relative,Unknown
+706,63.0,27/05/2015,Merkez, Elazığ,partner,Other
+707,19.0,27/05/2015,İzmit, Kocaeli,partner,Separation & Jealousy
+708,39.0,27/05/2015,Milas, Muğla,ex-partner,Separation & Jealousy
+709,33.0,25/05/2015,Merkez, Denizli,partner,Woman Decision and Preferences
+710,54.0,23/05/2015,Merkez, Iğdır,known man,Other
+711,32.0,23/05/2015,Mamak, Ankara,partner,Unknown
+712,39.0,23/05/2015,Merkez, Çorum,boyfriend,Unknown
+713,11.0,23/05/2015,Mamak, Ankara,father,Unknown
+714,19.0,22/05/2015,Hacıbektaş, Nevşehir,brother,Masculinity&Honor
+715,,22/05/2015,Alaca, Çorum,relative,Other
+716,28.0,22/05/2015,Ergani, Diyarbakır,partner,Other
+717,43.0,21/05/2015,Osmangazi, Bursa,known man,Unknown
+718,,18/05/2015,Gölbaşı, Ankara,ex-partner,Unknown
+719,40.0,18/05/2015,Merkez, Kırklareli,ex-partner,Separation & Jealousy
+720,53.0,16/05/2015,Altındağ, Ankara,partner,Unknown
+721,26.0,16/05/2015,Altındağ, Ankara,partner,Unknown
+722,44.0,16/05/2015,Araç, Kastamonu,boyfriend,Unknown
+723,59.0,15/05/2015,Alanya, Antalya,boyfriend,Unknown
+724,41.0,14/05/2015,Esenyurt, Istanbul,partner,Separation & Jealousy
+725,55.0,12/5/2015,Ümraniye, Istanbul,known man,Other
+726,30.0,11/5/2015,Şirvan, Siirt,partner,Unknown
+727,39.0,9/5/2015,Beyoğlu, Istanbul,attacker,Sexual expectation
+728,,9/5/2015,Görele, Giresun,partner,Separation & Jealousy
+729,47.0,9/5/2015,Görele, Giresun,partner,Separation & Jealousy
+730,75.0,9/5/2015,Ayvalık, Balıkesir,partner,Unknown
+731,31.0,7/5/2015,Merkez, Yalova,ex-partner,Separation & Jealousy
+732,32.0,6/5/2015,Selçuklu, Konya,relative,Other
+733,27.0,3/5/2015,Keşan, Edirne,partner,Unknown
+734,63.0,30/04/2015,Elbistan, Kahramanmaraş,attacker,Unknown
+735,27.0,28/04/2015,Mamak, Ankara,partner,Separation & Jealousy
+736,27.0,25/04/2015,Seyhan, Adana,known man,Male service expectations
+737,24.0,23/04/2015,Osmangazi, Bursa,boyfriend,Other
+738,36.0,22/04/2015,Sarıçam, Adana,relative,Other
+739,39.0,21/04/2015,Merkez, Kahramanmaraş,known man,Unknown
+740,21.0,20/04/2015,Soma, Manisa,boyfriend,Separation & Jealousy
+741,27.0,18/04/2015,Samandağ, Hatay,partner,Separation & Jealousy
+742,57.0,17/04/2015,Çukurova, Adana,partner,Masculinity&Honor
+743,42.0,17/04/2015,Sultangazi, Istanbul,ex-partner,Separation & Jealousy
+744,23.0,17/04/2015,Kızıltepe, Mardin,relative,Sexual expectation
+745,21.0,16/04/2015,Bayrampaşa, Istanbul,boyfriend,Other
+746,40.0,11/4/2015,Keçiören, Ankara,partner,Separation & Jealousy
+747,34.0,9/4/2015,Gaziemir, İzmir,partner,Separation & Jealousy
+748,38.0,7/4/2015,Merkez, Uşak,boyfriend,Separation & Jealousy
+749,29.0,7/4/2015,Bahçe, Osmaniye,partner,Unknown
+750,43.0,6/4/2015,Yahşihan, Kırıkkale,known man,Other
+751,32.0,6/4/2015,Şahinbey, Gaziantep,partner,Other
+752,34.0,3/4/2015,Atakum, Samsun,boyfriend,Other
+753,28.0,2/4/2015,Banaz, Uşak,boyfriend,Separation & Jealousy
+754,28.0,1/4/2015,Erdemli, Mersin,partner,Children
+755,34.0,31/03/2015,Akçadağ, Malatya,partner,Separation & Jealousy
+756,77.0,30/03/2015,Kandıra, Kocaeli,partner,Unknown
+757,44.0,27/03/2015,Selçuk, İzmir,partner,Separation & Jealousy
+758,32.0,26/03/2015,Etimesgut, Ankara,boyfriend,Unknown
+759,20.0,26/03/2015,Kartal, Istanbul,boyfriend,Unknown
+760,30.0,23/03/2015,Ilgın, Konya,partner,Separation & Jealousy
+761,43.0,23/03/2015,Çınarcık, Yalova,boyfriend,Other
+762,21.0,21/03/2015,Güngören, Istanbul,ex-partner,Separation & Jealousy
+763,29.0,20/03/2015,Merkez, Sivas,partner,Masculinity&Honor
+764,28.0,19/03/2015,İslahiye, Gaziantep,relative,Sexual expectation
+765,32.0,18/03/2015,Palandöken, Erzurum,boyfriend,Masculinity&Honor
+766,35.0,18/03/2015,Alanya, Antalya,known man,Separation & Jealousy
+767,62.0,17/03/2015,Kayapınar, Diyarbakır,partner,Separation & Jealousy
+768,58.0,17/03/2015,Konak, İzmir,partner,Other
+769,0.0,17/03/2015,Beylikdüzü, Istanbul,father,Other
+770,47.0,17/03/2015,Tarsus, Adana,partner,Other
+771,23.0,17/03/2015,Tarsus, Adana,brother,Woman Decision and Preferences
+772,27.0,13/03/2015,Karabağlar, İzmir,relative,Masculinity&Honor
+773,32.0,7/3/2015,Şehitkâmil, Gaziantep,partner,Unknown
+774,35.0,7/3/2015,Siverek, Şanlıurfa,partner,Masculinity&Honor
+775,32.0,7/3/2015,Esenler, Istanbul,partner,Masculinity&Honor
+776,38.0,5/3/2015,Tire, İzmir,partner,Unknown
+777,20.0,4/3/2015,Konyaaltı, Antalya,boyfriend,Other
+778,30.0,4/3/2015,Seyhan, Adana,relative,Household service expectations
+779,59.0,4/3/2015,Yakutiye, Erzurum,partner,Separation & Jealousy
+780,56.0,25/02/2015,Elbistan, Kahramanmaraş,attacker,Sexual expectation
+781,18.0,24/02/2015,Soma, Manisa,partner,Other
+782,32.0,24/02/2015,Merkez, Kırıkkale,relative,Other
+783,36.0,23/02/2015,Merkez, Denizli,boyfriend,Other
+784,28.0,22/02/2015,Elbistan, Kahramanmaraş,partner,Unknown
+785,5.0,22/02/2015,Elbistan, Kahramanmaraş,father,Unknown
+786,38.0,21/02/2015,Mamak, Ankara,boyfriend,Unknown
+787,23.0,20/02/2015,Muratpaşa, Antalya,boyfriend,Separation & Jealousy
+788,42.0,19/02/2015,Üsküdar, Istanbul,partner,Other
+789,45.0,17/02/2015,Karşıyaka, İzmir,boyfriend,Other
+790,27.0,14/02/2015,Çermik, Diyarbakır,partner,Other
+791,20.0,11/2/2015,Tarsus, Mersin,attacker,Sexual expectation
+792,59.0,10/2/2015,Buca, İzmir,partner,Unknown
+793,32.0,10/2/2015,Buca, İzmir,father,Unknown
+794,35.0,10/2/2015,Buca, İzmir,father,Unknown
+795,45.0,9/2/2015,Fethiye, Muğla,relative,Other
+796,81.0,8/2/2015,Merkez, Karaman,attacker,Sexual expectation
+797,23.0,7/2/2015,Selim, Kars,partner,Unknown
+798,1.0,7/2/2015,Selim, Kars,father,Unknown
+799,30.0,7/2/2015,Beykoz, Istanbul,boyfriend,Other
+800,52.0,5/2/2015,Seyhan, Adana,partner,Other
+801,22.0,4/2/2015,Merkez, Kütahya,boyfriend,Separation & Jealousy
+802,37.0,30/01/2015,Buca, İzmir,attacker,Unknown
+803,,30/01/2015,Bahçelievler, Istanbul,known man,Other
+804,19.0,30/01/2015,Yüreğir, Adana,partner,Other
+805,17.0,29/01/2015,Halfeti, Şanlıurfa,father,Unknown
+806,20.0,29/01/2015,Ümraniye, Istanbul,partner,Other
+807,21.0,26/01/2015,Karabağlar, İzmir,partner,Other
+808,,25/01/2015,Çerkezköy, Tekirdağ,partner,Unknown
+809,,25/01/2015,Altındağ, Ankara,partner,Other
+810,,25/01/2015,Altındağ, Ankara,partner,Other
+811,21.0,22/01/2015,İzmit, Kocaeli,known man,Other
+812,29.0,20/01/2015,Odunpazarı, Eskişehir,partner,Separation & Jealousy
+813,31.0,18/01/2015,Merkez, Bolu,boyfriend,Separation & Jealousy
+814,35.0,17/01/2015,Silifke, Mersin,partner,Unknown
+815,39.0,16/01/2015,Avcılar, Istanbul,partner,Separation & Jealousy
+816,29.0,16/01/2015,Anamur, Mersin,boyfriend,Unknown
+817,71.0,14/01/2015,Altındağ, Ankara,relative,Sexual expectation
+818,28.0,14/01/2015,Eyüp, Istanbul,partner,Separation & Jealousy
+819,21.0,13/01/2015,Merkez, Aksaray,boyfriend,Masculinity&Honor
+820,,13/01/2015,İskenderun, Hatay,partner,Unknown
+821,25.0,12/1/2015,Serik, Antalya,partner,Unknown
+822,51.0,12/1/2015,Toroslar, Mersin,relative,Other
+823,17.0,10/1/2015,İzmit, Kocaeli,boyfriend,Masculinity&Honor
+824,42.0,10/1/2015,İzmit, Kocaeli,relative,Other
+825,59.0,10/1/2015,Edremit, Balıkesir,boyfriend,Other
+826,20.0,9/1/2015,Maltepe, Istanbul,partner,Other
+827,54.0,3/1/2015,Söke, Aydın,attacker,Other
+828,39.0,2/1/2015,Babaeski, Kırklareli,ex-partner,Other
+829,45.0,31/12/2014,Etimesgut, Ankara,son,Other
+830,25.0,31/12/2014,Sancaktepe, Istanbul,partner,Separation & Jealousy
+831,,29/12/2014,Esenyurt, Istanbul,ex-partner,Other
+832,32.0,29/12/2014,Merkez, Van,ex-partner,Unknown
+833,63.0,25/12/2014,Gümüşova, Düzce,partner,Other
+834,3.0,24/12/2014,Seyhan, Adana,father,Unknown
+835,30.0,24/12/2014,Seyhan, Adana,partner,Unknown
+836,0.0,24/12/2014,Seyhan, Adana,father,Unknown
+837,23.0,23/12/2014,Gaziosmanpaşa, Istanbul,known man,Unknown
+838,38.0,23/12/2014,Didim, Aydın,partner,Woman Decision and Preferences
+839,63.0,20/12/2014,Kadıköy, Istanbul,son,Unknown
+840,35.0,19/12/2014,Osmangazi, Bursa,partner,Separation & Jealousy
+841,,19/12/2014,Altındağ, Ankara,relative,Other
+842,25.0,17/12/2014,Aksu, Antalya,ex-partner,Separation & Jealousy
+843,33.0,16/12/2014,Konak, İzmir,partner,Separation & Jealousy
+844,28.0,14/12/2014,Mamak, Ankara,partner,Separation & Jealousy
+845,40.0,14/12/2014,Ilgın, Konya,known man,Woman Decision and Preferences
+846,10.0,14/12/2014,Ilgın, Konya,known man,Woman Decision and Preferences
+847,36.0,12/12/2014,Altınyayla, Burdur,partner,Other
+848,22.0,12/12/2014,Merkez, Karaman,partner,Masculinity&Honor
+849,46.0,11/12/2014,Nazilli, Aydın,partner,Unknown
+850,38.0,11/12/2014,Merkez, Kütahya,boyfriend,Other
+851,20.0,10/12/2014,Erciş, Van,known man,Unknown
+852,42.0,10/12/2014,Toroslar, Mersin,ex-partner,Separation & Jealousy
+853,59.0,8/12/2014,Beypazarı, Ankara,son,Unknown
+854,33.0,8/12/2014,Ardeşen, Rize,known man,Unknown
+855,33.0,7/12/2014,Torbalı, İzmir,brother,Masculinity&Honor
+856,27.0,2/12/2014,Kartepe, Kocaeli,partner,Masculinity&Honor
+857,35.0,1/12/2014,Bağlar, Diyarbakır,partner,Other
+858,41.0,1/12/2014,Karabağlar, İzmir,ex-partner,Other
+859,,1/12/2014,Merkez, Van,partner,Masculinity&Honor
+860,49.0,26/11/2014,Demre, Antalya,known man,Other
+861,29.0,24/11/2014,İpsala, Edirne,boyfriend,Woman Decision and Preferences
+862,17.0,20/11/2014,Melikgazi, Kayseri,boyfriend,Separation & Jealousy
+863,33.0,19/11/2014,Sungurlu, Çorum,partner,Other
+864,17.0,18/11/2014,Merkez, Kastamonu,father,Other
+865,33.0,17/11/2014,İzmit, Kocaeli,partner,Other
+866,20.0,17/11/2014,İzmit, Kocaeli,partner,Other
+867,17.0,14/11/2014,Konak, İzmir,brother,Woman Decision and Preferences
+868,21.0,13/11/2014,Antakya, Hatay,partner,Separation & Jealousy
+869,28.0,13/11/2014,Merkez, Kütahya,ex-partner,Separation & Jealousy
+870,26.0,12/11/2014,Merkez, Uşak,boyfriend,Separation & Jealousy
+871,21.0,12/11/2014,Merkez, Trabzon,boyfriend,Separation & Jealousy
+872,27.0,11/11/2014,Merkez, Bolu,known man,Unknown
+873,37.0,6/11/2014,Kocasinan, Kayseri,partner,Separation & Jealousy
+874,31.0,6/11/2014,Selçuklu, Konya,partner,Unknown
+875,15.0,4/11/2014,Merkez, Ağrı,relative,Other
+876,42.0,3/11/2014,Mezitli, Mersin,ex-partner,Masculinity&Honor
+877,57.0,2/11/2014,Osmangazi, Bursa,partner,Household service expectations
+878,29.0,1/11/2014,Merkez, Karaman,partner,Other
+879,23.0,28/10/2014,Keçiören, Ankara,ex-partner,Separation & Jealousy
+880,52.0,28/10/2014,Görele, Giresun,partner,Unknown
+881,42.0,25/10/2014,Dörtyol, Hatay,known man,Other
+882,39.0,25/10/2014,Merkez, Iğdır,partner,Separation & Jealousy
+883,28.0,23/10/2014,Ümraniye, Istanbul,partner,Separation & Jealousy
+884,31.0,19/10/2014,Gemlik, Bursa,relative,Other
+885,40.0,18/10/2014,Odunpazarı, Eskişehir,partner,Separation & Jealousy
+886,50.0,16/10/2014,Cumayeri, Düzce,partner,Other
+887,18.0,13/10/2014,Silopi, Adana,brother,Masculinity&Honor
+888,27.0,11/10/2014,Dörtyol, Hatay,partner,Male service expectations
+889,32.0,11/10/2014,Nazilli, Aydın,boyfriend,Separation & Jealousy
+890,30.0,11/10/2014,Sancaktepe, Istanbul,son,Unknown
+891,31.0,9/10/2014,Akdeniz, Mersin,boyfriend,Separation & Jealousy
+892,42.0,9/10/2014,Gölcük, Kocaeli,partner,Separation & Jealousy
+893,31.0,8/10/2014,Merkez, Şanlıurfa,relative,Other
+894,39.0,7/10/2014,Çaycuma, Zonguldak,ex-partner,Masculinity&Honor
+895,35.0,7/10/2014,Gölbaşı, Ankara,partner,Separation & Jealousy
+896,20.0,6/10/2014,Derince, Kocaeli,partner,Other
+897,40.0,1/10/2014,İslahiye, Gaziantep,partner,Separation & Jealousy
+898,33.0,1/10/2014,İpsala, Edirne,ex-partner,Separation & Jealousy
+899,28.0,29/09/2014,Çankaya, Ankara,partner,Separation & Jealousy
+900,16.0,27/09/2014,Bağlar, Diyarbakır,partner,Unknown
+901,31.0,26/09/2014,Şahinbey, Gaziantep,boyfriend,Other
+902,44.0,24/09/2014,Sancaktepe, Istanbul,partner,Separation & Jealousy
+903,35.0,23/09/2014,Fatsa, Ordu,partner,Other
+904,33.0,19/09/2014,Yenimahalle, Ankara,known man,Separation & Jealousy
+905,,19/09/2014,Büyükçekmece, Istanbul,partner,Unknown
+906,18.0,18/09/2014,Merkez, Şanlıurfa,father,Masculinity&Honor
+907,39.0,17/09/2014,Fatih, Istanbul,attacker,Sexual expectation
+908,38.0,15/09/2014,Tepebaşı, Eskişehir,partner,Other
+909,34.0,13/09/2014,Ümraniye, Istanbul,boyfriend,Other
+910,19.0,11/9/2014,Seyhan, Adana,partner,Separation & Jealousy
+911,55.0,9/9/2014,Kırkağaç, Manisa,relative,Other
+912,45.0,9/9/2014,Çekmeköy, Istanbul,known man,Woman Decision and Preferences
+913,,8/9/2014,Bulanık, Muş,partner,Other
+914,20.0,8/9/2014,Mezitli, Mersin,boyfriend,Other
+915,44.0,7/9/2014,Yüreğir, Adana,partner,Separation & Jealousy
+916,42.0,3/9/2014,Karabağlar, İzmir,ex-partner,Separation & Jealousy
+917,26.0,3/9/2014,Şahinbey, Gaziantep,brother,Masculinity&Honor
+918,20.0,2/9/2014,Şiran, Gümüşhane,relative,Separation & Jealousy
+919,27.0,1/9/2014,Merkez, Denizli,known man,Unknown
+920,39.0,30/08/2014,Buca, İzmir,known man,Woman Decision and Preferences
+921,17.0,30/08/2014,Elbistan, Kahramanmaraş,boyfriend,Unknown
+922,14.0,26/08/2014,Muratpaşa, Antalya,relative,Other
+923,45.0,25/08/2014,Şahinbey, Gaziantep,partner,Other
+924,29.0,24/08/2014,Battalgazi, Malatya,partner,Other
+925,37.0,24/08/2014,Merkez, Tunceli,partner,Other
+926,43.0,20/08/2014,Osmangazi, Bursa,relative,Woman Decision and Preferences
+927,40.0,17/08/2014,Çankaya, Ankara,ex-partner,Unknown
+928,55.0,15/08/2014,Pursaklar, Ankara,partner,Sexual expectation
+929,23.0,15/08/2014,Küçükçekmece, Istanbul,known man,Masculinity&Honor
+930,19.0,15/08/2014,Küçükçekmece, Istanbul,boyfriend,Masculinity&Honor
+931,69.0,14/08/2014,Keşap, Giresun,brother,Other
+932,74.0,14/08/2014,Keşap, Giresun,brother,Other
+933,36.0,13/08/2014,Merkez, Uşak,boyfriend,Other
+934,56.0,12/8/2014,Arsin, Trabzon,partner,Children
+935,26.0,10/8/2014,Ümraniye, Istanbul,known man,Unknown
+936,30.0,8/8/2014,Kozluk, Batman,known man,Separation & Jealousy
+937,18.0,8/8/2014,Merkez, Şanlıurfa,brother,Masculinity&Honor
+938,50.0,8/8/2014,Kozluk, Batman,known man,Separation & Jealousy
+939,15.0,8/8/2014,Kozluk, Batman,known man,Separation & Jealousy
+940,18.0,8/8/2014,Kozluk, Batman,known man,Separation & Jealousy
+941,47.0,2/8/2014,Avcılar, Istanbul,partner,Children
+942,27.0,1/8/2014,Karabağlar, İzmir,boyfriend,Other
+943,26.0,28/07/2014,Bağcılar, Istanbul,partner,Separation & Jealousy
+944,37.0,26/07/2014,Buldan, Denizli,partner,Separation & Jealousy
+945,49.0,25/07/2014,Çukurova, Adana,partner,Other
+946,37.0,24/07/2014,Silivri, Istanbul,partner,Unknown
+947,34.0,23/07/2014,Gölcük, Kocaeli,boyfriend,Unknown
+948,24.0,22/07/2014,İmamoğlu, Adana,partner,Separation & Jealousy
+949,50.0,22/07/2014,Alanya, Antalya,known man,Unknown
+950,40.0,19/07/2014,Başakşehir, Istanbul,partner,Other
+951,63.0,15/07/2014,Merkez, Kırıkkale,partner,Masculinity&Honor
+952,24.0,14/07/2014,Sultangazi, Istanbul,partner,Other
+953,38.0,13/07/2014,Muratpaşa, Antalya,ex-partner,Masculinity&Honor
+954,20.0,10/7/2014,Avcılar, Istanbul,boyfriend,Other
+955,19.0,9/7/2014,Arifiye, Sakarya,boyfriend,Masculinity&Honor
+956,21.0,8/7/2014,Merkez, Çanakkale,partner,Separation & Jealousy
+957,25.0,8/7/2014,Menderes, İzmir,partner,Unknown
+958,56.0,6/7/2014,Kestel, Bursa,son,Other
+959,29.0,6/7/2014,Çankaya, Ankara,father,Masculinity&Honor
+960,20.0,4/7/2014,Merkez, Şanlıurfa,brother,Masculinity&Honor
+961,36.0,3/7/2014,Sancaktepe, Istanbul,partner,Separation & Jealousy
+962,27.0,3/7/2014,Bornova, İzmir,partner,Other
+963,34.0,3/7/2014,Seyhan, Adana,partner,Unknown
+964,74.0,2/7/2014,Yakutiye, Erzurum,partner,Masculinity&Honor
+965,18.0,2/7/2014,Bağcılar, Istanbul,partner,Unknown
+966,33.0,1/7/2014,Bafra, Samsun,partner,Masculinity&Honor
+967,,1/7/2014,Çankaya, Ankara,known man,Other
+968,31.0,1/7/2014,Bozüyük, Bilecik,ex-partner,Other
+969,50.0,1/7/2014,Marmaris, Muğla,boyfriend,Unknown
+970,,1/7/2014,Çankaya, Ankara,ex-partner,Separation & Jealousy
+971,74.0,26/06/2014,Merkez, Sivas,partner,Other
+972,54.0,24/06/2014,Odunpazarı, Eskişehir,partner,Other
+973,38.0,19/06/2014,Çorlu, Tekirdağ,partner,Unknown
+974,,19/06/2014,Karaçoban, Erzurum,partner,Separation & Jealousy
+975,40.0,18/06/2014,Çeşme, İzmir,partner,Other
+976,48.0,16/06/2014,Esenler, Istanbul,partner,Unknown
+977,14.0,16/06/2014,Esenler, Istanbul,father,Unknown
+978,29.0,16/06/2014,Sarıyer, Istanbul,boyfriend,Other
+979,37.0,13/06/2014,Sancaktepe, Istanbul,partner,Unknown
+980,30.0,9/6/2014,Uludere, Şırnak,partner,Other
+981,24.0,8/6/2014,Doğubayazıt, Ağrı,known man,Sexual expectation
+982,24.0,7/6/2014,Beyoğlu, Istanbul,brother,Woman Decision and Preferences
+983,22.0,6/6/2014,Gölhisar, Burdur,relative,Other
+984,84.0,4/6/2014,Odunpazarı, Eskişehir,known man,Other
+985,34.0,31/05/2014,Sarıçam, Adana,partner,Separation & Jealousy
+986,33.0,30/05/2014,Merkez, Karaman,partner,Other
+987,23.0,30/05/2014,Şahinbey, Gaziantep,brother,Other
+988,25.0,30/05/2014,Şahinbey, Gaziantep,brother,Other
+989,33.0,30/05/2014,Şahinbey, Gaziantep,partner,Separation & Jealousy
+990,30.0,28/05/2014,Karaçoban, Erzurum,partner,Woman Decision and Preferences
+991,22.0,27/05/2014,Merkez, Manisa,partner,Unknown
+992,37.0,24/05/2014,Çekmeköy, Istanbul,partner,Separation & Jealousy
+993,17.0,22/05/2014,Esenler, Istanbul,relative,Unknown
+994,45.0,22/05/2014,Esenler, Istanbul,partner,Unknown
+995,17.0,22/05/2014,Esenler, Istanbul,relative,Unknown
+996,24.0,20/05/2014,Sungurlu, Çorum,ex-partner,Separation & Jealousy
+997,63.0,17/05/2014,Kadirli, Osmaniye,partner,Unknown
+998,23.0,13/05/2014,Küçükçekmece, Istanbul,boyfriend,Other
+999,8.0,10/5/2014,Belen, Hatay,father,Other
+1000,28.0,10/5/2014,Belen, Hatay,partner,Other
+1001,43.0,10/5/2014,Belen, Hatay,boyfriend,Other
+1002,21.0,8/5/2014,Meram, Konya,relative,Other
+1003,19.0,8/5/2014,Meram, Konya,partner,Other
+1004,26.0,6/5/2014,Kavaklıdere, Muğla,boyfriend,Masculinity&Honor
+1005,37.0,4/5/2014,Karayazı, Erzurum,father-in-law,Unknown
+1006,27.0,4/5/2014,Merkez, Amasya,partner,Children
+1007,37.0,3/5/2014,Bağcılar, Istanbul,partner,Other
+1008,33.0,2/5/2014,Boğazlıyan, Yozgat,partner,Separation & Jealousy
+1009,33.0,29/04/2014,Kadıköy, Istanbul,partner,Separation & Jealousy
+1010,28.0,26/04/2014,Şehitkâmil, Gaziantep,partner,Unknown
+1011,31.0,26/04/2014,Meram, Konya,ex-partner,Separation & Jealousy
+1012,44.0,23/04/2014,Yüreğir, Adana,partner,Other
+1013,15.0,23/04/2014,Yüreğir, Adana,father,Other
+1014,18.0,22/04/2014,Turhal, Tokat,boyfriend,Unknown
+1015,41.0,22/04/2014,Odunpazarı, Eskişehir,ex-partner,Separation & Jealousy
+1016,25.0,21/04/2014,Beyoğlu, Istanbul,attacker,Woman Decision and Preferences
+1017,41.0,20/04/2014,İskenderun, Hatay,partner,Unknown
+1018,42.0,20/04/2014,Kartepe, Kocaeli,ex-partner,Unknown
+1019,20.0,17/04/2014,Bayraklı, İzmir,known man,Other
+1020,35.0,16/04/2014,Bakırköy, Istanbul,attacker,Other
+1021,58.0,16/04/2014,Bakırköy, Istanbul,attacker,Other
+1022,25.0,14/04/2014,Altındağ, Ankara,partner,Unknown
+1023,42.0,12/4/2014,Merkez, Denizli,partner,Separation & Jealousy
+1024,28.0,9/4/2014,Osmangazi, Bursa,boyfriend,Unknown
+1025,34.0,8/4/2014,Edremit, Balıkesir,partner,Other
+1026,53.0,8/4/2014,Hekimhan, Malatya,partner,Masculinity&Honor
+1027,28.0,8/4/2014,Ereğli, Zonguldak,partner,Unknown
+1028,49.0,8/4/2014,Ereğli, Zonguldak,partner,Unknown
+1029,39.0,7/4/2014,Bodrum, Muğla,partner,Separation & Jealousy
+1030,46.0,6/4/2014,Çukurova, Adana,partner,Separation & Jealousy
+1031,23.0,5/4/2014,Melikgazi, Kayseri,partner,Woman Decision and Preferences
+1032,35.0,5/4/2014,Şahinbey, Gaziantep,partner,Separation & Jealousy
+1033,47.0,5/4/2014,Tarsus, Mersin,partner,Children
+1034,52.0,4/4/2014,Merkez, Çorum,partner,Other
+1035,21.0,1/4/2014,Merkez, Edirne,boyfriend,Unknown
+1036,30.0,31/03/2014,Fethiye, Muğla,partner,Woman Decision and Preferences
+1037,33.0,31/03/2014,Mustafakemalpaşa, Bursa,partner,Separation & Jealousy
+1038,61.0,29/03/2014,Merkez, Batman,partner,Other
+1039,48.0,28/03/2014,Şehitkâmil, Gaziantep,partner,Other
+1040,30.0,26/03/2014,Merkez, Ordu,partner,Separation & Jealousy
+1041,22.0,25/03/2014,Merkez, Kahramanmaraş,boyfriend,Woman Decision and Preferences
+1042,40.0,24/03/2014,Ereğli, Konya,relative,Unknown
+1043,18.0,19/03/2014,Sinanpaşa, Afyonkarahisar,partner,Separation & Jealousy
+1044,15.0,19/03/2014,Sinanpaşa, Afyonkarahisar,relative,Other
+1045,33.0,17/03/2014,Karasu, Sakarya,relative,Other
+1046,32.0,15/03/2014,Alanya, Antalya,partner,Other
+1047,43.0,12/3/2014,Şişli, Istanbul,son,Masculinity&Honor
+1048,41.0,11/3/2014,Merkez, Elazığ,relative,Children
+1049,0.0,10/3/2014,Fethiye, Muğla,father,Fight
+1050,35.0,10/3/2014,Fethiye, Muğla,partner,Fight
+1051,21.0,7/3/2014,Fatih, Istanbul,ex-partner,Separation & Jealousy
+1052,34.0,6/3/2014,Tarsus, Mersin,relative,Other
+1053,42.0,5/3/2014,Şişli, Istanbul,son,Other
+1054,21.0,5/3/2014,Zeytinburnu, Istanbul,partner,Other
+1055,34.0,5/3/2014,Erzin, Hatay,partner,Other
+1056,30.0,4/3/2014,Melikgazi, Kayseri,partner,Unknown
+1057,1.0,4/3/2014,Melikgazi, Kayseri,father,Unknown
+1058,58.0,4/3/2014,Yıldırım, Bursa,partner,Woman Decision and Preferences
+1059,33.0,2/3/2014,Bozkır, Konya,partner,Other
+1060,18.0,25/02/2014,Merkez, Yozgat,boyfriend,Unknown
+1061,33.0,25/02/2014,Alanya, Antalya,boyfriend,Separation & Jealousy
+1062,42.0,25/02/2014,Sarıyer, Istanbul,father-in-law,Woman Decision and Preferences
+1063,75.0,23/02/2014,Narlıdere, İzmir,attacker,Other
+1064,70.0,22/02/2014,Tarsus, Mersin,partner,Unknown
+1065,39.0,22/02/2014,Çaycuma, Zonguldak,partner,Separation & Jealousy
+1066,59.0,22/02/2014,Çaycuma, Zonguldak,partner,Separation & Jealousy
+1067,28.0,18/02/2014,Şahinbey, Gaziantep,boyfriend,Unknown
+1068,24.0,17/02/2014,Tire, İzmir,partner,Separation & Jealousy
+1069,26.0,15/02/2014,Tarsus, Mersin,known man,Unknown
+1070,40.0,11/2/2014,Avcılar, Istanbul,boyfriend,Other
+1071,25.0,6/2/2014,Almus, Tokat,partner,Separation & Jealousy
+1072,34.0,4/2/2014,Şehitkâmil, Gaziantep,boyfriend,Other
+1073,42.0,4/2/2014,Gercüş, Batman,partner,Unknown
+1074,19.0,31/01/2014,Viranşehir, Şanlıurfa,relative,Masculinity&Honor
+1075,43.0,29/01/2014,Muratpaşa, Antalya,partner,Unknown
+1076,74.0,28/01/2014,Balçova, İzmir,relative,Unknown
+1077,34.0,27/01/2014,Karatay, Konya,known man,Separation & Jealousy
+1078,33.0,24/01/2014,Kayapınar, Diyarbakır,partner,Male service expectations
+1079,54.0,24/01/2014,İskenderun, Hatay,partner,Children
+1080,48.0,22/01/2014,Merkez, Aydın,partner,Separation & Jealousy
+1081,17.0,22/01/2014,Başakşehir, Istanbul,brother,Masculinity&Honor
+1082,47.0,18/01/2014,Akhisar, Manisa,partner,Separation & Jealousy
+1083,37.0,16/01/2014,Mucur, Kırşehir,ex-partner,Other
+1084,42.0,15/01/2014,Bağcılar, Istanbul,partner,Separation & Jealousy
+1085,36.0,15/01/2014,Merkez, Kars,partner,Separation & Jealousy
+1086,42.0,13/01/2014,Merkez, Balıkesir,partner,Other
+1087,33.0,13/01/2014,Tarsus, Mersin,partner,Separation & Jealousy
+1088,28.0,13/01/2014,Didim, Aydın,ex-partner,Masculinity&Honor
+1089,24.0,11/1/2014,Ergani, Diyarbakır,brother,Masculinity&Honor
+1090,32.0,11/1/2014,Merkez, Şanlıurfa,partner,Other
+1091,45.0,8/1/2014,Merkez, Şanlıurfa,partner,Unknown
+1092,28.0,2/1/2014,Şişli, Istanbul,known man,Separation & Jealousy
+1093,30.0,2/1/2014,Ceyhan, Adana,ex-partner,Separation & Jealousy
+1094,51.0,2/1/2014,Karatay, Konya,partner,Separation & Jealousy
+1095,76.0,31/12/2013,Uzunköprü, Edirne,son,Unknown
+1096,67.0,31/12/2013,Yalvaç, Isparta,partner,Woman Decision and Preferences
+1097,29.0,30/12/2013,Daday, Kastamonu,partner,Other
+1098,41.0,30/12/2013,Çiçekdağı, Kırşehir,partner,Unknown
+1099,39.0,29/12/2013,Adapazarı, Sakarya,partner,Other
+1100,21.0,29/12/2013,Çukurova, Adana,partner,Separation & Jealousy
+1101,31.0,27/12/2013,Zeytinburnu, Istanbul,known man,Separation & Jealousy
+1102,19.0,26/12/2013,Toroslar, Mersin,partner,Separation & Jealousy
+1103,37.0,26/12/2013,Muratpaşa, Antalya,boyfriend,Other
+1104,27.0,23/12/2013,Merkez, Uşak,ex-partner,Separation & Jealousy
+1105,35.0,22/12/2013,Osmangazi, Bursa,boyfriend,Masculinity&Honor
+1106,15.0,19/12/2013,Bozkır, Konya,father,Masculinity&Honor
+1107,38.0,16/12/2013,Buca, İzmir,ex-partner,Other
+1108,28.0,16/12/2013,Çınarcık, Yalova,partner,Separation & Jealousy
+1109,42.0,16/12/2013,Merkez, Çorum,partner,Other
+1110,51.0,15/12/2013,Serik, Antalya,partner,Other
+1111,20.0,15/12/2013,Serik, Antalya,partner,Separation & Jealousy
+1112,58.0,11/12/2013,Esenyurt, Istanbul,partner,Male service expectations
+1113,23.0,10/12/2013,Merkez, Çorum,ex-partner,Separation & Jealousy
+1114,33.0,7/12/2013,Yakutiye, Erzurum,known man,Sexual expectation
+1115,39.0,6/12/2013,Bağcılar, Istanbul,partner,Separation & Jealousy
+1116,26.0,1/12/2013,Ümraniye, Istanbul,relative,Unknown
+1117,35.0,30/11/2013,Seyhan, Adana,partner,Separation & Jealousy
+1118,36.0,29/11/2013,Şahinbey, Gaziantep,partner,Separation & Jealousy
+1119,35.0,29/11/2013,Edremit, Balıkesir,partner,Unknown
+1120,80.0,27/11/2013,Çavdarhisar, Kütahya,partner,Other
+1121,46.0,25/11/2013,Gönen, Balıkesir,partner,Unknown
+1122,17.0,25/11/2013,Yenişehir, Diyarbakır,partner,Other
+1123,25.0,24/11/2013,Çukurova, Adana,partner,Other
+1124,19.0,20/11/2013,Şile, Istanbul,father-in-law,Masculinity&Honor
+1125,33.0,18/11/2013,Derince, Kocaeli,partner,Separation & Jealousy
+1126,37.0,17/11/2013,Hekimhan, Malatya,known man,Woman Decision and Preferences
+1127,52.0,17/11/2013,Hekimhan, Malatya,known man,Woman Decision and Preferences
+1128,,15/11/2013,Küçükçekmece, Istanbul,partner,Separation & Jealousy
+1129,28.0,14/11/2013,Sivrice, Elazığ,ex-partner,Separation & Jealousy
+1130,45.0,12/11/2013,Merkez, Kırıkkale,partner,Woman Decision and Preferences
+1131,20.0,6/11/2013,Tuzla, Istanbul,father,Other
+1132,25.0,6/11/2013,Bismil, Diyarbakır,relative,Household service expectations
+1133,54.0,6/11/2013,Tuzla, Istanbul,partner,Other
+1134,18.0,6/11/2013,Tuzla, Istanbul,father,Other
+1135,39.0,5/11/2013,Develi, Kayseri,ex-partner,Unknown
+1136,46.0,4/11/2013,Haymana, Ankara,partner,Separation & Jealousy
+1137,39.0,31/10/2013,Altındağ, Ankara,boyfriend,Other
+1138,37.0,28/10/2013,Çine, Aydın,partner,Other
+1139,23.0,27/10/2013,Kemalpaşa, İzmir,ex-partner,Separation & Jealousy
+1140,32.0,27/10/2013,Şahinbey, Gaziantep,partner,Other
+1141,31.0,26/10/2013,Osmangazi, Bursa,partner,Separation & Jealousy
+1142,23.0,26/10/2013,Silifke, Mersin,boyfriend,Separation & Jealousy
+1143,40.0,24/10/2013,Mamak, Ankara,partner,Separation & Jealousy
+1144,21.0,23/10/2013,Cizre, Şırnak,partner,Separation & Jealousy
+1145,39.0,23/10/2013,Merkez, Uşak,partner,Separation & Jealousy
+1146,20.0,21/10/2013,Merkez, Iğdır,father,Masculinity&Honor
+1147,4.0,21/10/2013,Merkez, Iğdır,relative,Masculinity&Honor
+1148,50.0,21/10/2013,Merkez, Iğdır,relative,Masculinity&Honor
+1149,22.0,18/10/2013,Selçuklu, Konya,boyfriend,Other
+1150,45.0,16/10/2013,Fatsa, Ordu,partner,Separation & Jealousy
+1151,33.0,15/10/2013,Merkez, Batman,ex-partner,Separation & Jealousy
+1152,46.0,14/10/2013,Kocasinan, Kayseri,boyfriend,Woman Decision and Preferences
+1153,19.0,13/10/2013,Merkez, Denizli,partner,Woman Decision and Preferences
+1154,26.0,13/10/2013,Bağlar, Diyarbakır,brother,Masculinity&Honor
+1155,60.0,13/10/2013,Bağlar, Diyarbakır,son,Masculinity&Honor
+1156,27.0,12/10/2013,Ereğli, Zonguldak,relative,Other
+1157,59.0,7/10/2013,Merkez, Batman,known man,Unknown
+1158,18.0,4/10/2013,Şehitkâmil, Gaziantep,father,Masculinity&Honor
+1159,36.0,3/10/2013,Merkez, Sivas,partner,Separation & Jealousy
+1160,44.0,30/09/2013,Esenyurt, Istanbul,partner,Separation & Jealousy
+1161,23.0,28/09/2013,Merkez, Elazığ,partner,Other
+1162,42.0,28/09/2013,Merkez, Elazığ,partner,Other
+1163,,28/09/2013,Silvan, Diyarbakır,partner,Unknown
+1164,32.0,27/09/2013,Bafra, Samsun,relative,Other
+1165,20.0,25/09/2013,Kadirli, Osmaniye,father,Masculinity&Honor
+1166,39.0,25/09/2013,Kemer, Antalya,relative,Unknown
+1167,35.0,23/09/2013,Karabağlar, İzmir,partner,Other
+1168,27.0,20/09/2013,Merkez, Mardin,attacker,Other
+1169,38.0,20/09/2013,Merkez, Mardin,attacker,Other
+1170,11.0,20/09/2013,Merkez, Mardin,attacker,Other
+1171,46.0,19/09/2013,İslahiye, Gaziantep,father,Unknown
+1172,36.0,19/09/2013,Bağlar, Diyarbakır,partner,Separation & Jealousy
+1173,26.0,16/09/2013,Etimesgut, Ankara,known man,Other
+1174,26.0,15/09/2013,Ula, Muğla,partner,Separation & Jealousy
+1175,16.0,14/09/2013,Merkez, Zonguldak,father,Fight
+1176,22.0,13/09/2013,Merkez, Nevşehir,attacker,Sexual expectation
+1177,20.0,10/9/2013,Ağlasun, Burdur,ex-partner,Other
+1178,61.0,10/9/2013,Kozan, Adana,relative,Other
+1179,40.0,10/9/2013,Ağlasun, Burdur,relative,Other
+1180,16.0,9/9/2013,Mudanya, Bursa,boyfriend,Separation & Jealousy
+1181,56.0,9/9/2013,Ortaca, Muğla,boyfriend,Separation & Jealousy
+1182,69.0,8/9/2013,Merkez, Aksaray,son,Other
+1183,21.0,7/9/2013,Ereğli, Zonguldak,ex-partner,Masculinity&Honor
+1184,50.0,2/9/2013,Karşıyaka, İzmir,known man,Male service expectations
+1185,3.0,1/9/2013,Halfeti, Şanlıurfa,father,Unknown
+1186,64.0,1/9/2013,Küçükçekmece, Istanbul,ex-partner,Other
+1187,25.0,1/9/2013,Şişli, Istanbul,boyfriend,Separation & Jealousy
+1188,25.0,1/9/2013,Halfeti, Şanlıurfa,partner,Unknown
+1189,63.0,29/08/2013,Erdemli, Mersin,partner,Unknown
+1190,36.0,28/08/2013,Kayapınar, Diyarbakır,partner,Separation & Jealousy
+1191,19.0,27/08/2013,Ortaköy, Aksaray,partner,Other
+1192,36.0,26/08/2013,Yapraklı, Çankırı,partner,Other
+1193,30.0,26/08/2013,Döşemealtı, Antalya,boyfriend,Other
+1194,31.0,25/08/2013,Çayırova, Kocaeli,boyfriend,Masculinity&Honor
+1195,67.0,24/08/2013,Samsat, Adıyaman,partner,Other
+1196,30.0,21/08/2013,Bağlar, Diyarbakır,known man,Separation & Jealousy
+1197,37.0,21/08/2013,Fatih, Istanbul,brother,Masculinity&Honor
+1198,37.0,21/08/2013,Bağlar, Diyarbakır,known man,Woman Decision and Preferences
+1199,8.0,17/08/2013,Merkez, Afyonkarahisar,attacker,Unknown
+1200,37.0,16/08/2013,Tire, İzmir,boyfriend,Masculinity&Honor
+1201,74.0,15/08/2013,Büyükçekmece, Istanbul,attacker,Other
+1202,17.0,14/08/2013,Kağıthane, Istanbul,partner,Separation & Jealousy
+1203,33.0,14/08/2013,Merkez, Erzincan,partner,Woman Decision and Preferences
+1204,41.0,14/08/2013,Kağıthane, Istanbul,partner,Other
+1205,22.0,14/08/2013,Karaburun, İzmir,partner,Separation & Jealousy
+1206,44.0,13/08/2013,Fatsa, Ordu,partner,Unknown
+1207,73.0,12/8/2013,Sultanbeyli, Istanbul,partner,Other
+1208,47.0,11/8/2013,Salıpazarı, Samsun,partner,Other
+1209,36.0,10/8/2013,Beyoğlu, Istanbul,partner,Other
+1210,22.0,8/8/2013,Hamur, Ağrı,partner,Separation & Jealousy
+1211,26.0,7/8/2013,Muratpaşa, Antalya,ex-partner,Unknown
+1212,56.0,5/8/2013,Merkez, Iğdır,partner,Unknown
+1213,41.0,2/8/2013,Merkez, Erzincan,known man,Unknown
+1214,44.0,1/8/2013,Çeşme, İzmir,boyfriend,Masculinity&Honor
+1215,44.0,29/07/2013,Menderes, İzmir,attacker,Sexual expectation
+1216,27.0,21/07/2013,Seyhan, Adana,partner,Separation & Jealousy
+1217,25.0,17/07/2013,Merkez, Uşak,ex-partner,Separation & Jealousy
+1218,47.0,17/07/2013,İzmit, Kocaeli,partner,Other
+1219,27.0,16/07/2013,Söke, Aydın,ex-partner,Other
+1220,23.0,15/07/2013,Merkez, Batman,partner,Other
+1221,32.0,11/7/2013,Bodrum, Muğla,ex-partner,Separation & Jealousy
+1222,24.0,11/7/2013,Kuşadası, Aydın,known man,Unknown
+1223,39.0,9/7/2013,Dinar, Afyonkarahisar,partner,Unknown
+1224,35.0,2/7/2013,Manavgat, Antalya,partner,Masculinity&Honor
+1225,31.0,28/06/2013,Beşiktaş, Istanbul,partner,Separation & Jealousy
+1226,18.0,26/06/2013,Doğubayazıt, Ağrı,partner,Masculinity&Honor
+1227,54.0,25/06/2013,Gölcük, Kocaeli,partner,Unknown
+1228,15.0,25/06/2013,Seydişehir, Konya,father,Other
+1229,36.0,25/06/2013,Seydişehir, Konya,partner,Other
+1230,49.0,24/06/2013,Akşehir, Konya,partner,Separation & Jealousy
+1231,53.0,18/06/2013,Bayrampaşa, Istanbul,partner,Separation & Jealousy
+1232,32.0,16/06/2013,Şehitkâmil, Gaziantep,partner,Other
+1233,39.0,11/6/2013,Kuşadası, Aydın,ex-partner,Separation & Jealousy
+1234,21.0,6/6/2013,Bağlar, Diyarbakır,partner,Separation & Jealousy
+1235,39.0,5/6/2013,Merkez, Iğdır,partner,Masculinity&Honor
+1236,37.0,4/6/2013,Merkez, Uşak,partner,Other
+1237,14.0,3/6/2013,Karayazı, Erzurum,brother,Masculinity&Honor
+1238,25.0,2/6/2013,Merkez, Düzce,partner,Separation & Jealousy
+1239,68.0,31/05/2013,Malkara, Tekirdağ,attacker,Other
+1240,22.0,30/05/2013,Merkez, Denizli,brother,Masculinity&Honor
+1241,39.0,28/05/2013,Merkez, Aydın,partner,Other
+1242,35.0,26/05/2013,Adapazarı, Sakarya,known man,Other
+1243,18.0,26/05/2013,Adapazarı, Sakarya,known man,Separation & Jealousy
+1244,41.0,23/05/2013,Bornova, İzmir,partner,Other
+1245,38.0,22/05/2013,Yenimahalle, Ankara,partner,Woman Decision and Preferences
+1246,37.0,20/05/2013,Buca, İzmir,ex-partner,Separation & Jealousy
+1247,24.0,15/05/2013,Beyoğlu, Istanbul,ex-partner,Separation & Jealousy
+1248,24.0,10/5/2013,İskilip, Çorum,ex-partner,Separation & Jealousy
+1249,19.0,8/5/2013,Şahinbey, Gaziantep,boyfriend,Masculinity&Honor
+1250,16.0,3/5/2013,Akdeniz, Mersin,relative,Masculinity&Honor
+1251,19.0,30/04/2013,Kozluk, Batman,partner,Other
+1252,39.0,30/04/2013,Kağıthane, Istanbul,known man,Unknown
+1253,,29/04/2013,Merkez, Düzce,partner,Other
+1254,35.0,27/04/2013,Ürgüp, Nevşehir,ex-partner,Separation & Jealousy
+1255,47.0,27/04/2013,Kestel, Bursa,ex-partner,Other
+1256,19.0,19/04/2013,Bayraklı, İzmir,partner,Masculinity&Honor
+1257,26.0,17/04/2013,Akdeniz, Mersin,partner,Other
+1258,32.0,13/04/2013,Merkez, Manisa,partner,Separation & Jealousy
+1259,68.0,11/4/2013,Altındağ, Ankara,partner,Separation & Jealousy
+1260,29.0,10/4/2013,Kadirli, Osmaniye,partner,Other
+1261,33.0,9/4/2013,Kızıltepe, Mardin,brother,Woman Decision and Preferences
+1262,48.0,9/4/2013,Ereğli, Konya,partner,Other
+1263,36.0,8/4/2013,Karşıyaka, İzmir,ex-partner,Masculinity&Honor
+1264,33.0,8/4/2013,Manavgat, Antalya,relative,Other
+1265,37.0,8/4/2013,Manavgat, Antalya,ex-partner,Separation & Jealousy
+1266,49.0,2/4/2013,Çal, Denizli,partner,Other
+1267,38.0,28/03/2013,Merkez, Edirne,partner,Separation & Jealousy
+1268,34.0,26/03/2013,Yenimahalle, Ankara,partner,Separation & Jealousy
+1269,,18/03/2013,Keçiören, Ankara,partner,Separation & Jealousy
+1270,30.0,17/03/2013,Güngören, Istanbul,ex-partner,Separation & Jealousy
+1271,48.0,17/03/2013,Güngören, Istanbul,relative,Other
+1272,39.0,15/03/2013,Kemer, Antalya,boyfriend,Other
+1273,39.0,10/3/2013,Dalaman, Muğla,partner,Separation & Jealousy
+1274,38.0,8/3/2013,Turgutlu, Manisa,partner,Masculinity&Honor
+1275,41.0,5/3/2013,Darıca, Kocaeli,brother,Masculinity&Honor
+1276,64.0,4/3/2013,Bornova, İzmir,partner,Other
+1277,31.0,1/3/2013,Dörtyol, Hatay,ex-partner,Unknown
+1278,0.0,1/3/2013,Dörtyol, Hatay,relative,Unknown
+1279,60.0,1/3/2013,Şehitkâmil, Gaziantep,partner,Other
+1280,57.0,27/02/2013,Sarıyer, Istanbul,relative,Other
+1281,25.0,25/02/2013,Karabağlar, İzmir,partner,Separation & Jealousy
+1282,19.0,5/2/2013,Merkez, Adıyaman,boyfriend,Woman Decision and Preferences
+1283,28.0,4/2/2013,Bergama, İzmir,partner,Separation & Jealousy
+1284,44.0,4/2/2013,Esenyurt, Istanbul,boyfriend,Unknown
+1285,21.0,3/2/2013,Çarşamba, Samsun,partner,Separation & Jealousy
+1286,60.0,30/01/2013,Seyhan, Adana,partner,Unknown
+1287,31.0,30/01/2013,Seyhan, Adana,father,Unknown
+1288,48.0,30/01/2013,Sivaslı, Uşak,ex-partner,Unknown
+1289,32.0,22/01/2013,Merkez, Denizli,son,Masculinity&Honor
+1290,28.0,22/01/2013,Kulu, Konya,partner,Masculinity&Honor
+1291,25.0,22/01/2013,Gebze, Kocaeli,partner,Separation & Jealousy
+1292,36.0,22/01/2013,Gebze, Kocaeli,partner,Unknown
+1293,33.0,21/01/2013,Fatih, Istanbul,attacker,Sexual expectation
+1294,31.0,19/01/2013,Canik, Samsun,boyfriend,Unknown
+1295,36.0,17/01/2013,Erciş, Van,partner,Unknown
+1296,32.0,17/01/2013,Ödemiş, İzmir,boyfriend,Other
+1297,25.0,16/01/2013,İzmit, Kocaeli,partner,Other
+1298,34.0,15/01/2013,Etimesgut, Ankara,partner,Separation & Jealousy
+1299,25.0,15/01/2013,Nizip, Gaziantep,partner,Separation & Jealousy
+1300,54.0,15/01/2013,Nizip, Gaziantep,partner,Other
+1301,56.0,13/01/2013,Meram, Konya,son,Other
+1302,28.0,7/1/2013,Doğanşehir, Malatya,partner,Separation & Jealousy
+1303,25.0,2/1/2013,Eyüp, Istanbul,ex-partner,Separation & Jealousy
+1304,33.0,31/12/2012,Avcılar, Istanbul,partner,Separation & Jealousy
+1305,17.0,29/12/2012,Kayapınar, Diyarbakır,partner,Unknown
+1306,15.0,28/12/2012,Kozluk, Batman,relative,Sexual expectation
+1307,33.0,23/12/2012,Damal, Ardahan,partner,Unknown
+1308,57.0,18/12/2012,Kocasinan, Kayseri,partner,Other
+1309,19.0,17/12/2012,Beylikdüzü, Istanbul,known man,Unknown
+1310,33.0,14/12/2012,Meram, Konya,boyfriend,Other
+1311,22.0,14/12/2012,Yüreğir, Adana,partner,Separation & Jealousy
+1312,27.0,8/12/2012,Selçuk, Konya,ex-partner,Separation & Jealousy
+1313,50.0,6/12/2012,İznik, Bursa,partner,Unknown
+1314,51.0,5/12/2012,Fatih, Istanbul,partner,Separation & Jealousy
+1315,37.0,4/12/2012,Savur, Mardin,partner,Unknown
+1316,29.0,3/12/2012,Konak, İzmir,known man,Separation & Jealousy
+1317,42.0,29/11/2012,Tepebaşı, Eskişehir,partner,Separation & Jealousy
+1318,50.0,26/11/2012,Ergani, Diyarbakır,partner,Separation & Jealousy
+1319,41.0,25/11/2012,Merkez, Erzincan,partner,Separation & Jealousy
+1320,39.0,17/11/2012,Yenişehir, Diyarbakır,partner,Separation & Jealousy
+1321,35.0,13/11/2012,Kuşadası, Aydın,partner,Separation & Jealousy
+1322,17.0,13/11/2012,Adapazarı, Sakarya,partner,Separation & Jealousy
+1323,34.0,10/11/2012,Tarsus, Mersin,ex-partner,Other
+1324,31.0,6/11/2012,Zeytinburnu, Istanbul,boyfriend,Separation & Jealousy
+1325,38.0,4/11/2012,Bağcılar, Istanbul,partner,Separation & Jealousy
+1326,18.0,4/11/2012,Bağcılar, Istanbul,father,Unknown
+1327,15.0,4/11/2012,Bağcılar, Istanbul,father,Unknown
+1328,14.0,4/11/2012,Bağcılar, Istanbul,father,Unknown
+1329,43.0,3/11/2012,Yerköy, Yozgat,father,Unknown
+1330,32.0,28/10/2012,Merkez, Malatya,known man,Other
+1331,17.0,27/10/2012,Kadirli, Osmaniye,boyfriend,Masculinity&Honor
+1332,29.0,24/10/2012,Muratpaşa, Antalya,attacker,Unknown
+1333,25.0,21/10/2012,İzmit, Kocaeli,attacker,Unknown
+1334,75.0,17/10/2012,Pınarbaşı, Kastamonu,partner,Other
+1335,20.0,15/10/2012,Bahçelievler, Istanbul,attacker,Sexual expectation
+1336,31.0,15/10/2012,Yağlıdere, Giresun,partner,Other
+1337,55.0,14/10/2012,Biga, Çanakkale,partner,Unknown
+1338,38.0,29/09/2012,Yüreğir, Adana,partner,Separation & Jealousy
+1339,38.0,25/09/2012,Merkez, Adıyaman,partner,Unknown
+1340,36.0,21/09/2012,Mamak, Ankara,partner,Separation & Jealousy
+1341,28.0,18/09/2012,Odunpazarı, Eskişehir,ex-partner,Unknown
+1342,34.0,18/09/2012,Merkez, Kırklareli,partner,Other
+1343,41.0,17/09/2012,Merkez, Aksaray,partner,Separation & Jealousy
+1344,37.0,16/09/2012,Çerkezköy, Tekirdağ,partner,Unknown
+1345,31.0,15/09/2012,Canik, Samsun,relative,Fight
+1346,26.0,14/09/2012,Küçükçekmece, Istanbul,partner,Separation & Jealousy
+1347,23.0,13/09/2012,Beykoz, Istanbul,ex-partner,Separation & Jealousy
+1348,52.0,11/9/2012,Melikgazi, Kayseri,partner,Unknown
+1349,43.0,11/9/2012,Dinar, Afyonkarahisar,partner,Other
+1350,19.0,4/9/2012,Kızıltepe, Mardin,relative,Unknown
+1351,27.0,2/9/2012,Ceyhan, Adana,partner,Other
+1352,53.0,29/08/2012,Keçiören, Ankara,ex-partner,Unknown
+1353,20.0,28/08/2012,Çeşme, İzmir,relative,Other
+1354,19.0,24/08/2012,Çarşamba, Samsun,known man,Separation & Jealousy
+1355,49.0,24/08/2012,Konak, İzmir,boyfriend,Separation & Jealousy
+1356,75.0,23/08/2012,Nazilli, Aydın,son,Unknown
+1357,24.0,23/08/2012,Siverek, Şanlıurfa,ex-partner,Unknown
+1358,41.0,23/08/2012,Seyhan, Adana,boyfriend,Separation & Jealousy
+1359,45.0,22/08/2012,Bayramiç, Çanakkale,relative,Other
+1360,32.0,20/08/2012,Konak, İzmir,relative,Other
+1361,25.0,19/08/2012,Ulus, Bartın,ex-partner,Other
+1362,25.0,18/08/2012,İnegöl, Bursa,ex-partner,Other
+1363,35.0,17/08/2012,Konak, İzmir,partner,Separation & Jealousy
+1364,,15/08/2012,Sultangazi, Istanbul,partner,Unknown
+1365,58.0,11/8/2012,Toroslar, Mersin,partner,Other
+1366,50.0,11/8/2012,Çeşme, İzmir,ex-partner,Other
+1367,51.0,5/8/2012,İskenderun, Hatay,partner,Other
+1368,27.0,5/8/2012,Merkez, Çorum,known man,Separation & Jealousy
+1369,28.0,1/8/2012,Sorgun, Yozgat,partner,Woman Decision and Preferences
+1370,55.0,31/07/2012,Eyüp, Istanbul,partner,Unknown
+1371,37.0,30/07/2012,Bornova, İzmir,partner,Separation & Jealousy
+1372,32.0,29/07/2012,Yenimahalle, Ankara,ex-partner,Separation & Jealousy
+1373,24.0,28/07/2012,Dörtdivan, Bolu,partner,Other
+1374,2.0,27/07/2012,Gebze, Kocaeli,father,Fight
+1375,30.0,27/07/2012,Küçükçekmece, Istanbul,partner,Separation & Jealousy
+1376,24.0,25/07/2012,Hamur, Ağrı,partner,Unknown
+1377,43.0,24/07/2012,Atakum, Samsun,boyfriend,Other
+1378,31.0,23/07/2012,Merkez, Kahramanmaraş,boyfriend,Other
+1379,25.0,20/07/2012,Konak, İzmir,ex-partner,Separation & Jealousy
+1380,33.0,19/07/2012,Küçükçekmece, Istanbul,partner,Unknown
+1381,19.0,18/07/2012,Fatih, Istanbul,partner,Household service expectations
+1382,37.0,12/7/2012,Ümraniye, Istanbul,partner,Other
+1383,46.0,7/7/2012,Merkez, Çankırı,partner,Separation & Jealousy
+1384,25.0,7/7/2012,Yenimahalle, Ankara,partner,Separation & Jealousy
+1385,29.0,4/7/2012,Bahçelievler, Istanbul,partner,Separation & Jealousy
+1386,36.0,2/7/2012,Çorlu, Tekirdağ,partner,Separation & Jealousy
+1387,24.0,1/7/2012,Ümraniye, Istanbul,partner,Separation & Jealousy
+1388,31.0,29/06/2012,Yenimahalle, Ankara,boyfriend,Other
+1389,13.0,28/06/2012,Şahinbey, Gaziantep,father,Masculinity&Honor
+1390,33.0,28/06/2012,Aksu, Antalya,boyfriend,Separation & Jealousy
+1391,30.0,27/06/2012,Bağlar, Diyarbakır,partner,Unknown
+1392,25.0,26/06/2012,Karacabey, Bursa,partner,Separation & Jealousy
+1393,48.0,26/06/2012,Karacabey, Bursa,partner,Other
+1394,83.0,24/06/2012,Sungurlu, Çorum,partner,Other
+1395,32.0,23/06/2012,Milas, Muğla,boyfriend,Other
+1396,32.0,19/06/2012,Ceyhan, Adana,partner,Other
+1397,18.0,19/06/2012,Ceyhan, Adana,partner,Separation & Jealousy
+1398,22.0,14/06/2012,Merkez, Elazığ,brother,Masculinity&Honor
+1399,41.0,7/6/2012,Merkez, Kars,partner,Separation & Jealousy
+1400,,5/6/2012,Keçiören, Ankara,partner,Other
+1401,23.0,3/6/2012,Keçiören, Ankara,father,Other
+1402,48.0,3/6/2012,Keçiören, Ankara,ex-partner,Separation & Jealousy
+1403,19.0,31/05/2012,Antakya, Hatay,boyfriend,Unknown
+1404,24.0,27/05/2012,Konak, İzmir,partner,Woman Decision and Preferences
+1405,25.0,24/05/2012,Melikgazi, Kayseri,partner,Separation & Jealousy
+1406,35.0,23/05/2012,Gemlik, Bursa,partner,Children
+1407,25.0,23/05/2012,Burhaniye, Balıkesir,brother,Other
+1408,25.0,23/05/2012,Merkez, Aksaray,partner,Other
+1409,49.0,23/05/2012,Burhaniye, Balıkesir,son,Other
+1410,29.0,21/05/2012,Selçuklu, Konya,partner,Separation & Jealousy
+1411,67.0,20/05/2012,Tire, İzmir,known man,Other
+1412,23.0,16/05/2012,Saray, Tekirdağ,partner,Separation & Jealousy
+1413,30.0,14/05/2012,Erfelek, Sinop,partner,Other
+1414,36.0,12/5/2012,Sarıyer, Istanbul,partner,Other
+1415,56.0,10/5/2012,Karabağlar, İzmir,partner,Woman Decision and Preferences
+1416,26.0,10/5/2012,Merkez, Aksaray,partner,Separation & Jealousy
+1417,40.0,9/5/2012,Selçuk, İzmir,boyfriend,Separation & Jealousy
+1418,55.0,3/5/2012,Çankaya, Ankara,partner,Separation & Jealousy
+1419,17.0,1/5/2012,Çukurova, Adana,ex-partner,Separation & Jealousy
+1420,21.0,29/04/2012,Karakoçan, Elazığ,boyfriend,Separation & Jealousy
+1421,20.0,26/04/2012,Yakutiye, Erzurum,partner,Separation & Jealousy
+1422,34.0,25/04/2012,Küçükçekmece, Istanbul,partner,Unknown
+1423,30.0,25/04/2012,Tarsus, Mersin,ex-partner,Masculinity&Honor
+1424,43.0,22/04/2012,Nilüfer, Bursa,partner,Separation & Jealousy
+1425,35.0,17/04/2012,Çorlu, Tekirdağ,boyfriend,Other
+1426,44.0,17/04/2012,İlkadım, Samsun,partner,Separation & Jealousy
+1427,21.0,14/04/2012,Başkale, Van,partner,Separation & Jealousy
+1428,26.0,12/4/2012,Kozan, Adana,partner,Separation & Jealousy
+1429,23.0,6/4/2012,Kuşadası, Aydın,known man,Unknown
+1430,50.0,5/4/2012,Cihanbeyli, Konya,partner,Separation & Jealousy
+1431,23.0,30/03/2012,Karabağlar, İzmir,known man,Unknown
+1432,30.0,28/03/2012,Silivri, Istanbul,partner,Separation & Jealousy
+1433,25.0,28/03/2012,Kula, Manisa,partner,Separation & Jealousy
+1434,18.0,27/03/2012,Konak, İzmir,partner,Separation & Jealousy
+1435,28.0,26/03/2012,Karacabey, Bursa,partner,Separation & Jealousy
+1436,48.0,26/03/2012,Fatsa, Ordu,ex-partner,Separation & Jealousy
+1437,27.0,25/03/2012,Bağcılar, Istanbul,ex-partner,Masculinity&Honor
+1438,74.0,23/03/2012,Ceylanpınar, Şanlıurfa,attacker,Other
+1439,28.0,11/3/2012,Altındağ, Ankara,boyfriend,Woman Decision and Preferences
+1440,40.0,9/3/2012,Pendik, Istanbul,relative,Unknown
+1441,32.0,29/02/2012,Keçiören, Ankara,partner,Separation & Jealousy
+1442,33.0,29/02/2012,Konak, İzmir,ex-partner,Separation & Jealousy
+1443,31.0,28/02/2012,Ümraniye, Istanbul,partner,Other
+1444,28.0,27/02/2012,Serik, Antalya,partner,Masculinity&Honor
+1445,26.0,26/02/2012,Bağcılar, Istanbul,brother,Masculinity&Honor
+1446,22.0,24/02/2012,Etimesgut, Ankara,father,Other
+1447,19.0,24/02/2012,Pendik, Istanbul,partner,Woman Decision and Preferences
+1448,22.0,24/02/2012,Merkez, Niğde,partner,Other
+1449,16.0,23/02/2012,Kadirli, Osmaniye,attacker,Other
+1450,16.0,23/02/2012,Kadirli, Osmaniye,known man,Separation & Jealousy
+1451,29.0,22/02/2012,Merkez, Kastamonu,ex-partner,Other
+1452,80.0,21/02/2012,Kocasinan, Kayseri,partner,Unknown
+1453,25.0,21/02/2012,Sultangazi, Istanbul,known man,Separation & Jealousy
+1454,26.0,19/02/2012,Melikgazi, Kayseri,partner,Masculinity&Honor
+1455,24.0,15/02/2012,Bodrum, Muğla,boyfriend,Separation & Jealousy
+1456,26.0,14/02/2012,İzmit, Kocaeli,brother,Unknown
+1457,23.0,14/02/2012,Çaldıran, Van,partner,Masculinity&Honor
+1458,52.0,13/02/2012,Merkez, Balıkesir,partner,Other
+1459,38.0,13/02/2012,Kadıköy, Istanbul,known man,Other
+1460,42.0,13/02/2012,Merkez, Kahramanmaraş,partner,Separation & Jealousy
+1461,30.0,11/2/2012,Altındağ, Ankara,known man,Unknown
+1462,35.0,11/2/2012,Keçiören, Ankara,partner,Separation & Jealousy
+1463,19.0,10/2/2012,Ceylanpınar, Şanlıurfa,boyfriend,Masculinity&Honor
+1464,46.0,10/2/2012,Merkez, Manisa,partner,Other
+1465,40.0,9/2/2012,Pursaklar, Ankara,partner,Unknown
+1466,25.0,5/2/2012,Merkez, Uşak,partner,Other
+1467,18.0,5/2/2012,İncirliova, Aydın,partner,Separation & Jealousy
+1468,2.0,3/2/2012,Yenişehir, Diyarbakır,father,Unknown
+1469,29.0,3/2/2012,Şehitkâmil, Gaziantep,known man,Other
+1470,33.0,3/2/2012,Yenişehir, Diyarbakır,partner,Unknown
+1471,2.0,3/2/2012,Yenişehir, Diyarbakır,father,Unknown
+1472,23.0,28/01/2012,Pendik, Istanbul,partner,Unknown
+1473,33.0,21/01/2012,Ezine, Çanakkale,partner,Unknown
+1474,17.0,19/01/2012,İslahiye, Gaziantep,partner,Other
+1475,43.0,19/01/2012,İslahiye, Gaziantep,partner,Unknown
+1476,47.0,17/01/2012,Karatay, Konya,son,Masculinity&Honor
+1477,7.0,15/01/2012,Manavgat, Antalya,father,Unknown
+1478,35.0,15/01/2012,Manavgat, Antalya,partner,Unknown
+1479,60.0,12/1/2012,Sarıyer, Istanbul,son,Other
+1480,38.0,7/1/2012,Çankaya, Ankara,boyfriend,Unknown
+1481,25.0,5/1/2012,Çerkezköy, Tekirdağ,relative,Other
+1482,22.0,4/1/2012,Seyhan, Adana,ex-partner,Separation & Jealousy
+1483,27.0,3/1/2012,Dilovası, Kocaeli,partner,Other
+1484,48.0,2/1/2012,Merkez, Şanlıurfa,partner,Other
+1485,23.0,1/1/2012,Muratpaşa, Antalya,partner,Separation & Jealousy
+1486,21.0,28/12/2011,Kâhta, Adıyaman,brother,Masculinity&Honor
+1487,33.0,24/12/2011,Muratpaşa, Antalya,partner,Separation & Jealousy
+1488,12.0,24/12/2011,Merkez, Kahramanmaraş,attacker,Sexual expectation
+1489,58.0,23/12/2011,Hendek, Sakarya,partner,Other
+1490,32.0,23/12/2011,Karamürsel, Kocaeli,attacker,Other
+1491,22.0,20/12/2011,Akçadağ, Malatya,ex-partner,Separation & Jealousy
+1492,19.0,20/12/2011,Merkez, Nevşehir,partner,Other
+1493,36.0,19/12/2011,Merzifon, Amasya,partner,Unknown
+1494,16.0,19/12/2011,Merzifon, Amasya,relative,Unknown
+1495,65.0,16/12/2011,Avanos, Nevşehir,attacker,Other
+1496,45.0,15/12/2011,Çayırova, Kocaeli,partner,Other
+1497,30.0,14/12/2011,Merkez, Trabzon,partner,Separation & Jealousy
+1498,33.0,14/12/2011,Cihanbeyli, Konya,attacker,Sexual expectation
+1499,24.0,14/12/2011,Alaplı, Zonguldak,ex-partner,Separation & Jealousy
+1500,45.0,9/12/2011,Zile, Tokat,partner,Other
+1501,34.0,5/12/2011,Merkez, Denizli,ex-partner,Other
+1502,36.0,3/12/2011,Ümraniye, Istanbul,partner,Separation & Jealousy
+1503,66.0,26/11/2011,Muratpaşa, Antalya,partner,Other
+1504,21.0,23/11/2011,İnegöl, Bursa,known man,Fight
+1505,57.0,20/11/2011,Konyaaltı, Antalya,partner,Masculinity&Honor
+1506,31.0,17/11/2011,Çekmeköy, Istanbul,partner,Masculinity&Honor
+1507,30.0,17/11/2011,Çukurova, Adana,ex-partner,Separation & Jealousy
+1508,40.0,15/11/2011,Merkez, Kahramanmaraş,relative,Masculinity&Honor
+1509,22.0,15/11/2011,Merkez, Denizli,father-in-law,Masculinity&Honor
+1510,40.0,14/11/2011,Kozan, Adana,son,Unknown
+1511,37.0,13/11/2011,Selçuklu, Konya,partner,Separation & Jealousy
+1512,42.0,12/11/2011,Çorlu, Tekirdağ,partner,Separation & Jealousy
+1513,55.0,12/11/2011,Keçiören, Ankara,partner,Separation & Jealousy
+1514,16.0,6/11/2011,Beydağ, İzmir,relative,Woman Decision and Preferences
+1515,42.0,6/11/2011,Beydağ, İzmir,partner,Woman Decision and Preferences
+1516,28.0,2/11/2011,Ceyhan, Adana,brother,Masculinity&Honor
+1517,19.0,1/11/2011,Şehitkâmil, Gaziantep,father,Woman Decision and Preferences
+1518,36.0,31/10/2011,Gemlik, Bursa,attacker,Other
+1519,18.0,29/10/2011,Çankaya, Ankara,boyfriend,Separation & Jealousy
+1520,30.0,27/10/2011,Yıldırım, Bursa,partner,Separation & Jealousy
+1521,30.0,26/10/2011,Şahinbey, Gaziantep,partner,Separation & Jealousy
+1522,24.0,21/10/2011,Kuşadası, Aydın,partner,Separation & Jealousy
+1523,31.0,19/10/2011,Kartal, Istanbul,partner,Separation & Jealousy
+1524,20.0,14/10/2011,Şehitkâmil, Gaziantep,partner,Masculinity&Honor
+1525,28.0,14/10/2011,Bornova, İzmir,partner,Separation & Jealousy
+1526,15.0,13/10/2011,Merkez, Kahramanmaraş,father,Masculinity&Honor
+1527,35.0,12/10/2011,Keçiören, Ankara,son,Masculinity&Honor
+1528,32.0,12/10/2011,Bandırma, Balıkesir,partner,Separation & Jealousy
+1529,34.0,10/10/2011,Çerkeş, Çankırı,partner,Other
+1530,33.0,8/10/2011,Merkez, Manisa,partner,Separation & Jealousy
+1531,30.0,8/10/2011,Merkez, Osmaniye,partner,Other
+1532,24.0,7/10/2011,Şahinbey, Gaziantep,brother,Woman Decision and Preferences
+1533,25.0,6/10/2011,Menemen, İzmir,ex-partner,Unknown
+1534,20.0,4/10/2011,Pazar, Tokat,partner,Unknown
+1535,52.0,2/10/2011,Aslanapa, Kütahya,partner,Separation & Jealousy
+1536,47.0,1/10/2011,Tarsus, Mersin,partner,Separation & Jealousy
+1537,32.0,27/09/2011,Merkez, Elazığ,brother,Masculinity&Honor
+1538,34.0,26/09/2011,İzmit, Kocaeli,ex-partner,Separation & Jealousy
+1539,34.0,25/09/2011,Merkez, Kırıkkale,partner,Unknown
+1540,39.0,25/09/2011,Karataş, Adana,boyfriend,Separation & Jealousy
+1541,35.0,24/09/2011,Merkez, Denizli,boyfriend,Separation & Jealousy
+1542,33.0,24/09/2011,Çınarcık, Yalova,ex-partner,Masculinity&Honor
+1543,80.0,24/09/2011,Tarsus, Mersin,attacker,Other
+1544,23.0,22/09/2011,Selçuklu, Konya,boyfriend,Separation & Jealousy
+1545,22.0,21/09/2011,Merkez, Bolu,partner,Other
+1546,32.0,19/09/2011,Adapazarı, Sakarya,ex-partner,Separation & Jealousy
+1547,31.0,17/09/2011,Kocasinan, Kayseri,boyfriend,Masculinity&Honor
+1548,29.0,16/09/2011,Bergama, İzmir,boyfriend,Other
+1549,22.0,15/09/2011,Ergani, Diyarbakır,brother,Other
+1550,48.0,14/09/2011,Merkez, Kahramanmaraş,boyfriend,Other
+1551,65.0,9/9/2011,Sarıkamış, Kars,partner,Other
+1552,30.0,9/9/2011,Çukurova, Adana,boyfriend,Separation & Jealousy
+1553,32.0,8/9/2011,Silifke, Mersin,partner,Separation & Jealousy
+1554,24.0,8/9/2011,Çayeli, Rize,brother,Masculinity&Honor
+1555,49.0,5/9/2011,Akkuş, Ordu,partner,Woman Decision and Preferences
+1556,34.0,3/9/2011,Şişli, Istanbul,partner,Separation & Jealousy
+1557,19.0,2/9/2011,Toroslar, Mersin,boyfriend,Separation & Jealousy
+1558,51.0,1/9/2011,Keçiören, Ankara,partner,Other
+1559,14.0,1/9/2011,Devrek, Zonguldak,known man,Masculinity&Honor
+1560,39.0,30/08/2011,Karapürçek, Sakarya,partner,Separation & Jealousy
+1561,58.0,25/08/2011,Merkez, Kastamonu,partner,Other
+1562,33.0,25/08/2011,Merkez, Zonguldak,partner,Separation & Jealousy
+1563,21.0,24/08/2011,Merkez, Çorum,partner,Unknown
+1564,35.0,24/08/2011,Menderes, İzmir,partner,Separation & Jealousy
+1565,22.0,22/08/2011,Seyhan, Adana,partner,Separation & Jealousy
+1566,,19/08/2011,Haymana, Ankara,partner,Other
+1567,50.0,19/08/2011,Buca, İzmir,known man,Separation & Jealousy
+1568,54.0,19/08/2011,Buca, İzmir,known man,Separation & Jealousy
+1569,63.0,17/08/2011,Ataşehir, Istanbul,partner,Other
+1570,27.0,9/8/2011,Merkez, Uşak,partner,Separation & Jealousy
+1571,24.0,4/8/2011,Merkez, Giresun,ex-partner,Separation & Jealousy
+1572,20.0,4/8/2011,Menemen, İzmir,partner,Separation & Jealousy
+1573,38.0,3/8/2011,Merkez, Van,partner,Other
+1574,24.0,1/8/2011,Fatih, Istanbul,attacker,Woman Decision and Preferences
+1575,30.0,1/8/2011,Seyhan, Adana,partner,Separation & Jealousy
+1576,23.0,31/07/2011,Tepebaşı, Eskişehir,boyfriend,Separation & Jealousy
+1577,28.0,30/07/2011,Merkez, Van,partner,Other
+1578,41.0,29/07/2011,Sultangazi, Istanbul,ex-partner,Separation & Jealousy
+1579,53.0,29/07/2011,Merkez, Burdur,partner,Woman Decision and Preferences
+1580,37.0,28/07/2011,Akdeniz, Mersin,boyfriend,Woman Decision and Preferences
+1581,34.0,24/07/2011,Çankaya, Ankara,partner,Separation & Jealousy
+1582,30.0,22/07/2011,Merkez, Kars,partner,Unknown
+1583,21.0,20/07/2011,Dörtyol, Hatay,relative,Masculinity&Honor
+1584,26.0,19/07/2011,Buca, İzmir,partner,Masculinity&Honor
+1585,36.0,17/07/2011,Kartepe, Kocaeli,partner,Unknown
+1586,45.0,15/07/2011,Bornova, İzmir,partner,Woman Decision and Preferences
+1587,16.0,14/07/2011,Gaziosmanpaşa, Istanbul,attacker,Unknown
+1588,24.0,14/07/2011,Meram, Konya,partner,Unknown
+1589,45.0,12/7/2011,Ünye, Ordu,partner,Unknown
+1590,20.0,9/7/2011,Çaldıran, Van,partner,Separation & Jealousy
+1591,21.0,9/7/2011,Çukurova, Adana,partner,Other
+1592,33.0,9/7/2011,İlkadım, Samsun,partner,Other
+1593,38.0,9/7/2011,Bayrampaşa, Istanbul,ex-partner,Unknown
+1594,18.0,8/7/2011,Elbistan, Kahramanmaraş,boyfriend,Other
+1595,33.0,8/7/2011,Çankaya, Ankara,partner,Separation & Jealousy
+1596,73.0,1/7/2011,Mucur, Kırşehir,relative,Sexual expectation
+1597,61.0,30/06/2011,Orhangazi, Bursa,relative,Unknown
+1598,31.0,29/06/2011,Kocasinan, Kayseri,partner,Separation & Jealousy
+1599,37.0,27/06/2011,Merkez, Malatya,partner,Unknown
+1600,45.0,25/06/2011,Bodrum, Muğla,ex-partner,Separation & Jealousy
+1601,24.0,25/06/2011,Menemen, İzmir,partner,Separation & Jealousy
+1602,25.0,23/06/2011,Merkez, Bitlis,ex-partner,Other
+1603,18.0,23/06/2011,Merkez, Düzce,partner,Separation & Jealousy
+1604,45.0,22/06/2011,Merkez, Bartın,partner,Separation & Jealousy
+1605,21.0,22/06/2011,Etimesgut, Ankara,partner,Masculinity&Honor
+1606,44.0,20/06/2011,Alaplı, Zonguldak,partner,Other
+1607,50.0,19/06/2011,Merkez, Denizli,partner,Separation & Jealousy
+1608,60.0,14/06/2011,Çeşme, İzmir,partner,Unknown
+1609,21.0,14/06/2011,Silvan, Diyarbakır,partner,Other
+1610,80.0,11/6/2011,Susurluk, Balıkesir,son,Other
+1611,13.0,11/6/2011,Sultanbeyli, Istanbul,known man,Unknown
+1612,38.0,11/6/2011,Sultanbeyli, Istanbul,ex-partner,Separation & Jealousy
+1613,,10/6/2011,Turhal, Tokat,ex-partner,Unknown
+1614,60.0,10/6/2011,Turhal, Tokat,partner,Unknown
+1615,17.0,10/6/2011,Espiye, Giresun,known man,Separation & Jealousy
+1616,50.0,6/6/2011,Ödemiş, İzmir,known man,Separation & Jealousy
+1617,32.0,31/05/2011,Kocasinan, Kayseri,partner,Unknown
+1618,19.0,31/05/2011,Yüksekova, Hakkâri,partner,Unknown
+1619,35.0,29/05/2011,Sancaktepe, Istanbul,boyfriend,Masculinity&Honor
+1620,26.0,29/05/2011,Döşemealtı, Antalya,partner,Unknown
+1621,24.0,28/05/2011,Kocasinan, Kayseri,partner,Separation & Jealousy
+1622,52.0,26/05/2011,Sarıyer, Istanbul,partner,Other
+1623,39.0,26/05/2011,Merkez, Denizli,partner,Unknown
+1624,42.0,20/05/2011,Büyükçekmece, Istanbul,partner,Separation & Jealousy
+1625,73.0,19/05/2011,Doğanhisar, Konya,partner,Unknown
+1626,56.0,18/05/2011,Burhaniye, Balıkesir,partner,Unknown
+1627,5.0,17/05/2011,Şehitkâmil, Gaziantep,known man,Sexual expectation
+1628,37.0,14/05/2011,Fatih, Istanbul,known man,Other
+1629,21.0,13/05/2011,Merkez, Kırklareli,known man,Separation & Jealousy
+1630,38.0,11/5/2011,Tuzla, Istanbul,partner,Other
+1631,22.0,9/5/2011,Derik, Mardin,partner,Other
+1632,15.0,7/5/2011,Kovancılar, Elazığ,relative,Separation & Jealousy
+1633,8.0,5/5/2011,Şahinbey, Gaziantep,known man,Fight
+1634,8.0,5/5/2011,Şahinbey, Gaziantep,known man,Fight
+1635,34.0,5/5/2011,Şahinbey, Gaziantep,known man,Fight
+1636,14.0,5/5/2011,Şahinbey, Gaziantep,known man,Fight
+1637,39.0,4/5/2011,Merkez, Aydın,known man,Separation & Jealousy
+1638,31.0,27/04/2011,Arnavutköy, Istanbul,ex-partner,Children
+1639,39.0,25/04/2011,Alanya, Antalya,ex-partner,Separation & Jealousy
+1640,36.0,24/04/2011,Karabağlar, İzmir,partner,Separation & Jealousy
+1641,52.0,24/04/2011,Fethiye, Muğla,ex-partner,Masculinity&Honor
+1642,19.0,21/04/2011,Bayındır, İzmir,known man,Separation & Jealousy
+1643,35.0,19/04/2011,Toroslar, Mersin,partner,Male service expectations
+1644,67.0,18/04/2011,Çivril, Denizli,partner,Masculinity&Honor
+1645,40.0,15/04/2011,Çukurova, Adana,partner,Separation & Jealousy
+1646,21.0,14/04/2011,Burhaniye, Balıkesir,boyfriend,Separation & Jealousy
+1647,31.0,13/04/2011,Gaziosmanpaşa, Istanbul,partner,Separation & Jealousy
+1648,32.0,12/4/2011,Gaziemir, İzmir,partner,Other
+1649,38.0,11/4/2011,Bafra, Samsun,partner,Masculinity&Honor
+1650,24.0,4/4/2011,Çiğli, İzmir,partner,Unknown
+1651,25.0,1/4/2011,Çiçekdağı, Kırşehir,boyfriend,Unknown
+1652,31.0,1/4/2011,Eyüp, Istanbul,brother,Masculinity&Honor
+1653,33.0,31/03/2011,Meram, Konya,boyfriend,Other
+1654,42.0,28/03/2011,Canik, Samsun,partner,Separation & Jealousy
+1655,19.0,28/03/2011,Dursunbey, Balıkesir,boyfriend,Separation & Jealousy
+1656,21.0,27/03/2011,Kepez, Antalya,partner,Unknown
+1657,20.0,26/03/2011,Karacasu, Aydın,attacker,Sexual expectation
+1658,23.0,25/03/2011,Merkez, Elazığ,partner,Separation & Jealousy
+1659,43.0,25/03/2011,Maltepe, Istanbul,son,Other
+1660,19.0,23/03/2011,Meram, Konya,partner,Separation & Jealousy
+1661,35.0,22/03/2011,Osmangazi, Bursa,partner,Other
+1662,,19/03/2011,Mamak, Ankara,ex-partner,Separation & Jealousy
+1663,24.0,19/03/2011,Manavgat, Antalya,partner,Separation & Jealousy
+1664,33.0,17/03/2011,Bayrampaşa, Istanbul,partner,Separation & Jealousy
+1665,46.0,16/03/2011,Yüreğir, Adana,son,Masculinity&Honor
+1666,22.0,16/03/2011,Yüreğir, Adana,brother,Masculinity&Honor
+1667,15.0,16/03/2011,Yüreğir, Adana,brother,Masculinity&Honor
+1668,26.0,13/03/2011,Hasanbeyli, Osmaniye,father-in-law,Other
+1669,26.0,10/3/2011,Seyhan, Adana,partner,Other
+1670,38.0,7/3/2011,Merkez, Balıkesir,father,Male service expectations
+1671,42.0,5/3/2011,Çorlu, Tekirdağ,ex-partner,Other
+1672,19.0,3/3/2011,Ulus, Bartın,boyfriend,Unknown
+1673,19.0,1/3/2011,Mezitli, Mersin,brother,Masculinity&Honor
+1674,34.0,28/02/2011,Kepez, Antalya,partner,Separation & Jealousy
+1675,31.0,26/02/2011,Maltepe, Istanbul,boyfriend,Other
+1676,43.0,23/02/2011,Üsküdar, Istanbul,partner,Separation & Jealousy
+1677,51.0,23/02/2011,Yüreğir, Adana,partner,Separation & Jealousy
+1678,48.0,23/02/2011,Tarsus, Mersin,partner,Other
+1679,28.0,21/02/2011,Odunpazarı, Eskişehir,ex-partner,Separation & Jealousy
+1680,34.0,20/02/2011,Merkez, Karaman,partner,Separation & Jealousy
+1681,43.0,20/02/2011,Hilvan, Şanlıurfa,relative,Other
+1682,37.0,19/02/2011,Erdemli, Mersin,partner,Unknown
+1683,21.0,19/02/2011,Şahinbey, Gaziantep,ex-partner,Separation & Jealousy
+1684,60.0,16/02/2011,Merkez, Edirne,known man,Unknown
+1685,59.0,15/02/2011,Ataşehir, Istanbul,partner,Separation & Jealousy
+1686,18.0,14/02/2011,Kovancılar, Elazığ,father,Separation & Jealousy
+1687,21.0,12/2/2011,Kocasinan, Kayseri,partner,Masculinity&Honor
+1688,33.0,10/2/2011,Ümraniye, Istanbul,partner,Separation & Jealousy
+1689,50.0,8/2/2011,Merkez, Bartın,known man,Other
+1690,25.0,8/2/2011,Bahçelievler, Istanbul,partner,Separation & Jealousy
+1691,45.0,7/2/2011,Çaycuma, Zonguldak,known man,Unknown
+1692,50.0,7/2/2011,Merkez, Tekirdağ,ex-partner,Masculinity&Honor
+1693,43.0,7/2/2011,Çaycuma, Zonguldak,known man,Unknown
+1694,42.0,5/2/2011,Merkez, Şanlıurfa,partner,Separation & Jealousy
+1695,34.0,4/2/2011,Merkez, Nevşehir,ex-partner,Woman Decision and Preferences
+1696,66.0,4/2/2011,Merkez, Nevşehir,relative,Unknown
+1697,29.0,3/2/2011,Konyaaltı, Antalya,partner,Masculinity&Honor
+1698,59.0,1/2/2011,Şehitkâmil, Gaziantep,son,Masculinity&Honor
+1699,42.0,27/01/2011,Mezitli, Mersin,partner,Unknown
+1700,41.0,26/01/2011,Şahinbey, Gaziantep,father,Masculinity&Honor
+1701,20.0,25/01/2011,Sorgun, Yozgat,father,Masculinity&Honor
+1702,28.0,21/01/2011,Merkez, Şanlıurfa,partner,Unknown
+1703,12.0,20/01/2011,Altındağ, Ankara,father,Unknown
+1704,38.0,20/01/2011,Dikili, İzmir,partner,Separation & Jealousy
+1705,19.0,17/01/2011,Hazro, Diyarbakır,partner,Masculinity&Honor
+1706,29.0,16/01/2011,Çukurova, Adana,brother,Unknown
+1707,57.0,14/01/2011,Merkez, Iğdır,relative,Fight
+1708,44.0,12/1/2011,Senirkent, Isparta,boyfriend,Unknown
+1709,38.0,10/1/2011,Merkez, Kahramanmaraş,partner,Woman Decision and Preferences
+1710,29.0,9/1/2011,Çiğli, İzmir,brother,Unknown
+1711,24.0,8/1/2011,Bandırma, Balıkesir,ex-partner,Separation & Jealousy
+1712,37.0,5/1/2011,Akhisar, Manisa,partner,Other
+1713,16.0,4/1/2011,Merkez, Iğdır,brother,Masculinity&Honor
+1714,,2/1/2011,Merkez, Kırıkkale,partner,Separation & Jealousy
+1715,55.0,1/1/2011,Gaziosmanpaşa, Istanbul,attacker,Other
+1716,,31/12/2010,Çubuk, Ankara,partner,Separation & Jealousy
+1717,32.0,28/12/2010,Ulukışla, Niğde,partner,Separation & Jealousy
+1718,52.0,28/12/2010,Ulukışla, Niğde,partner,Other
+1719,37.0,25/12/2010,Selçuklu, Konya,known man,Sexual expectation
+1720,15.0,23/12/2010,Kadıköy, Istanbul,relative,Other
+1721,23.0,23/12/2010,Altındağ, Ankara,partner,Other
+1722,35.0,23/12/2010,Kadıköy, Istanbul,ex-partner,Separation & Jealousy
+1723,18.0,23/12/2010,Harran, Şanlıurfa,relative,Other
+1724,22.0,22/12/2010,Viranşehir, Şanlıurfa,partner,Other
+1725,50.0,21/12/2010,Torbalı, İzmir,partner,Other
+1726,33.0,21/12/2010,Meram, Konya,ex-partner,Masculinity&Honor
+1727,63.0,18/12/2010,Ereğli, Zonguldak,partner,Unknown
+1728,26.0,14/12/2010,Fatih, Istanbul,brother,Woman Decision and Preferences
+1729,27.0,12/12/2010,Erdemli, Mersin,boyfriend,Unknown
+1730,42.0,7/12/2010,Keçiören, Ankara,ex-partner,Unknown
+1731,39.0,6/12/2010,Köyceğiz, Muğla,partner,Separation & Jealousy
+1732,36.0,3/12/2010,Buldan, Denizli,boyfriend,Separation & Jealousy
+1733,9.0,2/12/2010,Kemalpaşa, İzmir,father,Children
+1734,35.0,29/11/2010,Kuşadası, Aydın,partner,Other
+1735,32.0,24/11/2010,Tarsus, Mersin,ex-partner,Separation & Jealousy
+1736,18.0,22/11/2010,Konak, İzmir,ex-partner,Separation & Jealousy
+1737,20.0,18/11/2010,Şehitkâmil, Gaziantep,father,Masculinity&Honor
+1738,21.0,18/11/2010,Şehitkâmil, Gaziantep,father,Masculinity&Honor
+1739,39.0,15/11/2010,Adapazarı, Sakarya,partner,Masculinity&Honor
+1740,28.0,15/11/2010,Gürsu, Bursa,boyfriend,Separation & Jealousy
+1741,73.0,13/11/2010,Tomarza, Kayseri,relative,Other
+1742,20.0,12/11/2010,Karabağlar, İzmir,boyfriend,Unknown
+1743,7.0,10/11/2010,Erciş, Van,attacker,Sexual expectation
+1744,43.0,10/11/2010,Erciş, Van,attacker,Unknown
+1745,15.0,10/11/2010,Erciş, Van,attacker,Sexual expectation
+1746,30.0,9/11/2010,Köyceğiz, Muğla,partner,Other
+1747,38.0,9/11/2010,Şahinbey, Gaziantep,known man,Other
+1748,27.0,4/11/2010,Merkez, Malatya,partner,Unknown
+1749,28.0,4/11/2010,Ümraniye, Istanbul,boyfriend,Other
+1750,36.0,29/10/2010,Yenişehir, Mersin,partner,Other
+1751,41.0,29/10/2010,Bodrum, Muğla,partner,Household service expectations
+1752,35.0,28/10/2010,Küçükçekmece, Istanbul,ex-partner,Separation & Jealousy
+1753,44.0,27/10/2010,Kadıköy, Istanbul,boyfriend,Separation & Jealousy
+1754,15.0,25/10/2010,Kocaköy, Diyarbakır,relative,Sexual expectation
+1755,23.0,25/10/2010,Hakkari, Hakkâri,partner,Masculinity&Honor
+1756,40.0,22/10/2010,Şişli, Istanbul,relative,Other
+1757,25.0,21/10/2010,Seyhan, Adana,brother,Masculinity&Honor
+1758,40.0,21/10/2010,Mamak, Ankara,relative,Unknown
+1759,38.0,18/10/2010,Tuzla, Istanbul,partner,Other
+1760,18.0,18/10/2010,Tuzla, Istanbul,partner,Separation & Jealousy
+1761,18.0,16/10/2010,Çukurova, Adana,brother,Other
+1762,32.0,16/10/2010,Çukurova, Adana,brother,Male service expectations
+1763,55.0,16/10/2010,Çukurova, Adana,son,Other
+1764,51.0,15/10/2010,Yenimahalle, Ankara,brother,Other
+1765,25.0,12/10/2010,İncirliova, Aydın,boyfriend,Masculinity&Honor
+1766,44.0,11/10/2010,Karapınar, Konya,known man,Unknown
+1767,32.0,10/10/2010,Selçuklu, Konya,relative,Other
+1768,32.0,6/10/2010,Simav, Kütahya,partner,Separation & Jealousy
+1769,28.0,4/10/2010,Beydağ, İzmir,ex-partner,Unknown
+1770,30.0,4/10/2010,Yenişehir, Mersin,boyfriend,Separation & Jealousy
+1771,71.0,1/10/2010,Akdeniz, Mersin,attacker,Unknown
+1772,58.0,30/09/2010,Hüyük, Konya,partner,Other
+1773,83.0,28/09/2010,Kocaali, Sakarya,relative,Sexual expectation
+1774,72.0,28/09/2010,Osmangazi, Bursa,partner,Other
+1775,35.0,27/09/2010,Şahinbey, Gaziantep,boyfriend,Separation & Jealousy
+1776,36.0,27/09/2010,Bayraklı, İzmir,partner,Separation & Jealousy
+1777,,25/09/2010,Bağcılar, Istanbul,partner,Separation & Jealousy
+1778,55.0,24/09/2010,Antakya, Hatay,relative,Other
+1779,55.0,22/09/2010,Çilimli, Düzce,partner,Other
+1780,42.0,18/09/2010,Odunpazarı, Eskişehir,partner,Masculinity&Honor
+1781,20.0,18/09/2010,Dilovası, Kocaeli,partner,Separation & Jealousy
+1782,31.0,15/09/2010,Şehitkâmil, Gaziantep,partner,Unknown
+1783,34.0,14/09/2010,Bahçelievler, Istanbul,ex-partner,Separation & Jealousy
+1784,11.0,14/09/2010,Odunpazarı, Eskişehir,attacker,Sexual expectation
+1785,23.0,14/09/2010,Kadıköy, Istanbul,partner,Separation & Jealousy
+1786,20.0,13/09/2010,Merkez, Şanlıurfa,brother,Masculinity&Honor
+1787,29.0,13/09/2010,Şahinbey, Gaziantep,brother,Masculinity&Honor
+1788,43.0,9/9/2010,Seyhan, Adana,partner,Separation & Jealousy
+1789,48.0,8/9/2010,Merkez, Aksaray,partner,Separation & Jealousy
+1790,33.0,6/9/2010,Merkez, Kastamonu,partner,Other
+1791,38.0,6/9/2010,Yenişehir, Mersin,partner,Other
+1792,12.0,2/9/2010,Tortum, Erzurum,relative,Sexual expectation
+1793,57.0,29/08/2010,Ortaca, Muğla,relative,Unknown
+1794,48.0,28/08/2010,Avcılar, Istanbul,partner,Other
+1795,44.0,28/08/2010,Bahçelievler, Istanbul,boyfriend,Masculinity&Honor
+1796,30.0,28/08/2010,Avcılar, Istanbul,relative,Other
+1797,33.0,27/08/2010,Merkez, Trabzon,boyfriend,Other
+1798,24.0,27/08/2010,Merkez, Batman,partner,Other
+1799,16.0,27/08/2010,Merkez, Kilis,brother,Woman Decision and Preferences
+1800,43.0,26/08/2010,Bağlar, Diyarbakır,partner,Household service expectations
+1801,27.0,24/08/2010,Kocasinan, Kayseri,partner,Separation & Jealousy
+1802,25.0,24/08/2010,Tillo, Siirt,partner,Separation & Jealousy
+1803,24.0,24/08/2010,Seyhan, Adana,partner,Household service expectations
+1804,35.0,23/08/2010,Yüreğir, Adana,partner,Other
+1805,27.0,19/08/2010,Pendik, Istanbul,known man,Masculinity&Honor
+1806,17.0,17/08/2010,Alaşehir, Manisa,known man,Sexual expectation
+1807,50.0,16/08/2010,Çayırova, Kocaeli,partner,Other
+1808,,16/08/2010,Ilgın, Konya,partner,Other
+1809,53.0,16/08/2010,Mudanya, Bursa,ex-partner,Separation & Jealousy
+1810,33.0,15/08/2010,Gölbaşı, Ankara,ex-partner,Unknown
+1811,38.0,15/08/2010,Gölbaşı, Ankara,relative,Other
+1812,27.0,14/08/2010,Buca, İzmir,partner,Separation & Jealousy
+1813,21.0,13/08/2010,Melikgazi, Kayseri,partner,Other
+1814,52.0,13/08/2010,Şehitkâmil, Gaziantep,partner,Other
+1815,46.0,13/08/2010,Merkez, Osmaniye,partner,Unknown
+1816,42.0,13/08/2010,Keçiören, Ankara,boyfriend,Separation & Jealousy
+1817,29.0,12/8/2010,Merkez, Van,ex-partner,Unknown
+1818,61.0,11/8/2010,Beyoğlu, Istanbul,boyfriend,Other
+1819,41.0,11/8/2010,Mezitli, Mersin,partner,Separation & Jealousy
+1820,37.0,10/8/2010,Beyoğlu, Istanbul,known man,Other
+1821,50.0,5/8/2010,Gazipaşa, Antalya,father-in-law,Unknown
+1822,41.0,4/8/2010,Keçiören, Ankara,boyfriend,Separation & Jealousy
+1823,22.0,4/8/2010,Keçiören, Ankara,known man,Other
+1824,42.0,4/8/2010,Didim, Aydın,attacker,Unknown
+1825,30.0,4/8/2010,Karacabey, Bursa,partner,Other
+1826,48.0,1/8/2010,Ümraniye, Istanbul,partner,Unknown
+1827,19.0,1/8/2010,Tepebaşı, Eskişehir,partner,Separation & Jealousy
+1828,22.0,1/8/2010,Ümraniye, Istanbul,father,Unknown
+1829,20.0,30/07/2010,Suruç, Şanlıurfa,relative,Other
+1830,46.0,29/07/2010,Odunpazarı, Eskişehir,partner,Separation & Jealousy
+1831,25.0,29/07/2010,Nilüfer, Bursa,boyfriend,Other
+1832,40.0,28/07/2010,Merkez, Uşak,ex-partner,Separation & Jealousy
+1833,27.0,26/07/2010,Seyhan, Adana,known man,Unknown
+1834,20.0,26/07/2010,Seyhan, Adana,ex-partner,Unknown
+1835,19.0,26/07/2010,İnegöl, Bursa,boyfriend,Separation & Jealousy
+1836,22.0,23/07/2010,Muratpaşa, Antalya,boyfriend,Other
+1837,41.0,22/07/2010,Merkez, Kastamonu,partner,Other
+1838,39.0,21/07/2010,Karabağlar, İzmir,boyfriend,Masculinity&Honor
+1839,22.0,20/07/2010,Elmalı, Antalya,partner,Separation & Jealousy
+1840,44.0,20/07/2010,Konak, İzmir,partner,Separation & Jealousy
+1841,35.0,17/07/2010,Kadıköy, Istanbul,boyfriend,Unknown
+1842,48.0,16/07/2010,Esenyurt, Istanbul,ex-partner,Separation & Jealousy
+1843,43.0,14/07/2010,Mamak, Ankara,partner,Separation & Jealousy
+1844,24.0,13/07/2010,Kadıköy, Istanbul,boyfriend,Separation & Jealousy
+1845,2.0,13/07/2010,Merkez, Amasya,attacker,Sexual expectation
+1846,17.0,13/07/2010,Bodrum, Muğla,ex-partner,Unknown
+1847,24.0,11/7/2010,Merkez, Karaman,ex-partner,Unknown
+1848,40.0,9/7/2010,Keçiören, Ankara,father,Other
+1849,30.0,9/7/2010,Osmangazi, Bursa,partner,Separation & Jealousy
+1850,57.0,9/7/2010,Keçiören, Ankara,partner,Other
+1851,24.0,6/7/2010,Merkez, Karaman,partner,Separation & Jealousy
+1852,57.0,3/7/2010,Nilüfer, Bursa,attacker,Other
+1853,45.0,1/7/2010,Merkez, Tekirdağ,partner,Separation & Jealousy
+1854,19.0,1/7/2010,Kemalpaşa, İzmir,relative,Woman Decision and Preferences
+1855,50.0,28/06/2010,Kalecik, Ankara,partner,Other
+1856,24.0,25/06/2010,Küçükçekmece, Istanbul,ex-partner,Masculinity&Honor
+1857,50.0,22/06/2010,Seyhan, Adana,partner,Household service expectations
+1858,36.0,19/06/2010,Bodrum, Muğla,ex-partner,Separation & Jealousy
+1859,,16/06/2010,Aladağ, Adana,partner,Other
+1860,53.0,15/06/2010,Havran, Balıkesir,attacker,Separation & Jealousy
+1861,26.0,15/06/2010,Çivril, Denizli,partner,Separation & Jealousy
+1862,62.0,12/6/2010,Mamak, Ankara,partner,Masculinity&Honor
+1863,31.0,12/6/2010,Çınar, Diyarbakır,partner,Other
+1864,36.0,10/6/2010,Merkez, Çorum,partner,Separation & Jealousy
+1865,70.0,7/6/2010,Yenimahalle, Ankara,partner,Unknown
+1866,48.0,4/6/2010,Merkez, Şanlıurfa,relative,Separation & Jealousy
+1867,42.0,2/6/2010,Yüreğir, Adana,partner,Sexual expectation
+1868,50.0,29/05/2010,Kocasinan, Kayseri,son,Other
+1869,77.0,28/05/2010,Hisarcık, Kütahya,partner,Unknown
+1870,45.0,28/05/2010,Pendik, Istanbul,partner,Other
+1871,35.0,27/05/2010,Aksu, Antalya,attacker,Other
+1872,21.0,26/05/2010,Antakya, Hatay,partner,Separation & Jealousy
+1873,38.0,26/05/2010,Şahinbey, Gaziantep,known man,Unknown
+1874,36.0,24/05/2010,Beylikdüzü, Istanbul,partner,Separation & Jealousy
+1875,,23/05/2010,Merkez, Tekirdağ,boyfriend,Separation & Jealousy
+1876,38.0,21/05/2010,Merkez, Denizli,ex-partner,Unknown
+1877,21.0,20/05/2010,Gaziosmanpaşa, Istanbul,boyfriend,Woman Decision and Preferences
+1878,24.0,19/05/2010,Tarsus, Mersin,partner,Unknown
+1879,26.0,17/05/2010,Alanya, Antalya,boyfriend,Woman Decision and Preferences
+1880,22.0,14/05/2010,Ceyhan, Adana,partner,Other
+1881,39.0,14/05/2010,Tarsus, Mersin,partner,Woman Decision and Preferences
+1882,18.0,8/5/2010,Çubuk, Ankara,known man,Separation & Jealousy
+1883,26.0,8/5/2010,Merkez, Kahramanmaraş,ex-partner,Other
+1884,32.0,7/5/2010,Sincan, Ankara,partner,Separation & Jealousy
+1885,45.0,6/5/2010,Milas, Muğla,partner,Unknown
+1886,25.0,5/5/2010,Fatih, Istanbul,ex-partner,Separation & Jealousy
+1887,16.0,4/5/2010,Merkez, Çorum,attacker,Separation & Jealousy
+1888,42.0,30/04/2010,Ünye, Ordu,partner,Unknown
+1889,20.0,29/04/2010,Merkez, Kars,partner,Unknown
+1890,42.0,29/04/2010,Milas, Muğla,relative,Unknown
+1891,39.0,28/04/2010,Merkez, Manisa,partner,Separation & Jealousy
+1892,35.0,28/04/2010,Serik, Antalya,partner,Separation & Jealousy
+1893,41.0,26/04/2010,Seyhan, Adana,relative,Separation & Jealousy
+1894,,26/04/2010,Merkez, Aydın,partner,Masculinity&Honor
+1895,22.0,26/04/2010,Balçova, İzmir,attacker,Unknown
+1896,27.0,26/04/2010,Balçova, İzmir,attacker,Unknown
+1897,22.0,24/04/2010,İnegöl, Bursa,ex-partner,Other
+1898,22.0,23/04/2010,Merkez, Ağrı,brother,Masculinity&Honor
+1899,51.0,21/04/2010,Bayrampaşa, Istanbul,ex-partner,Unknown
+1900,29.0,17/04/2010,Yıldırım, Bursa,ex-partner,Separation & Jealousy
+1901,36.0,15/04/2010,Şahinbey, Gaziantep,ex-partner,Unknown
+1902,37.0,12/4/2010,Karamürsel, Kocaeli,partner,Separation & Jealousy
+1903,32.0,9/4/2010,Fethiye, Muğla,partner,Separation & Jealousy
+1904,38.0,8/4/2010,Merkez, Iğdır,partner,Unknown
+1905,28.0,8/4/2010,Çermik, Diyarbakır,partner,Household service expectations
+1906,6.0,7/4/2010,Gaziemir, İzmir,father,Other
+1907,25.0,6/4/2010,Çine, Aydın,ex-partner,Children
+1908,50.0,6/4/2010,Çine, Aydın,relative,Other
+1909,33.0,3/4/2010,Kuşadası, Aydın,partner,Separation & Jealousy
+1910,18.0,1/4/2010,Ümraniye, Istanbul,attacker,Other
+1911,41.0,1/4/2010,Merkez, Tekirdağ,partner,Unknown
+1912,30.0,30/03/2010,Çerkeş, Çankırı,ex-partner,Unknown
+1913,,28/03/2010,Yüreğir, Adana,partner,Other
+1914,56.0,28/03/2010,Kağıthane, Istanbul,partner,Children
+1915,47.0,22/03/2010,Merkez, Kahramanmaraş,attacker,Sexual expectation
+1916,27.0,22/03/2010,Üzümlü, Erzincan,partner,Masculinity&Honor
+1917,19.0,20/03/2010,Karabağlar, İzmir,boyfriend,Separation & Jealousy
+1918,51.0,18/03/2010,Kayapınar, Diyarbakır,partner,Unknown
+1919,,18/03/2010,Eyüp, Istanbul,ex-partner,Masculinity&Honor
+1920,39.0,18/03/2010,Çorlu, Tekirdağ,ex-partner,Unknown
+1921,50.0,18/03/2010,Eyüp, Istanbul,relative,Other
+1922,16.0,18/03/2010,Uzunköprü, Edirne,boyfriend,Unknown
+1923,39.0,17/03/2010,Şahinbey, Gaziantep,brother,Masculinity&Honor
+1924,37.0,12/3/2010,Osmangazi, Bursa,partner,Other
+1925,17.0,12/3/2010,Osmangazi, Bursa,father,Other
+1926,43.0,12/3/2010,Seyhan, Adana,relative,Children
+1927,9.0,12/3/2010,Nallıhan, Ankara,attacker,Unknown
+1928,24.0,12/3/2010,Göle, Ardahan,attacker,Separation & Jealousy
+1929,50.0,11/3/2010,Uzunköprü, Edirne,partner,Separation & Jealousy
+1930,0.0,8/3/2010,Battalgazi, Malatya,father,Unknown
+1931,47.0,5/3/2010,Bayraklı, İzmir,partner,Other
+1932,40.0,5/3/2010,İlkadım, Samsun,partner,Other
+1933,25.0,4/3/2010,Bağcılar, Istanbul,ex-partner,Separation & Jealousy
+1934,35.0,1/3/2010,Fatih, Istanbul,relative,Separation & Jealousy
+1935,63.0,1/3/2010,Bafra, Samsun,partner,Unknown
+1936,24.0,27/02/2010,Merkez, Malatya,attacker,Sexual expectation
+1937,44.0,23/02/2010,Gelibolu, Çanakkale,partner,Unknown
+1938,14.0,23/02/2010,Gelibolu, Çanakkale,father,Unknown
+1939,20.0,23/02/2010,Yenişehir, Mersin,boyfriend,Separation & Jealousy
+1940,10.0,23/02/2010,Gelibolu, Çanakkale,father,Unknown
+1941,18.0,22/02/2010,Odunpazarı, Eskişehir,brother,Other
+1942,44.0,22/02/2010,Odunpazarı, Eskişehir,son,Other
+1943,42.0,21/02/2010,Merkez, Malatya,partner,Separation & Jealousy
+1944,40.0,20/02/2010,Merkez, Malatya,partner,Other
+1945,30.0,20/02/2010,Kayapınar, Diyarbakır,relative,Unknown
+1946,35.0,19/02/2010,Sarıyer, Istanbul,partner,Other
+1947,29.0,18/02/2010,Pendik, Istanbul,ex-partner,Unknown
+1948,28.0,17/02/2010,Merkez, Düzce,attacker,Sexual expectation
+1949,35.0,15/02/2010,Pamukova, Sakarya,ex-partner,Unknown
+1950,35.0,13/02/2010,Seyhan, Adana,partner,Other
+1951,50.0,12/2/2010,Odunpazarı, Eskişehir,son,Unknown
+1952,46.0,11/2/2010,Merkez, Bolu,son,Other
+1953,44.0,7/2/2010,Armutlu, Yalova,partner,Other
+1954,23.0,6/2/2010,Çukurova, Adana,partner,Separation & Jealousy
+1955,4.0,3/2/2010,Şahinbey, Gaziantep,relative,Fight
+1956,29.0,28/01/2010,İzmit, Kocaeli,known man,Other
+1957,34.0,28/01/2010,Şahinbey, Gaziantep,partner,Other
+1958,20.0,17/01/2010,Ergani, Diyarbakır,partner,Unknown
+1959,24.0,14/01/2010,Mamak, Ankara,relative,Masculinity&Honor
+1960,34.0,12/1/2010,Seyhan, Adana,attacker,Separation & Jealousy
+1961,57.0,12/1/2010,Merkez, Kütahya,brother,Unknown
+1962,34.0,11/1/2010,Ceyhan, Adana,boyfriend,Unknown
+1963,,3/1/2010,Adilcevaz, Bitlis,partner,Separation & Jealousy
