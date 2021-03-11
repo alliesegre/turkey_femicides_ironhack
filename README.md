@@ -1,4 +1,4 @@
-![alt text](https://github.com/alliesegre/
+![alt text](https://github.com/alliesegre/turkey_femicides_ironhack/blob/main/Sources/femicides_cover.JPG)
 
 # Ironhack Final Project: Exploring Femicides cases in Turkey - regional characteristics and politics.
 #### *Alice Segre*
@@ -115,5 +115,5 @@ I will further explore patterns in Tableau.
 - attempt to define political attitudes with surveys or other proxis, as the collection of only three elections was not enough to see the yearly changes.
 
 ## Visualization
-- Tableau link: 
+- Tableau link: https://public.tableau.com/profile/ali2406#!/vizhome/Femicides_Turkey_Project_first/perpetratortype?publish=yes
 
