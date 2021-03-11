@@ -67,13 +67,13 @@ Assigned election results to region demographics, based on the following logic: 
 - 2017 attitude: election results from 2019
 
 ## Analysis
-We looked at:<br/>
+I looked at:<br/>
 Multicollinearity Matrix <br/>
 After running the multicollinearity checks (heat map, VIF) I decided to drop the ethnic turkish as it was correlated with ethnic kurdish, ln-casualty, all_wm_prov, knows_wm_prov.
 VIF showed that no other column needed to be removed.<br/>
 
-![alt text](https://github.com/alliesegre/turkey_femicides_ironhack/tree/main/Sources/)
-![alt text](https://github.com/alliesegre/turkey_femicides_ironhack/tree/main/Sources/)<br/>
+![alt text](https://github.com/alliesegre/turkey_femicides_ironhack/blob/main/Sources/corr_matrix.PNG)
+![alt text](https://github.com/alliesegre/turkey_femicides_ironhack/blob/main/Sources/countvsgdp.PNG)<br/>
 
 
 #### Transformation
@@ -99,7 +99,7 @@ All three models worked quite badly on the prediction work:<br/>
 ### Clustering as Alternative
 I clustered in 8 custers, only two show a particular relevance:
 - both have  a high percentage of kurdish population, and having either center or rigt wing political attitudes
-![alt text](https://github.com/alliesegre/turkey_femicides_ironhack/tree/main/Sources/)<br/>
+![alt text](https://github.com/alliesegre/turkey_femicides_ironhack/blob/main/Sources/Clusters.PNG)<br/>
 
 ## Conclusion
 In conclusion, with the current amount of data, it is not possible to predict the number of cases that will happen in each region.
