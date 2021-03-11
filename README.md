@@ -91,18 +91,19 @@ I tried three different models and evaluated them based on the r score. <br/>
 - Random Forest Regressor 
 - KNeighborsRegressor
 <br/>
-### Model performance
+
+### Model performance  <br/>
 All three models worked quite badly on the prediction work:<br/>
 - Liner Regressio : r^2= 0.03
 - Random Forest Regressor : r^2 = -0.01
 - KNeighborsRegressor : r^2 = -0.004<br/>
 
-### Clustering as Alternative
+### Clustering as Alternative <br/>
 I clustered in 8 custers, only two show a particular relevance:
 - both have  a high percentage of kurdish population, and having either center or rigt wing political attitudes
 ![alt text](https://github.com/alliesegre/turkey_femicides_ironhack/blob/main/Sources/Clusters.PNG)<br/>
 
-## Conclusion
+## Conclusion <br/>
 In conclusion, with the current amount of data, it is not possible to predict the number of cases that will happen in each region.
 However, the clustering does show some patterns for what concerns politics and ethnicity.
 I will further explore patterns in Tableau.
