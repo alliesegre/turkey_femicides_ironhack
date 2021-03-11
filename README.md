@@ -1,4 +1,4 @@
-![alt text](https://github.com/alliesegre/IronhackMidProjectOADAteam/blob/main/Tableau_Overview.png)
+![alt text](https://github.com/alliesegre/
 
 # Ironhack Final Project: Exploring Femicides cases in Turkey - regional characteristics and politics.
 #### *Alice Segre*
