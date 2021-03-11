@@ -1,1962 +1,1962 @@
 ,age,date,prov_name,perpetrator_en_new,excuses_cat
-0,18.0,2017-12-31, istanbul,boyfriend,Unknown
-1,17.0,2017-12-31, burdur,boyfriend,Separation & Jealousy
-2,38.0,2017-12-30, bolu,boyfriend,Other
-3,53.0,2017-12-27, ankara,boyfriend,Separation & Jealousy
-4,22.0,2017-12-25, diyarbakir,partner,Separation & Jealousy
-5,49.0,2017-12-24, usak,son,Unknown
-6,38.0,2017-12-24, mugla,boyfriend,Separation & Jealousy
-7,38.0,2017-12-23, hatay,ex-partner,Separation & Jealousy
-8,28.0,2017-12-23, adana,ex-partner,Other
-9,40.0,2017-12-19, i̇zmir,boyfriend,Unknown
-10,21.0,2017-12-19, i̇zmir,known man,Other
-11,37.0,2017-12-18, adana,boyfriend,Separation & Jealousy
-12,36.0,2017-12-18, adana,known man,Other
-13,43.0,2017-12-17, manisa,partner,Other
-14,33.0,2017-12-13, sivas,partner,Other
-15,7.0,2017-12-13, kayseri,father,Other
-16,41.0,2017-12-13, kayseri,partner,Other
-17,16.0,2017-12-13, kayseri,father,Other
-18,30.0,2017-12-11, kocaeli,partner,Other
-19,40.0,2017-12-10, bursa,known man,Separation & Jealousy
-20,35.0,2017-12-09, istanbul,son,Unknown
-21,41.0,2017-12-06, amasya,partner,Separation & Jealousy
-22,35.0,2017-12-05, batman,relative,Unknown
-23,27.0,2017-12-05, antalya,partner,Separation & Jealousy
-24,19.0,2017-12-05, tekirdag,known man,Separation & Jealousy
-25,,2017-12-04, diyarbakir,partner,Unknown
-26,11.0,2017-12-03, zonguldak,father,Other
-27,22.0,2017-12-03, bursa,partner,Separation & Jealousy
-28,17.0,2017-12-03, istanbul,boyfriend,Separation & Jealousy
-29,39.0,2017-12-03, zonguldak,ex-partner,Other
-30,40.0,2017-11-30, duzce,partner,Other
-31,16.0,2017-11-27, istanbul,boyfriend,Sexual expectation
-32,40.0,2017-11-27, istanbul,partner,Separation & Jealousy
-33,20.0,2017-11-26, sanliurfa,father,Unknown
-34,,2017-11-25, zonguldak,son,Other
-35,60.0,2017-11-24, konya,partner,Unknown
-36,19.0,2017-11-19, sakarya,father,Unknown
-37,28.0,2017-11-18, yozgat,partner,Separation & Jealousy
-38,35.0,2017-11-17, adana,son,Other
-39,49.0,2017-11-16, diyarbakir,brother,Other
-40,32.0,2017-11-14, istanbul,partner,Unknown
-41,25.0,2017-11-12, mersin,boyfriend,Unknown
-42,24.0,2017-11-11, sakarya,ex-partner,Unknown
-43,64.0,2017-11-04, aksaray,partner,Unknown
-44,35.0,2017-11-02, denizli,ex-partner,Separation & Jealousy
-45,35.0,2017-10-31, istanbul,partner,Separation & Jealousy
-46,21.0,2017-10-30, adana,known man,Unknown
-47,38.0,2017-10-28, antalya,boyfriend,Other
-48,62.0,2017-10-28, istanbul,partner,Separation & Jealousy
-49,31.0,2017-10-22, afyonkarahisar,partner,Unknown
-50,31.0,2017-10-20, kocaeli,boyfriend,Masculinity&Honor
-51,32.0,2017-10-17, gaziantep,partner,Separation & Jealousy
-52,33.0,2017-10-15, kocaeli,partner,Unknown
-53,47.0,2017-10-15, antalya,partner,Unknown
-54,23.0,2017-10-15, antalya,father,Unknown
-55,17.0,2017-10-14, istanbul,known man,Separation & Jealousy
-56,24.0,2017-10-14, istanbul,brother,Masculinity&Honor
-57,22.0,2017-10-13, elazig,father,Other
-58,39.0,2017-10-12, duzce,partner,Unknown
-59,36.0,2017-10-11, istanbul,ex-partner,Separation & Jealousy
-60,20.0,2017-10-10, istanbul,relative,Woman Decision and Preferences
-61,44.0,2017-10-10, zonguldak,son,Masculinity&Honor
-62,47.0,2017-10-09, tekirdag,partner,Masculinity&Honor
-63,25.0,2017-10-08, kars,partner,Other
-64,55.0,2017-10-08, manisa,partner,Other
-65,23.0,2017-10-07, yozgat,partner,Unknown
-66,56.0,2017-10-07, yozgat,partner,Unknown
-67,35.0,2017-10-07, bolu,partner,Unknown
-68,37.0,2017-10-07, aydin,known man,Sexual expectation
-69,53.0,2017-10-05, tekirdag,partner,Unknown
-70,75.0,2017-10-05, manisa,partner,Other
-71,36.0,2017-10-04, kastamonu,partner,Separation & Jealousy
-72,42.0,2017-10-04, tokat,known man,Fight
-73,,2017-10-03, isparta,partner,Other
-74,26.0,2017-09-30, tokat,relative,Masculinity&Honor
-75,31.0,2017-09-28, usak,ex-partner,Unknown
-76,31.0,2017-09-27, denizli,ex-partner,Masculinity&Honor
-77,6.0,2017-09-26, balikesir,known man,Other
-78,70.0,2017-09-26, sanliurfa,son,Other
-79,32.0,2017-09-23, i̇zmir,known man,Other
-80,60.0,2017-09-22, istanbul,relative,Other
-81,22.0,2017-09-22, istanbul,relative,Other
-82,42.0,2017-09-21, kilis,partner,Other
-83,45.0,2017-09-21, tekirdag,partner,Separation & Jealousy
-84,25.0,2017-09-21, kilis,partner,Separation & Jealousy
-85,35.0,2017-09-21, bursa,partner,Other
-86,20.0,2017-09-20, burdur,boyfriend,Other
-87,62.0,2017-09-20, bolu,partner,Other
-88,,2017-09-20, mersin,ex-partner,Unknown
-89,23.0,2017-09-19, mersin,known man,Other
-90,26.0,2017-09-19, istanbul,partner,Separation & Jealousy
-91,55.0,2017-09-14, konya,known man,Fight
-92,22.0,2017-09-14, istanbul,partner,Separation & Jealousy
-93,30.0,2017-09-14, istanbul,relative,Other
-94,35.0,2017-09-14, konya,partner,Separation & Jealousy
-95,51.0,2017-09-11, antalya,boyfriend,Other
-96,36.0,2017-09-09, mus,brother,Unknown
-97,,2017-09-09, mus,partner,Unknown
-98,,2017-09-09, mus,relative,Unknown
-99,,2017-09-09, mus,relative,Unknown
-100,42.0,2017-09-09, gaziantep,partner,Unknown
-101,31.0,2017-09-08, i̇zmir,attacker,Other
-102,5.0,2017-09-07, nevsehir,relative,Unknown
-103,33.0,2017-09-04, sanliurfa,relative,Unknown
-104,46.0,2017-09-04, samsun,relative,Separation & Jealousy
-105,36.0,2017-09-02, i̇zmir,ex-partner,Separation & Jealousy
-106,30.0,2017-09-02, istanbul,partner,Separation & Jealousy
-107,36.0,2017-09-01, aydin,partner,Unknown
-108,24.0,2017-08-31, balikesir,partner,Other
-109,37.0,2017-08-31, konya,partner,Separation & Jealousy
-110,,2017-08-21, gaziantep,partner,Other
-111,45.0,2017-08-19, konya,boyfriend,Woman Decision and Preferences
-112,24.0,2017-08-18, trabzon,known man,Sexual expectation
-113,70.0,2017-08-17, istanbul,relative,Other
-114,37.0,2017-08-17, antalya,partner,Other
-115,26.0,2017-08-16, i̇zmir,partner,Unknown
-116,41.0,2017-08-14, manisa,known man,Unknown
-117,25.0,2017-08-11, kocaeli,partner,Unknown
-118,51.0,2017-08-10, kocaeli,partner,Separation & Jealousy
-119,21.0,2017-07-31, agri,partner,Unknown
-120,17.0,2017-07-30, tokat,boyfriend,Separation & Jealousy
-121,40.0,2017-07-30, sanliurfa,ex-partner,Other
-122,20.0,2017-07-30, sanliurfa,father,Other
-123,27.0,2017-07-27, konya,partner,Unknown
-124,70.0,2017-07-21, sinop,partner,Other
-125,47.0,2017-07-20, adana,ex-partner,Other
-126,33.0,2017-07-13, kayseri,partner,Unknown
-127,35.0,2017-07-11, manisa,ex-partner,Masculinity&Honor
-128,34.0,2017-07-11, kutahya,boyfriend,Separation & Jealousy
-129,63.0,2017-07-09, adana,known man,Other
-130,34.0,2017-07-09, adana,relative,Other
-131,24.0,2017-07-09, corum,known man,Unknown
-132,65.0,2017-07-06, mersin,relative,Unknown
-133,20.0,2017-07-06, sakarya,attacker,Sexual expectation
-134,33.0,2017-07-05, manisa,partner,Other
-135,20.0,2017-07-02, gaziantep,partner,Separation & Jealousy
-136,33.0,2017-07-01, hatay,partner,Woman Decision and Preferences
-137,88.0,2017-06-30, elazig,son,Unknown
-138,46.0,2017-06-29, bursa,partner,Separation & Jealousy
-139,24.0,2017-06-26, ankara,ex-partner,Unknown
-140,17.0,2017-06-20, kocaeli,father,Woman Decision and Preferences
-141,26.0,2017-06-18, adana,partner,Separation & Jealousy
-142,29.0,2017-06-17, bilecik,partner,Separation & Jealousy
-143,51.0,2017-06-15, i̇zmir,partner,Masculinity&Honor
-144,26.0,2017-06-13, bursa,known man,Other
-145,36.0,2017-06-13, konya,boyfriend,Unknown
-146,16.0,2017-06-04, afyonkarahisar,relative,Other
-147,30.0,2017-06-03, antalya,partner,Separation & Jealousy
-148,31.0,2017-06-03, antalya,relative,Other
-149,50.0,2017-06-03, denizli,relative,Other
-150,55.0,2017-06-03, denizli,partner,Separation & Jealousy
-151,6.0,2017-06-02, yalova,attacker,Sexual expectation
-152,45.0,2017-06-02, i̇zmir,boyfriend,Masculinity&Honor
-153,35.0,2017-06-02, istanbul,partner,Masculinity&Honor
-154,5.0,2017-05-30, i̇zmir,father,Unknown
-155,34.0,2017-05-30, i̇zmir,partner,Unknown
-156,1.0,2017-05-28, gaziantep,father,Other
-157,21.0,2017-05-28, hatay,partner,Separation & Jealousy
-158,6.0,2017-05-28, gaziantep,father,Other
-159,28.0,2017-05-28, gaziantep,partner,Other
-160,18.0,2017-05-27, istanbul,brother,Masculinity&Honor
-161,2.0,2017-05-26, edirne,relative,Other
-162,,2017-05-26, edirne,relative,Fight
-163,54.0,2017-05-24, hatay,son,Unknown
-164,30.0,2017-05-24, diyarbakir,partner,Separation & Jealousy
-165,37.0,2017-05-23, bursa,partner,Other
-166,23.0,2017-05-21, bursa,partner,Other
-167,55.0,2017-05-21, aydin,known man,Woman Decision and Preferences
-168,44.0,2017-05-18, antalya,boyfriend,Unknown
-169,41.0,2017-05-17, konya,ex-partner,Children
-170,59.0,2017-05-17, konya,relative,Other
-171,32.0,2017-05-16, i̇zmir,ex-partner,Other
-172,35.0,2017-05-16, ankara,partner,Separation & Jealousy
-173,18.0,2017-05-12, mugla,known man,Separation & Jealousy
-174,24.0,2017-05-10, kayseri,boyfriend,Other
-175,28.0,2017-05-10, i̇zmir,relative,Masculinity&Honor
-176,79.0,2017-05-08, kilis,relative,Unknown
-177,46.0,2017-05-08, samsun,partner,Separation & Jealousy
-178,40.0,2017-05-06, i̇zmir,ex-partner,Other
-179,,2017-05-06, istanbul,boyfriend,Other
-180,19.0,2017-05-05, istanbul,partner,Separation & Jealousy
-181,16.0,2017-05-05, bursa,boyfriend,Unknown
-182,41.0,2017-05-03, adana,relative,Separation & Jealousy
-183,31.0,2017-05-03, istanbul,boyfriend,Unknown
-184,66.0,2017-05-03, adana,relative,Separation & Jealousy
-185,68.0,2017-05-03, adana,relative,Separation & Jealousy
-186,18.0,2017-04-30, siirt,boyfriend,Masculinity&Honor
-187,35.0,2017-04-30, adana,relative,Other
-188,32.0,2017-04-30, adana,relative,Other
-189,30.0,2017-04-30, yozgat,brother,Other
-190,55.0,2017-04-28, bursa,son,Separation & Jealousy
-191,39.0,2017-04-27, istanbul,ex-partner,Unknown
-192,60.0,2017-04-25, sanliurfa,partner,Other
-193,63.0,2017-04-23, bursa,partner,Unknown
-194,40.0,2017-04-23, adana,partner,Unknown
-195,45.0,2017-04-19, antalya,boyfriend,Masculinity&Honor
-196,51.0,2017-04-19, van,partner,Other
-197,27.0,2017-04-16, istanbul,partner,Separation & Jealousy
-198,20.0,2017-04-14, aydin,father,Separation & Jealousy
-199,35.0,2017-04-13, ankara,brother,Masculinity&Honor
-200,22.0,2017-04-13, balikesir,partner,Unknown
-201,21.0,2017-04-11, adana,relative,Masculinity&Honor
-202,31.0,2017-04-11, adana,relative,Masculinity&Honor
-203,55.0,2017-04-10, istanbul,ex-partner,Separation & Jealousy
-204,35.0,2017-04-08, afyonkarahisar,relative,Other
-205,26.0,2017-04-03, tekirdag,boyfriend,Separation & Jealousy
-206,,2017-03-31, agri,son,Unknown
-207,,2017-03-31, kastamonu,boyfriend,Unknown
-208,37.0,2017-03-31, bursa,partner,Separation & Jealousy
-209,26.0,2017-03-28, manisa,boyfriend,Separation & Jealousy
-210,5.0,2017-03-28, hatay,father,Other
-211,28.0,2017-03-28, hatay,ex-partner,Separation & Jealousy
-212,29.0,2017-03-27, afyonkarahisar,ex-partner,Separation & Jealousy
-213,,2017-03-22, ankara,ex-partner,Unknown
-214,64.0,2017-03-21, kayseri,known man,Other
-215,28.0,2017-03-21, i̇zmir,boyfriend,Separation & Jealousy
-216,60.0,2017-03-21, gaziantep,partner,Unknown
-217,43.0,2017-03-20, istanbul,known man,Other
-218,32.0,2017-03-19, bursa,brother,Other
-219,34.0,2017-03-19, kahramanmaras,partner,Other
-220,38.0,2017-03-18, gaziantep,brother,Masculinity&Honor
-221,39.0,2017-03-17, tokat,partner,Separation & Jealousy
-222,45.0,2017-03-16, istanbul,partner,Unknown
-223,38.0,2017-03-16, balikesir,partner,Household service expectations
-224,,2017-03-15, istanbul,ex-partner,Unknown
-225,48.0,2017-03-14, denizli,boyfriend,Masculinity&Honor
-226,23.0,2017-03-11, gaziantep,partner,Masculinity&Honor
-227,68.0,2017-03-11, mugla,partner,Unknown
-228,3.0,2017-03-11, gaziantep,relative,Other
-229,20.0,2017-03-10, bursa,partner,Separation & Jealousy
-230,59.0,2017-03-09, bursa,son,Unknown
-231,25.0,2017-03-09, mugla,ex-partner,Masculinity&Honor
-232,,2017-03-07, i̇zmir,boyfriend,Masculinity&Honor
-233,42.0,2017-03-07, antalya,ex-partner,Woman Decision and Preferences
-234,79.0,2017-03-06, i̇zmir,relative,Unknown
-235,62.0,2017-03-02, kastamonu,partner,Unknown
-236,24.0,2017-03-01, istanbul,brother,Unknown
-237,50.0,2017-02-28, balikesir,attacker,Unknown
-238,29.0,2017-02-27, diyarbakir,relative,Other
-239,25.0,2017-02-25, agri,partner,Unknown
-240,64.0,2017-02-22, eskisehir,attacker,Other
-241,27.0,2017-02-21, manisa,partner,Separation & Jealousy
-242,10.0,2017-02-21, manisa,father,Other
-243,29.0,2017-02-19, antalya,partner,Separation & Jealousy
-244,25.0,2017-02-18, kayseri,partner,Separation & Jealousy
-245,26.0,2017-02-16, aksaray,boyfriend,Separation & Jealousy
-246,83.0,2017-02-15, bolu,attacker,Sexual expectation
-247,37.0,2017-02-14, antalya,partner,Unknown
-248,13.0,2017-02-14, antalya,father,Unknown
-249,37.0,2017-02-11, i̇zmir,boyfriend,Unknown
-250,17.0,2017-02-10, istanbul,ex-partner,Separation & Jealousy
-251,25.0,2017-02-09, istanbul,partner,Unknown
-252,53.0,2017-02-08, i̇zmir,partner,Other
-253,24.0,2017-02-08, mersin,ex-partner,Separation & Jealousy
-254,62.0,2017-02-05, yozgat,partner,Unknown
-255,35.0,2017-02-03, bursa,partner,Separation & Jealousy
-256,26.0,2017-02-01, istanbul,partner,Separation & Jealousy
-257,30.0,2017-01-30, sanliurfa,partner,Other
-258,20.0,2017-01-28, van,partner,Separation & Jealousy
-259,19.0,2017-01-28, sanliurfa,partner,Masculinity&Honor
-260,35.0,2017-01-28, samsun,ex-partner,Separation & Jealousy
-261,,2017-01-28, balikesir,partner,Separation & Jealousy
-262,46.0,2017-01-27, yozgat,partner,Separation & Jealousy
-263,23.0,2017-01-25, i̇zmir,relative,Unknown
-264,27.0,2017-01-21, sanliurfa,brother,Masculinity&Honor
-265,22.0,2017-01-21, istanbul,partner,Other
-266,42.0,2017-01-20, giresun,partner,Other
-267,18.0,2017-01-20, giresun,partner,Separation & Jealousy
-268,47.0,2017-01-18, i̇zmir,known man,Woman Decision and Preferences
-269,23.0,2017-01-18, i̇zmir,known man,Other
-270,20.0,2017-01-18, i̇zmir,known man,Unknown
-271,43.0,2017-01-17, istanbul,boyfriend,Other
-272,36.0,2017-01-17, i̇zmir,partner,Separation & Jealousy
-273,51.0,2017-01-16, kocaeli,partner,Other
-274,32.0,2017-01-16, kocaeli,relative,Other
-275,42.0,2017-01-16, adana,boyfriend,Separation & Jealousy
-276,29.0,2017-01-16, sivas,known man,Woman Decision and Preferences
-277,35.0,2017-01-13, antalya,known man,Unknown
-278,38.0,2017-01-12, balikesir,partner,Separation & Jealousy
-279,48.0,2017-01-05, trabzon,brother,Other
-280,50.0,2017-01-05, trabzon,brother,Other
-281,23.0,2017-01-05, konya,known man,Other
-282,22.0,2017-01-05, istanbul,partner,Other
-283,75.0,2017-01-05, trabzon,son,Other
-284,47.0,2017-01-03, balikesir,partner,Separation & Jealousy
-285,46.0,2016-12-29, i̇zmir,partner,Separation & Jealousy
-286,86.0,2016-12-28, eskisehir,attacker,Other
-287,25.0,2016-12-27, kirklareli,ex-partner,Unknown
-288,24.0,2016-12-27, van,partner,Unknown
-289,38.0,2016-12-23, kayseri,partner,Other
-290,35.0,2016-12-22, mersin,partner,Separation & Jealousy
-291,22.0,2016-12-18, i̇zmir,partner,Other
-292,68.0,2016-12-17, yalova,partner,Other
-293,45.0,2016-12-17, yalova,partner,Separation & Jealousy
-294,23.0,2016-12-17, antalya,partner,Separation & Jealousy
-295,,2016-12-16, diyarbakir,son,Unknown
-296,18.0,2016-12-10, bolu,ex-partner,Separation & Jealousy
-297,22.0,2016-12-09, istanbul,partner,Separation & Jealousy
-298,27.0,2016-12-07, adana,attacker,Other
-299,21.0,2016-12-07, adana,partner,Masculinity&Honor
-300,25.0,2016-12-03, bursa,known man,Separation & Jealousy
-301,28.0,2016-12-03, kutahya,partner,Separation & Jealousy
-302,,2016-11-30, balikesir,son,Other
-303,34.0,2016-11-27, balikesir,partner,Unknown
-304,48.0,2016-11-25, mugla,boyfriend,Masculinity&Honor
-305,49.0,2016-11-24, eskisehir,partner,Masculinity&Honor
-306,37.0,2016-11-20, adana,partner,Other
-307,22.0,2016-11-19, istanbul,partner,Other
-308,24.0,2016-11-18, elazig,partner,Unknown
-309,37.0,2016-11-17, i̇zmir,ex-partner,Unknown
-310,32.0,2016-11-17, konya,ex-partner,Separation & Jealousy
-311,71.0,2016-11-17, konya,relative,Other
-312,36.0,2016-11-13, konya,boyfriend,Unknown
-313,38.0,2016-11-12, antalya,partner,Unknown
-314,31.0,2016-11-10, istanbul,boyfriend,Separation & Jealousy
-315,43.0,2016-11-10, ordu,son,Unknown
-316,45.0,2016-11-07, adana,partner,Separation & Jealousy
-317,24.0,2016-11-06, kayseri,partner,Separation & Jealousy
-318,20.0,2016-11-03, gaziantep,partner,Other
-319,63.0,2016-11-03, afyonkarahisar,attacker,Other
-320,29.0,2016-11-02, gaziantep,partner,Other
-321,26.0,2016-10-28, erzincan,partner,Unknown
-322,50.0,2016-10-27, ordu,partner,Unknown
-323,22.0,2016-10-26, istanbul,ex-partner,Children
-324,29.0,2016-10-25, antalya,boyfriend,Separation & Jealousy
-325,30.0,2016-10-23, i̇zmir,ex-partner,Masculinity&Honor
-326,29.0,2016-10-17, van,partner,Unknown
-327,66.0,2016-10-17, balikesir,boyfriend,Other
-328,4.0,2016-10-14, manisa,attacker,Sexual expectation
-329,20.0,2016-10-14, tokat,partner,Separation & Jealousy
-330,17.0,2016-10-11, sanliurfa,brother,Masculinity&Honor
-331,35.0,2016-10-11, istanbul,ex-partner,Unknown
-332,44.0,2016-10-11, balikesir,known man,Unknown
-333,22.0,2016-10-09, aydin,partner,Separation & Jealousy
-334,45.0,2016-10-09, aydin,partner,Other
-335,44.0,2016-10-08, mugla,ex-partner,Separation & Jealousy
-336,36.0,2016-10-08, mersin,partner,Other
-337,82.0,2016-10-07, osmaniye,son,Other
-338,38.0,2016-10-06, istanbul,partner,Separation & Jealousy
-339,20.0,2016-10-06, trabzon,ex-partner,Other
-340,27.0,2016-10-05, sanliurfa,partner,Separation & Jealousy
-341,30.0,2016-10-04, eskisehir,partner,Woman Decision and Preferences
-342,41.0,2016-10-01, malatya,partner,Unknown
-343,,2016-10-01, corum,partner,Unknown
-344,33.0,2016-09-30, ankara,partner,Separation & Jealousy
-345,70.0,2016-09-29, bolu,partner,Other
-346,18.0,2016-09-28, i̇zmir,ex-partner,Unknown
-347,17.0,2016-09-27, antalya,known man,Separation & Jealousy
-348,35.0,2016-09-26, istanbul,boyfriend,Unknown
-349,22.0,2016-09-21, malatya,partner,Masculinity&Honor
-350,37.0,2016-09-21, kutahya,ex-partner,Unknown
-351,62.0,2016-09-21, corum,partner,Other
-352,29.0,2016-09-20, ankara,partner,Separation & Jealousy
-353,22.0,2016-09-19, mersin,relative,Unknown
-354,39.0,2016-09-19, gaziantep,ex-partner,Masculinity&Honor
-355,18.0,2016-09-18, bursa,known man,Separation & Jealousy
-356,27.0,2016-09-17, ankara,partner,Unknown
-357,39.0,2016-09-14, antalya,ex-partner,Separation & Jealousy
-358,30.0,2016-09-12, sanliurfa,partner,Separation & Jealousy
-359,29.0,2016-09-09, i̇zmir,boyfriend,Other
-360,,2016-09-08, kahramanmaras,partner,Other
-361,34.0,2016-09-04, mersin,brother,Separation & Jealousy
-362,60.0,2016-09-02, edirne,known man,Fight
-363,39.0,2016-08-30, kayseri,partner,Separation & Jealousy
-364,24.0,2016-08-30, diyarbakir,partner,Unknown
-365,26.0,2016-08-28, denizli,partner,Other
-366,20.0,2016-08-28, antalya,partner,Unknown
-367,39.0,2016-08-25, karaman,partner,Separation & Jealousy
-368,55.0,2016-08-20, antalya,ex-partner,Unknown
-369,66.0,2016-08-18, corum,partner,Unknown
-370,33.0,2016-08-17, trabzon,brother,Other
-371,64.0,2016-08-17, gaziantep,partner,Other
-372,22.0,2016-08-16, antalya,known man,Other
-373,26.0,2016-08-16, bitlis,partner,Unknown
-374,46.0,2016-08-15, manisa,partner,Other
-375,30.0,2016-08-13, konya,father,Other
-376,,2016-08-12, konya,partner,Separation & Jealousy
-377,23.0,2016-08-12, istanbul,attacker,Woman Decision and Preferences
-378,25.0,2016-08-11, manisa,partner,Separation & Jealousy
-380,17.0,2016-08-05, eskisehir,attacker,Sexual expectation
-381,42.0,2016-08-04, konya,partner,Unknown
-382,6.0,2016-08-04, konya,father,Unknown
-383,73.0,2016-08-03, duzce,son,Other
-384,45.0,2016-08-03, duzce,brother,Other
-385,17.0,2016-08-03, batman,brother,Woman Decision and Preferences
-386,45.0,2016-07-23, burdur,brother,Other
-387,35.0,2016-07-23, van,partner,Woman Decision and Preferences
-388,,2016-07-18, mardin,partner,Other
-389,,2016-07-18, mardin,relative,Other
-390,88.0,2016-07-17, sanliurfa,partner,Unknown
-391,54.0,2016-07-14, bayburt,known man,Unknown
-392,41.0,2016-07-13, karaman,partner,Fight
-393,32.0,2016-07-12, ankara,partner,Unknown
-394,25.0,2016-07-12, i̇zmir,boyfriend,Unknown
-395,50.0,2016-07-12, kirikkale,partner,Other
-396,5.0,2016-07-11, antalya,relative,Other
-397,31.0,2016-07-11, kayseri,partner,Other
-398,45.0,2016-07-11, antalya,partner,Fight
-399,39.0,2016-07-10, bursa,known man,Separation & Jealousy
-400,30.0,2016-07-09, adana,partner,Other
-401,45.0,2016-07-07, giresun,ex-partner,Unknown
-402,47.0,2016-07-07, mersin,partner,Masculinity&Honor
-403,49.0,2016-07-05, kocaeli,known man,Other
-404,24.0,2016-07-04, konya,boyfriend,Unknown
-405,42.0,2016-07-02, antalya,partner,Unknown
-406,57.0,2016-06-27, kocaeli,partner,Masculinity&Honor
-407,12.0,2016-06-25, yalova,relative,Sexual expectation
-408,27.0,2016-06-23, kocaeli,partner,Separation & Jealousy
-409,33.0,2016-06-23, gaziantep,relative,Other
-410,30.0,2016-06-23, mugla,partner,Woman Decision and Preferences
-411,34.0,2016-06-22, ankara,partner,Other
-412,31.0,2016-06-20, antalya,partner,Unknown
-413,32.0,2016-06-19, gaziantep,partner,Separation & Jealousy
-415,29.0,2016-06-16, istanbul,known man,Unknown
-416,60.0,2016-06-15, i̇zmir,ex-partner,Other
-417,35.0,2016-06-15, elazig,partner,Unknown
-418,21.0,2016-06-15, istanbul,partner,Separation & Jealousy
-419,23.0,2016-06-14, igdir,ex-partner,Unknown
-420,68.0,2016-06-13, i̇zmir,attacker,Other
-421,61.0,2016-06-13, istanbul,partner,Other
-422,30.0,2016-06-12, mugla,ex-partner,Unknown
-423,3.0,2016-06-08, mersin,father,Unknown
-424,30.0,2016-06-08, mersin,partner,Unknown
-425,26.0,2016-06-07, sakarya,partner,Separation & Jealousy
-426,54.0,2016-06-02, antalya,partner,Unknown
-427,22.0,2016-05-31, van,partner,Separation & Jealousy
-428,26.0,2016-05-31, ankara,partner,Other
-429,20.0,2016-05-30, eskisehir,partner,Unknown
-430,24.0,2016-05-29, balikesir,ex-partner,Unknown
-431,29.0,2016-05-28, mugla,ex-partner,Masculinity&Honor
-432,40.0,2016-05-28, istanbul,known man,Other
-433,41.0,2016-05-27, adana,boyfriend,Separation & Jealousy
-434,,2016-05-25, samsun,known man,Unknown
-435,35.0,2016-05-21, trabzon,partner,Masculinity&Honor
-436,41.0,2016-05-14, mugla,boyfriend,Unknown
-437,30.0,2016-05-11, edirne,ex-partner,Other
-439,67.0,2016-05-11, i̇zmir,relative,Unknown
-440,33.0,2016-05-08, igdir,partner,Woman Decision and Preferences
-441,33.0,2016-05-06, istanbul,partner,Separation & Jealousy
-442,43.0,2016-05-04, istanbul,son,Masculinity&Honor
-443,19.0,2016-05-01, igdir,partner,Separation & Jealousy
-444,36.0,2016-04-29, istanbul,boyfriend,Other
-445,49.0,2016-04-29, karabuk,partner,Separation & Jealousy
-446,23.0,2016-04-28, i̇zmir,partner,Separation & Jealousy
-447,25.0,2016-04-27, adana,brother,Masculinity&Honor
-448,27.0,2016-04-26, ankara,ex-partner,Unknown
-449,27.0,2016-04-25, antalya,partner,Other
-450,22.0,2016-04-19, denizli,boyfriend,Separation & Jealousy
-451,55.0,2016-04-18, i̇zmir,relative,Unknown
-452,66.0,2016-04-17, bursa,partner,Unknown
-453,25.0,2016-04-14, gaziantep,brother,Masculinity&Honor
-454,75.0,2016-04-14, kocaeli,son,Other
-455,30.0,2016-04-13, elazig,partner,Separation & Jealousy
-456,39.0,2016-04-13, kocaeli,boyfriend,Unknown
-457,33.0,2016-04-11, i̇zmir,partner,Unknown
-458,36.0,2016-04-11, gaziantep,partner,Unknown
-459,6.0,2016-04-10, istanbul,relative,Sexual expectation
-460,33.0,2016-04-09, mersin,ex-partner,Unknown
-461,43.0,2016-04-04, kayseri,partner,Separation & Jealousy
-462,52.0,2016-04-02, istanbul,brother,Fight
-463,33.0,2016-03-31, konya,boyfriend,Other
-464,37.0,2016-03-30, sanliurfa,boyfriend,Unknown
-465,45.0,2016-03-29, manisa,partner,Other
-466,41.0,2016-03-29, istanbul,known man,Sexual expectation
-467,31.0,2016-03-28, erzurum,ex-partner,Separation & Jealousy
-468,76.0,2016-03-23, istanbul,relative,Other
-469,52.0,2016-03-23, aydin,partner,Other
-470,35.0,2016-03-20, tekirdag,known man,Other
-471,,2016-03-18, ankara,ex-partner,Separation & Jealousy
-472,,2016-03-18, ankara,ex-partner,Masculinity&Honor
-473,17.0,2016-03-17, i̇zmir,ex-partner,Masculinity&Honor
-474,51.0,2016-03-15, trabzon,partner,Unknown
-475,18.0,2016-03-15, trabzon,father,Unknown
-476,21.0,2016-03-12, usak,partner,Unknown
-477,31.0,2016-03-09, gaziantep,brother,Other
-478,18.0,2016-03-08, hakkâri,relative,Other
-479,16.0,2016-03-08, hakkâri,relative,Other
-480,31.0,2016-03-08, sanliurfa,son,Unknown
-481,47.0,2016-03-08, i̇zmir,boyfriend,Other
-482,5.0,2016-03-08, hakkâri,father,Other
-483,27.0,2016-03-07, istanbul,partner,Separation & Jealousy
-484,55.0,2016-03-07, i̇zmir,partner,Separation & Jealousy
-485,28.0,2016-03-06, istanbul,partner,Separation & Jealousy
-486,39.0,2016-03-06, zonguldak,boyfriend,Separation & Jealousy
-487,57.0,2016-03-06, zonguldak,known man,Other
-488,31.0,2016-03-06, istanbul,known man,Unknown
-489,20.0,2016-03-05, adana,brother,Woman Decision and Preferences
-490,52.0,2016-03-02, kocaeli,partner,Unknown
-491,66.0,2016-03-01, kocaeli,partner,Other
-492,47.0,2016-03-01, kocaeli,partner,Separation & Jealousy
-493,45.0,2016-02-26, i̇zmir,ex-partner,Separation & Jealousy
-494,47.0,2016-02-25, tokat,known man,Other
-495,23.0,2016-02-24, zonguldak,attacker,Unknown
-496,23.0,2016-02-23, bartin,partner,Separation & Jealousy
-497,24.0,2016-02-22, istanbul,partner,Separation & Jealousy
-498,29.0,2016-02-16, amasya,known man,Separation & Jealousy
-499,25.0,2016-02-15, adana,known man,Separation & Jealousy
-500,31.0,2016-02-15, diyarbakir,boyfriend,Separation & Jealousy
-501,25.0,2016-02-14, istanbul,partner,Other
-502,52.0,2016-02-12, denizli,attacker,Unknown
-503,16.0,2016-02-11, aksaray,boyfriend,Separation & Jealousy
-504,33.0,2016-02-09, sanliurfa,partner,Unknown
-505,21.0,2016-02-05, gaziantep,partner,Separation & Jealousy
-506,13.0,2016-02-05, gaziantep,relative,Other
-507,20.0,2016-02-05, ankara,relative,Other
-508,48.0,2016-02-05, gaziantep,relative,Other
-509,35.0,2016-02-05, istanbul,partner,Fight
-510,22.0,2016-02-05, gaziantep,relative,Other
-511,40.0,2016-02-05, ankara,relative,Other
-512,36.0,2016-02-05, gaziantep,relative,Other
-513,48.0,2016-02-04, antalya,partner,Unknown
-514,31.0,2016-02-03, adana,brother,Masculinity&Honor
-515,50.0,2016-02-03, bursa,partner,Masculinity&Honor
-516,22.0,2016-02-01, kastamonu,partner,Unknown
-517,34.0,2016-01-30, istanbul,partner,Separation & Jealousy
-518,40.0,2016-01-30, istanbul,known man,Separation & Jealousy
-519,22.0,2016-01-28, yozgat,partner,Other
-520,20.0,2016-01-28, kocaeli,partner,Separation & Jealousy
-521,18.0,2016-01-27, ankara,father,Unknown
-522,45.0,2016-01-27, ankara,partner,Unknown
-523,16.0,2016-01-24, elazig,relative,Fight
-524,33.0,2016-01-20, antalya,partner,Separation & Jealousy
-525,53.0,2016-01-20, isparta,son,Other
-526,15.0,2016-01-20, balikesir,boyfriend,Masculinity&Honor
-527,67.0,2016-01-20, samsun,son,Other
-528,,2016-01-20, isparta,known man,Other
-529,63.0,2016-01-20, batman,relative,Other
-530,46.0,2016-01-19, artvin,partner,Other
-531,84.0,2016-01-19, konya,attacker,Other
-532,60.0,2016-01-18, gaziantep,partner,Other
-533,26.0,2016-01-15, aydin,boyfriend,Separation & Jealousy
-534,37.0,2016-01-15, duzce,son,Woman Decision and Preferences
-535,30.0,2016-01-15, kocaeli,partner,Separation & Jealousy
-536,31.0,2016-01-14, i̇zmir,ex-partner,Unknown
-537,49.0,2016-01-09, corum,son,Other
-538,19.0,2016-01-08, adana,father,Other
-539,26.0,2016-01-07, bursa,ex-partner,Masculinity&Honor
-540,27.0,2016-01-07, zonguldak,boyfriend,Unknown
-541,35.0,2016-01-06, rize,known man,Sexual expectation
-542,26.0,2016-01-04, i̇zmir,known man,Other
-543,23.0,2016-01-03, batman,boyfriend,Unknown
-544,40.0,2016-01-01, aydin,ex-partner,Children
-545,28.0,2016-01-01, osmaniye,father,Separation & Jealousy
-546,30.0,2015-12-28, tokat,partner,Unknown
-547,20.0,2015-12-26, gaziantep,attacker,Unknown
-548,36.0,2015-12-25, samsun,partner,Separation & Jealousy
-549,,2015-12-23, istanbul,known man,Woman Decision and Preferences
-550,43.0,2015-12-22, trabzon,ex-partner,Woman Decision and Preferences
-551,24.0,2015-12-19, kirklareli,ex-partner,Separation & Jealousy
-552,23.0,2015-12-14, kayseri,boyfriend,Other
-553,41.0,2015-12-13, gaziantep,brother,Other
-554,42.0,2015-12-13, gaziantep,brother,Other
-555,35.0,2015-12-13, erzincan,known man,Other
-556,26.0,2015-12-12, kars,partner,Separation & Jealousy
-557,50.0,2015-12-08, bingol,brother,Unknown
-558,30.0,2015-12-07, antalya,boyfriend,Sexual expectation
-559,20.0,2015-12-06, aydin,partner,Separation & Jealousy
-560,3.0,2015-12-06, aydin,father,Unknown
-561,,2015-12-03, istanbul,attacker,Woman Decision and Preferences
-562,23.0,2015-12-03, i̇zmir,partner,Separation & Jealousy
-563,16.0,2015-12-03, kirikkale,father,Masculinity&Honor
-564,52.0,2015-12-03, aydin,boyfriend,Unknown
-565,21.0,2015-12-01, bursa,relative,Other
-566,41.0,2015-12-01, bursa,boyfriend,Other
-567,40.0,2015-11-29, konya,partner,Separation & Jealousy
-568,50.0,2015-11-28, istanbul,attacker,Other
-569,33.0,2015-11-24, istanbul,known man,Woman Decision and Preferences
-570,20.0,2015-11-23, istanbul,ex-partner,Masculinity&Honor
-571,60.0,2015-11-22, mugla,son,Unknown
-572,40.0,2015-11-20, istanbul,boyfriend,Other
-573,49.0,2015-11-19, samsun,known man,Other
-574,40.0,2015-11-15, istanbul,partner,Separation & Jealousy
-575,30.0,2015-11-15, gaziantep,boyfriend,Other
-576,43.0,2015-11-13, trabzon,partner,Separation & Jealousy
-577,38.0,2015-11-12, manisa,ex-partner,Unknown
-578,32.0,2015-11-11, bursa,boyfriend,Masculinity&Honor
-579,25.0,2015-11-11, kocaeli,partner,Separation & Jealousy
-580,37.0,2015-11-09, bursa,partner,Other
-581,10.0,2015-11-09, bursa,father,Other
-582,60.0,2015-11-08, mugla,known man,Other
-583,45.0,2015-11-07, i̇zmir,brother,Other
-584,26.0,2015-11-04, igdir,partner,Unknown
-585,46.0,2015-11-03, hatay,partner,Separation & Jealousy
-586,31.0,2015-11-03, istanbul,partner,Unknown
-587,30.0,2015-11-02, kutahya,partner,Separation & Jealousy
-588,83.0,2015-11-02, balikesir,partner,Other
-589,57.0,2015-11-02, balikesir,partner,Separation & Jealousy
-590,18.0,2015-11-01, gaziantep,boyfriend,Other
-591,20.0,2015-10-30, gaziantep,boyfriend,Separation & Jealousy
-592,34.0,2015-10-30, istanbul,boyfriend,Unknown
-593,43.0,2015-10-30, edirne,known man,Separation & Jealousy
-594,34.0,2015-10-29, istanbul,partner,Separation & Jealousy
-595,48.0,2015-10-28, i̇zmir,partner,Other
-596,19.0,2015-10-27, afyonkarahisar,partner,Other
-597,57.0,2015-10-26, mersin,ex-partner,Masculinity&Honor
-598,27.0,2015-10-25, zonguldak,partner,Separation & Jealousy
-599,,2015-10-22, istanbul,partner,Other
-600,72.0,2015-10-21, kirikkale,partner,Other
-601,31.0,2015-10-21, gaziantep,father-in-law,Sexual expectation
-602,51.0,2015-10-21, gaziantep,partner,Other
-603,29.0,2015-10-20, ardahan,boyfriend,Woman Decision and Preferences
-604,22.0,2015-10-20, ardahan,known man,Other
-605,51.0,2015-10-16, eskisehir,partner,Masculinity&Honor
-606,21.0,2015-10-15, bolu,known man,Separation & Jealousy
-607,51.0,2015-10-09, giresun,partner,Other
-608,45.0,2015-10-08, aydin,partner,Other
-609,60.0,2015-10-06, gaziantep,brother,Other
-610,33.0,2015-10-04, kocaeli,known man,Separation & Jealousy
-611,18.0,2015-10-03, kocaeli,father,Masculinity&Honor
-612,32.0,2015-09-29, antalya,partner,Separation & Jealousy
-613,23.0,2015-09-28, trabzon,brother,Woman Decision and Preferences
-614,45.0,2015-09-25, bursa,partner,Fight
-615,20.0,2015-09-24, istanbul,boyfriend,Other
-616,24.0,2015-09-23, manisa,relative,Other
-617,22.0,2015-09-19, hatay,ex-partner,Other
-618,47.0,2015-09-19, sakarya,partner,Other
-619,53.0,2015-09-19, manisa,partner,Other
-620,28.0,2015-09-19, istanbul,boyfriend,Masculinity&Honor
-621,14.0,2015-09-16, adana,relative,Other
-622,44.0,2015-09-14, canakkale,partner,Separation & Jealousy
-623,40.0,2015-09-14, istanbul,known man,Other
-624,25.0,2015-09-14, adana,brother,Masculinity&Honor
-625,37.0,2015-09-14, istanbul,ex-partner,Separation & Jealousy
-626,32.0,2015-09-11, bursa,partner,Masculinity&Honor
-627,51.0,2015-09-08, duzce,relative,Fight
-628,52.0,2015-09-08, duzce,relative,Fight
-629,31.0,2015-09-08, i̇zmir,ex-partner,Separation & Jealousy
-630,39.0,2015-09-07, konya,son,Fight
-631,33.0,2015-09-07, antalya,ex-partner,Separation & Jealousy
-632,37.0,2015-09-06, sivas,ex-partner,Separation & Jealousy
-633,17.0,2015-09-06, samsun,partner,Other
-634,,2015-09-04, trabzon,known man,Woman Decision and Preferences
-635,24.0,2015-09-04, mersin,partner,Other
-636,32.0,2015-09-03, diyarbakir,partner,Separation & Jealousy
-637,18.0,2015-09-01, ankara,partner,Separation & Jealousy
-638,38.0,2015-08-29, manisa,boyfriend,Other
-639,32.0,2015-08-28, aydin,relative,Sexual expectation
-640,35.0,2015-08-27, giresun,partner,Unknown
-641,43.0,2015-08-27, antalya,known man,Fight
-642,23.0,2015-08-26, mersin,boyfriend,Unknown
-643,77.0,2015-08-19, ankara,son,Unknown
-644,52.0,2015-08-19, mersin,known man,Other
-645,42.0,2015-08-17, mugla,partner,Other
-646,65.0,2015-08-16, i̇zmir,partner,Other
-647,18.0,2015-08-16, ankara,partner,Separation & Jealousy
-648,36.0,2015-08-16, kocaeli,known man,Sexual expectation
-649,18.0,2015-08-14, erzurum,boyfriend,Separation & Jealousy
-650,29.0,2015-08-13, eskisehir,partner,Separation & Jealousy
-651,64.0,2015-08-12, samsun,partner,Other
-652,45.0,2015-08-12, adana,known man,Other
-653,35.0,2015-08-11, istanbul,boyfriend,Woman Decision and Preferences
-654,,2015-08-10, diyarbakir,partner,Separation & Jealousy
-655,32.0,2015-08-09, sivas,partner,Unknown
-656,25.0,2015-08-08, balikesir,partner,Other
-657,30.0,2015-08-08, diyarbakir,ex-partner,Other
-658,,2015-08-07, istanbul,known man,Unknown
-659,35.0,2015-08-05, kirsehir,father-in-law,Other
-660,,2015-07-31, diyarbakir,brother,Masculinity&Honor
-661,21.0,2015-07-31, giresun,known man,Woman Decision and Preferences
-662,48.0,2015-07-31, giresun,known man,Woman Decision and Preferences
-663,42.0,2015-07-30, ankara,partner,Other
-664,17.0,2015-07-28, i̇zmir,father,Woman Decision and Preferences
-665,67.0,2015-07-24, mersin,partner,Other
-666,20.0,2015-07-22, i̇zmir,partner,Other
-667,26.0,2015-07-17, afyonkarahisar,partner,Unknown
-668,15.0,2015-07-15, manisa,father,Unknown
-669,24.0,2015-07-14, i̇zmir,boyfriend,Other
-670,,2015-07-14, tekirdag,boyfriend,Other
-671,32.0,2015-07-13, aksaray,relative,Other
-672,60.0,2015-07-13, aksaray,partner,Other
-673,31.0,2015-07-13, aksaray,partner,Separation & Jealousy
-674,60.0,2015-07-10, istanbul,partner,Unknown
-675,17.0,2015-07-08, kocaeli,boyfriend,Unknown
-676,36.0,2015-07-06, bilecik,partner,Separation & Jealousy
-677,73.0,2015-07-03, konya,son,Other
-678,38.0,2015-07-03, samsun,partner,Other
-679,32.0,2015-07-02, tokat,partner,Unknown
-680,41.0,2015-06-28, adiyaman,ex-partner,Other
-681,20.0,2015-06-27, karaman,ex-partner,Children
-682,43.0,2015-06-27, karaman,relative,Other
-683,12.0,2015-06-27, karaman,relative,Other
-684,13.0,2015-06-27, karaman,relative,Other
-685,41.0,2015-06-25, adana,partner,Other
-686,35.0,2015-06-20, ankara,boyfriend,Masculinity&Honor
-687,18.0,2015-06-18, mugla,known man,Sexual expectation
-688,25.0,2015-06-18, gaziantep,partner,Other
-689,42.0,2015-06-18, bursa,boyfriend,Other
-690,75.0,2015-06-18, bursa,relative,Other
-691,39.0,2015-06-18, ankara,partner,Other
-692,6.0,2015-06-16, antalya,relative,Unknown
-693,42.0,2015-06-16, antalya,brother,Unknown
-694,24.0,2015-06-15, corum,partner,Masculinity&Honor
-695,19.0,2015-06-13, malatya,relative,Unknown
-696,35.0,2015-06-10, malatya,partner,Unknown
-697,5.0,2015-06-10, malatya,father,Unknown
-698,47.0,2015-06-10, balikesir,known man,Woman Decision and Preferences
-699,43.0,2015-06-09, kocaeli,son,Unknown
-700,55.0,2015-06-07, bolu,partner,Separation & Jealousy
-701,18.0,2015-06-02, antalya,partner,Masculinity&Honor
-702,65.0,2015-06-02, hatay,partner,Other
-703,26.0,2015-06-01, mugla,partner,Household service expectations
-704,23.0,2015-06-01, mugla,ex-partner,Unknown
-705,33.0,2015-06-01, manisa,relative,Unknown
-706,63.0,2015-05-27, elazig,partner,Other
-707,19.0,2015-05-27, kocaeli,partner,Separation & Jealousy
-708,39.0,2015-05-27, mugla,ex-partner,Separation & Jealousy
-709,33.0,2015-05-25, denizli,partner,Woman Decision and Preferences
-710,54.0,2015-05-23, igdir,known man,Other
-711,32.0,2015-05-23, ankara,partner,Unknown
-712,39.0,2015-05-23, corum,boyfriend,Unknown
-713,11.0,2015-05-23, ankara,father,Unknown
-714,19.0,2015-05-22, nevsehir,brother,Masculinity&Honor
-715,,2015-05-22, corum,relative,Other
-716,28.0,2015-05-22, diyarbakir,partner,Other
-717,43.0,2015-05-21, bursa,known man,Unknown
-718,,2015-05-18, ankara,ex-partner,Unknown
-719,40.0,2015-05-18, kirklareli,ex-partner,Separation & Jealousy
-720,53.0,2015-05-16, ankara,partner,Unknown
-721,26.0,2015-05-16, ankara,partner,Unknown
-722,44.0,2015-05-16, kastamonu,boyfriend,Unknown
-723,59.0,2015-05-15, antalya,boyfriend,Unknown
-724,41.0,2015-05-14, istanbul,partner,Separation & Jealousy
-725,55.0,2015-05-12, istanbul,known man,Other
-726,30.0,2015-05-11, siirt,partner,Unknown
-727,39.0,2015-05-09, istanbul,attacker,Sexual expectation
-728,,2015-05-09, giresun,partner,Separation & Jealousy
-729,47.0,2015-05-09, giresun,partner,Separation & Jealousy
-730,75.0,2015-05-09, balikesir,partner,Unknown
-731,31.0,2015-05-07, yalova,ex-partner,Separation & Jealousy
-732,32.0,2015-05-06, konya,relative,Other
-733,27.0,2015-05-03, edirne,partner,Unknown
-734,63.0,2015-04-30, kahramanmaras,attacker,Unknown
-735,27.0,2015-04-28, ankara,partner,Separation & Jealousy
-736,27.0,2015-04-25, adana,known man,Male service expectations
-737,24.0,2015-04-23, bursa,boyfriend,Other
-738,36.0,2015-04-22, adana,relative,Other
-739,39.0,2015-04-21, kahramanmaras,known man,Unknown
-740,21.0,2015-04-20, manisa,boyfriend,Separation & Jealousy
-741,27.0,2015-04-18, hatay,partner,Separation & Jealousy
-742,57.0,2015-04-17, adana,partner,Masculinity&Honor
-743,42.0,2015-04-17, istanbul,ex-partner,Separation & Jealousy
-744,23.0,2015-04-17, mardin,relative,Sexual expectation
-745,21.0,2015-04-16, istanbul,boyfriend,Other
-746,40.0,2015-04-11, ankara,partner,Separation & Jealousy
-747,34.0,2015-04-09, i̇zmir,partner,Separation & Jealousy
-748,38.0,2015-04-07, usak,boyfriend,Separation & Jealousy
-749,29.0,2015-04-07, osmaniye,partner,Unknown
-750,43.0,2015-04-06, kirikkale,known man,Other
-751,32.0,2015-04-06, gaziantep,partner,Other
-752,34.0,2015-04-03, samsun,boyfriend,Other
-753,28.0,2015-04-02, usak,boyfriend,Separation & Jealousy
-754,28.0,2015-04-01, mersin,partner,Children
-755,34.0,2015-03-31, malatya,partner,Separation & Jealousy
-756,77.0,2015-03-30, kocaeli,partner,Unknown
-757,44.0,2015-03-27, i̇zmir,partner,Separation & Jealousy
-758,32.0,2015-03-26, ankara,boyfriend,Unknown
-759,20.0,2015-03-26, istanbul,boyfriend,Unknown
-760,30.0,2015-03-23, konya,partner,Separation & Jealousy
-761,43.0,2015-03-23, yalova,boyfriend,Other
-762,21.0,2015-03-21, istanbul,ex-partner,Separation & Jealousy
-763,29.0,2015-03-20, sivas,partner,Masculinity&Honor
-764,28.0,2015-03-19, gaziantep,relative,Sexual expectation
-765,32.0,2015-03-18, erzurum,boyfriend,Masculinity&Honor
-766,35.0,2015-03-18, antalya,known man,Separation & Jealousy
-767,62.0,2015-03-17, diyarbakir,partner,Separation & Jealousy
-768,58.0,2015-03-17, i̇zmir,partner,Other
-769,0.0,2015-03-17, istanbul,father,Other
-770,47.0,2015-03-17, adana,partner,Other
-771,23.0,2015-03-17, adana,brother,Woman Decision and Preferences
-772,27.0,2015-03-13, i̇zmir,relative,Masculinity&Honor
-773,32.0,2015-03-07, gaziantep,partner,Unknown
-774,35.0,2015-03-07, sanliurfa,partner,Masculinity&Honor
-775,32.0,2015-03-07, istanbul,partner,Masculinity&Honor
-776,38.0,2015-03-05, i̇zmir,partner,Unknown
-777,20.0,2015-03-04, antalya,boyfriend,Other
-778,30.0,2015-03-04, adana,relative,Household service expectations
-779,59.0,2015-03-04, erzurum,partner,Separation & Jealousy
-780,56.0,2015-02-25, kahramanmaras,attacker,Sexual expectation
-781,18.0,2015-02-24, manisa,partner,Other
-782,32.0,2015-02-24, kirikkale,relative,Other
-783,36.0,2015-02-23, denizli,boyfriend,Other
-784,28.0,2015-02-22, kahramanmaras,partner,Unknown
-785,5.0,2015-02-22, kahramanmaras,father,Unknown
-786,38.0,2015-02-21, ankara,boyfriend,Unknown
-787,23.0,2015-02-20, antalya,boyfriend,Separation & Jealousy
-788,42.0,2015-02-19, istanbul,partner,Other
-789,45.0,2015-02-17, i̇zmir,boyfriend,Other
-790,27.0,2015-02-14, diyarbakir,partner,Other
-791,20.0,2015-02-11, mersin,attacker,Sexual expectation
-792,59.0,2015-02-10, i̇zmir,partner,Unknown
-793,32.0,2015-02-10, i̇zmir,father,Unknown
-794,35.0,2015-02-10, i̇zmir,father,Unknown
-795,45.0,2015-02-09, mugla,relative,Other
-796,81.0,2015-02-08, karaman,attacker,Sexual expectation
-797,23.0,2015-02-07, kars,partner,Unknown
-798,1.0,2015-02-07, kars,father,Unknown
-799,30.0,2015-02-07, istanbul,boyfriend,Other
-800,52.0,2015-02-05, adana,partner,Other
-801,22.0,2015-02-04, kutahya,boyfriend,Separation & Jealousy
-802,37.0,2015-01-30, i̇zmir,attacker,Unknown
-803,,2015-01-30, istanbul,known man,Other
-804,19.0,2015-01-30, adana,partner,Other
-805,17.0,2015-01-29, sanliurfa,father,Unknown
-806,20.0,2015-01-29, istanbul,partner,Other
-807,21.0,2015-01-26, i̇zmir,partner,Other
-808,,2015-01-25, tekirdag,partner,Unknown
-809,,2015-01-25, ankara,partner,Other
-810,,2015-01-25, ankara,partner,Other
-811,21.0,2015-01-22, kocaeli,known man,Other
-812,29.0,2015-01-20, eskisehir,partner,Separation & Jealousy
-813,31.0,2015-01-18, bolu,boyfriend,Separation & Jealousy
-814,35.0,2015-01-17, mersin,partner,Unknown
-815,39.0,2015-01-16, istanbul,partner,Separation & Jealousy
-816,29.0,2015-01-16, mersin,boyfriend,Unknown
-817,71.0,2015-01-14, ankara,relative,Sexual expectation
-818,28.0,2015-01-14, istanbul,partner,Separation & Jealousy
-819,21.0,2015-01-13, aksaray,boyfriend,Masculinity&Honor
-820,,2015-01-13, hatay,partner,Unknown
-821,25.0,2015-01-12, antalya,partner,Unknown
-822,51.0,2015-01-12, mersin,relative,Other
-823,17.0,2015-01-10, kocaeli,boyfriend,Masculinity&Honor
-824,42.0,2015-01-10, kocaeli,relative,Other
-825,59.0,2015-01-10, balikesir,boyfriend,Other
-826,20.0,2015-01-09, istanbul,partner,Other
-827,54.0,2015-01-03, aydin,attacker,Other
-828,39.0,2015-01-02, kirklareli,ex-partner,Other
-829,45.0,2014-12-31, ankara,son,Other
-830,25.0,2014-12-31, istanbul,partner,Separation & Jealousy
-831,,2014-12-29, istanbul,ex-partner,Other
-832,32.0,2014-12-29, van,ex-partner,Unknown
-833,63.0,2014-12-25, duzce,partner,Other
-834,3.0,2014-12-24, adana,father,Unknown
-835,30.0,2014-12-24, adana,partner,Unknown
-836,0.0,2014-12-24, adana,father,Unknown
-837,23.0,2014-12-23, istanbul,known man,Unknown
-838,38.0,2014-12-23, aydin,partner,Woman Decision and Preferences
-839,63.0,2014-12-20, istanbul,son,Unknown
-840,35.0,2014-12-19, bursa,partner,Separation & Jealousy
-841,,2014-12-19, ankara,relative,Other
-842,25.0,2014-12-17, antalya,ex-partner,Separation & Jealousy
-843,33.0,2014-12-16, i̇zmir,partner,Separation & Jealousy
-844,28.0,2014-12-14, ankara,partner,Separation & Jealousy
-845,40.0,2014-12-14, konya,known man,Woman Decision and Preferences
-846,10.0,2014-12-14, konya,known man,Woman Decision and Preferences
-847,36.0,2014-12-12, burdur,partner,Other
-848,22.0,2014-12-12, karaman,partner,Masculinity&Honor
-849,46.0,2014-12-11, aydin,partner,Unknown
-850,38.0,2014-12-11, kutahya,boyfriend,Other
-851,20.0,2014-12-10, van,known man,Unknown
-852,42.0,2014-12-10, mersin,ex-partner,Separation & Jealousy
-853,59.0,2014-12-08, ankara,son,Unknown
-854,33.0,2014-12-08, rize,known man,Unknown
-855,33.0,2014-12-07, i̇zmir,brother,Masculinity&Honor
-856,27.0,2014-12-02, kocaeli,partner,Masculinity&Honor
-857,35.0,2014-12-01, diyarbakir,partner,Other
-858,41.0,2014-12-01, i̇zmir,ex-partner,Other
-859,,2014-12-01, van,partner,Masculinity&Honor
-860,49.0,2014-11-26, antalya,known man,Other
-861,29.0,2014-11-24, edirne,boyfriend,Woman Decision and Preferences
-862,17.0,2014-11-20, kayseri,boyfriend,Separation & Jealousy
-863,33.0,2014-11-19, corum,partner,Other
-864,17.0,2014-11-18, kastamonu,father,Other
-865,33.0,2014-11-17, kocaeli,partner,Other
-866,20.0,2014-11-17, kocaeli,partner,Other
-867,17.0,2014-11-14, i̇zmir,brother,Woman Decision and Preferences
-868,21.0,2014-11-13, hatay,partner,Separation & Jealousy
-869,28.0,2014-11-13, kutahya,ex-partner,Separation & Jealousy
-870,26.0,2014-11-12, usak,boyfriend,Separation & Jealousy
-871,21.0,2014-11-12, trabzon,boyfriend,Separation & Jealousy
-872,27.0,2014-11-11, bolu,known man,Unknown
-873,37.0,2014-11-06, kayseri,partner,Separation & Jealousy
-874,31.0,2014-11-06, konya,partner,Unknown
-875,15.0,2014-11-04, agri,relative,Other
-876,42.0,2014-11-03, mersin,ex-partner,Masculinity&Honor
-877,57.0,2014-11-02, bursa,partner,Household service expectations
-878,29.0,2014-11-01, karaman,partner,Other
-879,23.0,2014-10-28, ankara,ex-partner,Separation & Jealousy
-880,52.0,2014-10-28, giresun,partner,Unknown
-881,42.0,2014-10-25, hatay,known man,Other
-882,39.0,2014-10-25, igdir,partner,Separation & Jealousy
-883,28.0,2014-10-23, istanbul,partner,Separation & Jealousy
-884,31.0,2014-10-19, bursa,relative,Other
-885,40.0,2014-10-18, eskisehir,partner,Separation & Jealousy
-886,50.0,2014-10-16, duzce,partner,Other
-887,18.0,2014-10-13, adana,brother,Masculinity&Honor
-888,27.0,2014-10-11, hatay,partner,Male service expectations
-889,32.0,2014-10-11, aydin,boyfriend,Separation & Jealousy
-890,30.0,2014-10-11, istanbul,son,Unknown
-891,31.0,2014-10-09, mersin,boyfriend,Separation & Jealousy
-892,42.0,2014-10-09, kocaeli,partner,Separation & Jealousy
-893,31.0,2014-10-08, sanliurfa,relative,Other
-894,39.0,2014-10-07, zonguldak,ex-partner,Masculinity&Honor
-895,35.0,2014-10-07, ankara,partner,Separation & Jealousy
-896,20.0,2014-10-06, kocaeli,partner,Other
-897,40.0,2014-10-01, gaziantep,partner,Separation & Jealousy
-898,33.0,2014-10-01, edirne,ex-partner,Separation & Jealousy
-899,28.0,2014-09-29, ankara,partner,Separation & Jealousy
-900,16.0,2014-09-27, diyarbakir,partner,Unknown
-901,31.0,2014-09-26, gaziantep,boyfriend,Other
-902,44.0,2014-09-24, istanbul,partner,Separation & Jealousy
-903,35.0,2014-09-23, ordu,partner,Other
-904,33.0,2014-09-19, ankara,known man,Separation & Jealousy
-905,,2014-09-19, istanbul,partner,Unknown
-906,18.0,2014-09-18, sanliurfa,father,Masculinity&Honor
-907,39.0,2014-09-17, istanbul,attacker,Sexual expectation
-908,38.0,2014-09-15, eskisehir,partner,Other
-909,34.0,2014-09-13, istanbul,boyfriend,Other
-910,19.0,2014-09-11, adana,partner,Separation & Jealousy
-911,55.0,2014-09-09, manisa,relative,Other
-912,45.0,2014-09-09, istanbul,known man,Woman Decision and Preferences
-913,,2014-09-08, mus,partner,Other
-914,20.0,2014-09-08, mersin,boyfriend,Other
-915,44.0,2014-09-07, adana,partner,Separation & Jealousy
-916,42.0,2014-09-03, i̇zmir,ex-partner,Separation & Jealousy
-917,26.0,2014-09-03, gaziantep,brother,Masculinity&Honor
-918,20.0,2014-09-02, gumushane,relative,Separation & Jealousy
-919,27.0,2014-09-01, denizli,known man,Unknown
-920,39.0,2014-08-30, i̇zmir,known man,Woman Decision and Preferences
-921,17.0,2014-08-30, kahramanmaras,boyfriend,Unknown
-922,14.0,2014-08-26, antalya,relative,Other
-923,45.0,2014-08-25, gaziantep,partner,Other
-924,29.0,2014-08-24, malatya,partner,Other
-925,37.0,2014-08-24, tunceli,partner,Other
-926,43.0,2014-08-20, bursa,relative,Woman Decision and Preferences
-927,40.0,2014-08-17, ankara,ex-partner,Unknown
-928,55.0,2014-08-15, ankara,partner,Sexual expectation
-929,23.0,2014-08-15, istanbul,known man,Masculinity&Honor
-930,19.0,2014-08-15, istanbul,boyfriend,Masculinity&Honor
-931,69.0,2014-08-14, giresun,brother,Other
-932,74.0,2014-08-14, giresun,brother,Other
-933,36.0,2014-08-13, usak,boyfriend,Other
-934,56.0,2014-08-12, trabzon,partner,Children
-935,26.0,2014-08-10, istanbul,known man,Unknown
-936,30.0,2014-08-08, batman,known man,Separation & Jealousy
-937,18.0,2014-08-08, sanliurfa,brother,Masculinity&Honor
-938,50.0,2014-08-08, batman,known man,Separation & Jealousy
-939,15.0,2014-08-08, batman,known man,Separation & Jealousy
-940,18.0,2014-08-08, batman,known man,Separation & Jealousy
-941,47.0,2014-08-02, istanbul,partner,Children
-942,27.0,2014-08-01, i̇zmir,boyfriend,Other
-943,26.0,2014-07-28, istanbul,partner,Separation & Jealousy
-944,37.0,2014-07-26, denizli,partner,Separation & Jealousy
-945,49.0,2014-07-25, adana,partner,Other
-946,37.0,2014-07-24, istanbul,partner,Unknown
-947,34.0,2014-07-23, kocaeli,boyfriend,Unknown
-948,24.0,2014-07-22, adana,partner,Separation & Jealousy
-949,50.0,2014-07-22, antalya,known man,Unknown
-950,40.0,2014-07-19, istanbul,partner,Other
-951,63.0,2014-07-15, kirikkale,partner,Masculinity&Honor
-952,24.0,2014-07-14, istanbul,partner,Other
-953,38.0,2014-07-13, antalya,ex-partner,Masculinity&Honor
-954,20.0,2014-07-10, istanbul,boyfriend,Other
-955,19.0,2014-07-09, sakarya,boyfriend,Masculinity&Honor
-956,21.0,2014-07-08, canakkale,partner,Separation & Jealousy
-957,25.0,2014-07-08, i̇zmir,partner,Unknown
-958,56.0,2014-07-06, bursa,son,Other
-959,29.0,2014-07-06, ankara,father,Masculinity&Honor
-960,20.0,2014-07-04, sanliurfa,brother,Masculinity&Honor
-961,36.0,2014-07-03, istanbul,partner,Separation & Jealousy
-962,27.0,2014-07-03, i̇zmir,partner,Other
-963,34.0,2014-07-03, adana,partner,Unknown
-964,74.0,2014-07-02, erzurum,partner,Masculinity&Honor
-965,18.0,2014-07-02, istanbul,partner,Unknown
-966,33.0,2014-07-01, samsun,partner,Masculinity&Honor
-967,,2014-07-01, ankara,known man,Other
-968,31.0,2014-07-01, bilecik,ex-partner,Other
-969,50.0,2014-07-01, mugla,boyfriend,Unknown
-970,,2014-07-01, ankara,ex-partner,Separation & Jealousy
-971,74.0,2014-06-26, sivas,partner,Other
-972,54.0,2014-06-24, eskisehir,partner,Other
-973,38.0,2014-06-19, tekirdag,partner,Unknown
-974,,2014-06-19, erzurum,partner,Separation & Jealousy
-975,40.0,2014-06-18, i̇zmir,partner,Other
-976,48.0,2014-06-16, istanbul,partner,Unknown
-977,14.0,2014-06-16, istanbul,father,Unknown
-978,29.0,2014-06-16, istanbul,boyfriend,Other
-979,37.0,2014-06-13, istanbul,partner,Unknown
-980,30.0,2014-06-09, sirnak,partner,Other
-981,24.0,2014-06-08, agri,known man,Sexual expectation
-982,24.0,2014-06-07, istanbul,brother,Woman Decision and Preferences
-983,22.0,2014-06-06, burdur,relative,Other
-984,84.0,2014-06-04, eskisehir,known man,Other
-985,34.0,2014-05-31, adana,partner,Separation & Jealousy
-986,33.0,2014-05-30, karaman,partner,Other
-987,23.0,2014-05-30, gaziantep,brother,Other
-988,25.0,2014-05-30, gaziantep,brother,Other
-989,33.0,2014-05-30, gaziantep,partner,Separation & Jealousy
-990,30.0,2014-05-28, erzurum,partner,Woman Decision and Preferences
-991,22.0,2014-05-27, manisa,partner,Unknown
-992,37.0,2014-05-24, istanbul,partner,Separation & Jealousy
-993,17.0,2014-05-22, istanbul,relative,Unknown
-994,45.0,2014-05-22, istanbul,partner,Unknown
-995,17.0,2014-05-22, istanbul,relative,Unknown
-996,24.0,2014-05-20, corum,ex-partner,Separation & Jealousy
-997,63.0,2014-05-17, osmaniye,partner,Unknown
-998,23.0,2014-05-13, istanbul,boyfriend,Other
-999,8.0,2014-05-10, hatay,father,Other
-1000,28.0,2014-05-10, hatay,partner,Other
-1001,43.0,2014-05-10, hatay,boyfriend,Other
-1002,21.0,2014-05-08, konya,relative,Other
-1003,19.0,2014-05-08, konya,partner,Other
-1004,26.0,2014-05-06, mugla,boyfriend,Masculinity&Honor
-1005,37.0,2014-05-04, erzurum,father-in-law,Unknown
-1006,27.0,2014-05-04, amasya,partner,Children
-1007,37.0,2014-05-03, istanbul,partner,Other
-1008,33.0,2014-05-02, yozgat,partner,Separation & Jealousy
-1009,33.0,2014-04-29, istanbul,partner,Separation & Jealousy
-1010,28.0,2014-04-26, gaziantep,partner,Unknown
-1011,31.0,2014-04-26, konya,ex-partner,Separation & Jealousy
-1012,44.0,2014-04-23, adana,partner,Other
-1013,15.0,2014-04-23, adana,father,Other
-1014,18.0,2014-04-22, tokat,boyfriend,Unknown
-1015,41.0,2014-04-22, eskisehir,ex-partner,Separation & Jealousy
-1016,25.0,2014-04-21, istanbul,attacker,Woman Decision and Preferences
-1017,41.0,2014-04-20, hatay,partner,Unknown
-1018,42.0,2014-04-20, kocaeli,ex-partner,Unknown
-1019,20.0,2014-04-17, i̇zmir,known man,Other
-1020,35.0,2014-04-16, istanbul,attacker,Other
-1021,58.0,2014-04-16, istanbul,attacker,Other
-1022,25.0,2014-04-14, ankara,partner,Unknown
-1023,42.0,2014-04-12, denizli,partner,Separation & Jealousy
-1024,28.0,2014-04-09, bursa,boyfriend,Unknown
-1025,34.0,2014-04-08, balikesir,partner,Other
-1026,53.0,2014-04-08, malatya,partner,Masculinity&Honor
-1027,28.0,2014-04-08, zonguldak,partner,Unknown
-1028,49.0,2014-04-08, zonguldak,partner,Unknown
-1029,39.0,2014-04-07, mugla,partner,Separation & Jealousy
-1030,46.0,2014-04-06, adana,partner,Separation & Jealousy
-1031,23.0,2014-04-05, kayseri,partner,Woman Decision and Preferences
-1032,35.0,2014-04-05, gaziantep,partner,Separation & Jealousy
-1033,47.0,2014-04-05, mersin,partner,Children
-1034,52.0,2014-04-04, corum,partner,Other
-1035,21.0,2014-04-01, edirne,boyfriend,Unknown
-1036,30.0,2014-03-31, mugla,partner,Woman Decision and Preferences
-1037,33.0,2014-03-31, bursa,partner,Separation & Jealousy
-1038,61.0,2014-03-29, batman,partner,Other
-1039,48.0,2014-03-28, gaziantep,partner,Other
-1040,30.0,2014-03-26, ordu,partner,Separation & Jealousy
-1041,22.0,2014-03-25, kahramanmaras,boyfriend,Woman Decision and Preferences
-1042,40.0,2014-03-24, konya,relative,Unknown
-1043,18.0,2014-03-19, afyonkarahisar,partner,Separation & Jealousy
-1044,15.0,2014-03-19, afyonkarahisar,relative,Other
-1045,33.0,2014-03-17, sakarya,relative,Other
-1046,32.0,2014-03-15, antalya,partner,Other
-1047,43.0,2014-03-12, istanbul,son,Masculinity&Honor
-1048,41.0,2014-03-11, elazig,relative,Children
-1049,0.0,2014-03-10, mugla,father,Fight
-1050,35.0,2014-03-10, mugla,partner,Fight
-1051,21.0,2014-03-07, istanbul,ex-partner,Separation & Jealousy
-1052,34.0,2014-03-06, mersin,relative,Other
-1053,42.0,2014-03-05, istanbul,son,Other
-1054,21.0,2014-03-05, istanbul,partner,Other
-1055,34.0,2014-03-05, hatay,partner,Other
-1056,30.0,2014-03-04, kayseri,partner,Unknown
-1057,1.0,2014-03-04, kayseri,father,Unknown
-1058,58.0,2014-03-04, bursa,partner,Woman Decision and Preferences
-1059,33.0,2014-03-02, konya,partner,Other
-1060,18.0,2014-02-25, yozgat,boyfriend,Unknown
-1061,33.0,2014-02-25, antalya,boyfriend,Separation & Jealousy
-1062,42.0,2014-02-25, istanbul,father-in-law,Woman Decision and Preferences
-1063,75.0,2014-02-23, i̇zmir,attacker,Other
-1064,70.0,2014-02-22, mersin,partner,Unknown
-1065,39.0,2014-02-22, zonguldak,partner,Separation & Jealousy
-1066,59.0,2014-02-22, zonguldak,partner,Separation & Jealousy
-1067,28.0,2014-02-18, gaziantep,boyfriend,Unknown
-1068,24.0,2014-02-17, i̇zmir,partner,Separation & Jealousy
-1069,26.0,2014-02-15, mersin,known man,Unknown
-1070,40.0,2014-02-11, istanbul,boyfriend,Other
-1071,25.0,2014-02-06, tokat,partner,Separation & Jealousy
-1072,34.0,2014-02-04, gaziantep,boyfriend,Other
-1073,42.0,2014-02-04, batman,partner,Unknown
-1074,19.0,2014-01-31, sanliurfa,relative,Masculinity&Honor
-1075,43.0,2014-01-29, antalya,partner,Unknown
-1076,74.0,2014-01-28, i̇zmir,relative,Unknown
-1077,34.0,2014-01-27, konya,known man,Separation & Jealousy
-1078,33.0,2014-01-24, diyarbakir,partner,Male service expectations
-1079,54.0,2014-01-24, hatay,partner,Children
-1080,48.0,2014-01-22, aydin,partner,Separation & Jealousy
-1081,17.0,2014-01-22, istanbul,brother,Masculinity&Honor
-1082,47.0,2014-01-18, manisa,partner,Separation & Jealousy
-1083,37.0,2014-01-16, kirsehir,ex-partner,Other
-1084,42.0,2014-01-15, istanbul,partner,Separation & Jealousy
-1085,36.0,2014-01-15, kars,partner,Separation & Jealousy
-1086,42.0,2014-01-13, balikesir,partner,Other
-1087,33.0,2014-01-13, mersin,partner,Separation & Jealousy
-1088,28.0,2014-01-13, aydin,ex-partner,Masculinity&Honor
-1089,24.0,2014-01-11, diyarbakir,brother,Masculinity&Honor
-1090,32.0,2014-01-11, sanliurfa,partner,Other
-1091,45.0,2014-01-08, sanliurfa,partner,Unknown
-1092,28.0,2014-01-02, istanbul,known man,Separation & Jealousy
-1093,30.0,2014-01-02, adana,ex-partner,Separation & Jealousy
-1094,51.0,2014-01-02, konya,partner,Separation & Jealousy
-1095,76.0,2013-12-31, edirne,son,Unknown
-1096,67.0,2013-12-31, isparta,partner,Woman Decision and Preferences
-1097,29.0,2013-12-30, kastamonu,partner,Other
-1098,41.0,2013-12-30, kirsehir,partner,Unknown
-1099,39.0,2013-12-29, sakarya,partner,Other
-1100,21.0,2013-12-29, adana,partner,Separation & Jealousy
-1101,31.0,2013-12-27, istanbul,known man,Separation & Jealousy
-1102,19.0,2013-12-26, mersin,partner,Separation & Jealousy
-1103,37.0,2013-12-26, antalya,boyfriend,Other
-1104,27.0,2013-12-23, usak,ex-partner,Separation & Jealousy
-1105,35.0,2013-12-22, bursa,boyfriend,Masculinity&Honor
-1106,15.0,2013-12-19, konya,father,Masculinity&Honor
-1107,38.0,2013-12-16, i̇zmir,ex-partner,Other
-1108,28.0,2013-12-16, yalova,partner,Separation & Jealousy
-1109,42.0,2013-12-16, corum,partner,Other
-1110,51.0,2013-12-15, antalya,partner,Other
-1111,20.0,2013-12-15, antalya,partner,Separation & Jealousy
-1112,58.0,2013-12-11, istanbul,partner,Male service expectations
-1113,23.0,2013-12-10, corum,ex-partner,Separation & Jealousy
-1114,33.0,2013-12-07, erzurum,known man,Sexual expectation
-1115,39.0,2013-12-06, istanbul,partner,Separation & Jealousy
-1116,26.0,2013-12-01, istanbul,relative,Unknown
-1117,35.0,2013-11-30, adana,partner,Separation & Jealousy
-1118,36.0,2013-11-29, gaziantep,partner,Separation & Jealousy
-1119,35.0,2013-11-29, balikesir,partner,Unknown
-1120,80.0,2013-11-27, kutahya,partner,Other
-1121,46.0,2013-11-25, balikesir,partner,Unknown
-1122,17.0,2013-11-25, diyarbakir,partner,Other
-1123,25.0,2013-11-24, adana,partner,Other
-1124,19.0,2013-11-20, istanbul,father-in-law,Masculinity&Honor
-1125,33.0,2013-11-18, kocaeli,partner,Separation & Jealousy
-1126,37.0,2013-11-17, malatya,known man,Woman Decision and Preferences
-1127,52.0,2013-11-17, malatya,known man,Woman Decision and Preferences
-1128,,2013-11-15, istanbul,partner,Separation & Jealousy
-1129,28.0,2013-11-14, elazig,ex-partner,Separation & Jealousy
-1130,45.0,2013-11-12, kirikkale,partner,Woman Decision and Preferences
-1131,20.0,2013-11-06, istanbul,father,Other
-1132,25.0,2013-11-06, diyarbakir,relative,Household service expectations
-1133,54.0,2013-11-06, istanbul,partner,Other
-1134,18.0,2013-11-06, istanbul,father,Other
-1135,39.0,2013-11-05, kayseri,ex-partner,Unknown
-1136,46.0,2013-11-04, ankara,partner,Separation & Jealousy
-1137,39.0,2013-10-31, ankara,boyfriend,Other
-1138,37.0,2013-10-28, aydin,partner,Other
-1139,23.0,2013-10-27, i̇zmir,ex-partner,Separation & Jealousy
-1140,32.0,2013-10-27, gaziantep,partner,Other
-1141,31.0,2013-10-26, bursa,partner,Separation & Jealousy
-1142,23.0,2013-10-26, mersin,boyfriend,Separation & Jealousy
-1143,40.0,2013-10-24, ankara,partner,Separation & Jealousy
-1144,21.0,2013-10-23, sirnak,partner,Separation & Jealousy
-1145,39.0,2013-10-23, usak,partner,Separation & Jealousy
-1146,20.0,2013-10-21, igdir,father,Masculinity&Honor
-1147,4.0,2013-10-21, igdir,relative,Masculinity&Honor
-1148,50.0,2013-10-21, igdir,relative,Masculinity&Honor
-1149,22.0,2013-10-18, konya,boyfriend,Other
-1150,45.0,2013-10-16, ordu,partner,Separation & Jealousy
-1151,33.0,2013-10-15, batman,ex-partner,Separation & Jealousy
-1152,46.0,2013-10-14, kayseri,boyfriend,Woman Decision and Preferences
-1153,19.0,2013-10-13, denizli,partner,Woman Decision and Preferences
-1154,26.0,2013-10-13, diyarbakir,brother,Masculinity&Honor
-1155,60.0,2013-10-13, diyarbakir,son,Masculinity&Honor
-1156,27.0,2013-10-12, zonguldak,relative,Other
-1157,59.0,2013-10-07, batman,known man,Unknown
-1158,18.0,2013-10-04, gaziantep,father,Masculinity&Honor
-1159,36.0,2013-10-03, sivas,partner,Separation & Jealousy
-1160,44.0,2013-09-30, istanbul,partner,Separation & Jealousy
-1161,23.0,2013-09-28, elazig,partner,Other
-1162,42.0,2013-09-28, elazig,partner,Other
-1163,,2013-09-28, diyarbakir,partner,Unknown
-1164,32.0,2013-09-27, samsun,relative,Other
-1165,20.0,2013-09-25, osmaniye,father,Masculinity&Honor
-1166,39.0,2013-09-25, antalya,relative,Unknown
-1167,35.0,2013-09-23, i̇zmir,partner,Other
-1168,27.0,2013-09-20, mardin,attacker,Other
-1169,38.0,2013-09-20, mardin,attacker,Other
-1170,11.0,2013-09-20, mardin,attacker,Other
-1171,46.0,2013-09-19, gaziantep,father,Unknown
-1172,36.0,2013-09-19, diyarbakir,partner,Separation & Jealousy
-1173,26.0,2013-09-16, ankara,known man,Other
-1174,26.0,2013-09-15, mugla,partner,Separation & Jealousy
-1175,16.0,2013-09-14, zonguldak,father,Fight
-1176,22.0,2013-09-13, nevsehir,attacker,Sexual expectation
-1177,20.0,2013-09-10, burdur,ex-partner,Other
-1178,61.0,2013-09-10, adana,relative,Other
-1179,40.0,2013-09-10, burdur,relative,Other
-1180,16.0,2013-09-09, bursa,boyfriend,Separation & Jealousy
-1181,56.0,2013-09-09, mugla,boyfriend,Separation & Jealousy
-1182,69.0,2013-09-08, aksaray,son,Other
-1183,21.0,2013-09-07, zonguldak,ex-partner,Masculinity&Honor
-1184,50.0,2013-09-02, i̇zmir,known man,Male service expectations
-1185,3.0,2013-09-01, sanliurfa,father,Unknown
-1186,64.0,2013-09-01, istanbul,ex-partner,Other
-1187,25.0,2013-09-01, istanbul,boyfriend,Separation & Jealousy
-1188,25.0,2013-09-01, sanliurfa,partner,Unknown
-1189,63.0,2013-08-29, mersin,partner,Unknown
-1190,36.0,2013-08-28, diyarbakir,partner,Separation & Jealousy
-1191,19.0,2013-08-27, aksaray,partner,Other
-1192,36.0,2013-08-26, cankiri,partner,Other
-1193,30.0,2013-08-26, antalya,boyfriend,Other
-1194,31.0,2013-08-25, kocaeli,boyfriend,Masculinity&Honor
-1195,67.0,2013-08-24, adiyaman,partner,Other
-1196,30.0,2013-08-21, diyarbakir,known man,Separation & Jealousy
-1197,37.0,2013-08-21, istanbul,brother,Masculinity&Honor
-1198,37.0,2013-08-21, diyarbakir,known man,Woman Decision and Preferences
-1199,8.0,2013-08-17, afyonkarahisar,attacker,Unknown
-1200,37.0,2013-08-16, i̇zmir,boyfriend,Masculinity&Honor
-1201,74.0,2013-08-15, istanbul,attacker,Other
-1202,17.0,2013-08-14, istanbul,partner,Separation & Jealousy
-1203,33.0,2013-08-14, erzincan,partner,Woman Decision and Preferences
-1204,41.0,2013-08-14, istanbul,partner,Other
-1205,22.0,2013-08-14, i̇zmir,partner,Separation & Jealousy
-1206,44.0,2013-08-13, ordu,partner,Unknown
-1207,73.0,2013-08-12, istanbul,partner,Other
-1208,47.0,2013-08-11, samsun,partner,Other
-1209,36.0,2013-08-10, istanbul,partner,Other
-1210,22.0,2013-08-08, agri,partner,Separation & Jealousy
-1211,26.0,2013-08-07, antalya,ex-partner,Unknown
-1212,56.0,2013-08-05, igdir,partner,Unknown
-1213,41.0,2013-08-02, erzincan,known man,Unknown
-1214,44.0,2013-08-01, i̇zmir,boyfriend,Masculinity&Honor
-1215,44.0,2013-07-29, i̇zmir,attacker,Sexual expectation
-1216,27.0,2013-07-21, adana,partner,Separation & Jealousy
-1217,25.0,2013-07-17, usak,ex-partner,Separation & Jealousy
-1218,47.0,2013-07-17, kocaeli,partner,Other
-1219,27.0,2013-07-16, aydin,ex-partner,Other
-1220,23.0,2013-07-15, batman,partner,Other
-1221,32.0,2013-07-11, mugla,ex-partner,Separation & Jealousy
-1222,24.0,2013-07-11, aydin,known man,Unknown
-1223,39.0,2013-07-09, afyonkarahisar,partner,Unknown
-1224,35.0,2013-07-02, antalya,partner,Masculinity&Honor
-1225,31.0,2013-06-28, istanbul,partner,Separation & Jealousy
-1226,18.0,2013-06-26, agri,partner,Masculinity&Honor
-1227,54.0,2013-06-25, kocaeli,partner,Unknown
-1228,15.0,2013-06-25, konya,father,Other
-1229,36.0,2013-06-25, konya,partner,Other
-1230,49.0,2013-06-24, konya,partner,Separation & Jealousy
-1231,53.0,2013-06-18, istanbul,partner,Separation & Jealousy
-1232,32.0,2013-06-16, gaziantep,partner,Other
-1233,39.0,2013-06-11, aydin,ex-partner,Separation & Jealousy
-1234,21.0,2013-06-06, diyarbakir,partner,Separation & Jealousy
-1235,39.0,2013-06-05, igdir,partner,Masculinity&Honor
-1236,37.0,2013-06-04, usak,partner,Other
-1237,14.0,2013-06-03, erzurum,brother,Masculinity&Honor
-1238,25.0,2013-06-02, duzce,partner,Separation & Jealousy
-1239,68.0,2013-05-31, tekirdag,attacker,Other
-1240,22.0,2013-05-30, denizli,brother,Masculinity&Honor
-1241,39.0,2013-05-28, aydin,partner,Other
-1242,35.0,2013-05-26, sakarya,known man,Other
-1243,18.0,2013-05-26, sakarya,known man,Separation & Jealousy
-1244,41.0,2013-05-23, i̇zmir,partner,Other
-1245,38.0,2013-05-22, ankara,partner,Woman Decision and Preferences
-1246,37.0,2013-05-20, i̇zmir,ex-partner,Separation & Jealousy
-1247,24.0,2013-05-15, istanbul,ex-partner,Separation & Jealousy
-1248,24.0,2013-05-10, corum,ex-partner,Separation & Jealousy
-1249,19.0,2013-05-08, gaziantep,boyfriend,Masculinity&Honor
-1250,16.0,2013-05-03, mersin,relative,Masculinity&Honor
-1251,19.0,2013-04-30, batman,partner,Other
-1252,39.0,2013-04-30, istanbul,known man,Unknown
-1253,,2013-04-29, duzce,partner,Other
-1254,35.0,2013-04-27, nevsehir,ex-partner,Separation & Jealousy
-1255,47.0,2013-04-27, bursa,ex-partner,Other
-1256,19.0,2013-04-19, i̇zmir,partner,Masculinity&Honor
-1257,26.0,2013-04-17, mersin,partner,Other
-1258,32.0,2013-04-13, manisa,partner,Separation & Jealousy
-1259,68.0,2013-04-11, ankara,partner,Separation & Jealousy
-1260,29.0,2013-04-10, osmaniye,partner,Other
-1261,33.0,2013-04-09, mardin,brother,Woman Decision and Preferences
-1262,48.0,2013-04-09, konya,partner,Other
-1263,36.0,2013-04-08, i̇zmir,ex-partner,Masculinity&Honor
-1264,33.0,2013-04-08, antalya,relative,Other
-1265,37.0,2013-04-08, antalya,ex-partner,Separation & Jealousy
-1266,49.0,2013-04-02, denizli,partner,Other
-1267,38.0,2013-03-28, edirne,partner,Separation & Jealousy
-1268,34.0,2013-03-26, ankara,partner,Separation & Jealousy
-1269,,2013-03-18, ankara,partner,Separation & Jealousy
-1270,30.0,2013-03-17, istanbul,ex-partner,Separation & Jealousy
-1271,48.0,2013-03-17, istanbul,relative,Other
-1272,39.0,2013-03-15, antalya,boyfriend,Other
-1273,39.0,2013-03-10, mugla,partner,Separation & Jealousy
-1274,38.0,2013-03-08, manisa,partner,Masculinity&Honor
-1275,41.0,2013-03-05, kocaeli,brother,Masculinity&Honor
-1276,64.0,2013-03-04, i̇zmir,partner,Other
-1277,31.0,2013-03-01, hatay,ex-partner,Unknown
-1278,0.0,2013-03-01, hatay,relative,Unknown
-1279,60.0,2013-03-01, gaziantep,partner,Other
-1280,57.0,2013-02-27, istanbul,relative,Other
-1281,25.0,2013-02-25, i̇zmir,partner,Separation & Jealousy
-1282,19.0,2013-02-05, adiyaman,boyfriend,Woman Decision and Preferences
-1283,28.0,2013-02-04, i̇zmir,partner,Separation & Jealousy
-1284,44.0,2013-02-04, istanbul,boyfriend,Unknown
-1285,21.0,2013-02-03, samsun,partner,Separation & Jealousy
-1286,60.0,2013-01-30, adana,partner,Unknown
-1287,31.0,2013-01-30, adana,father,Unknown
-1288,48.0,2013-01-30, usak,ex-partner,Unknown
-1289,32.0,2013-01-22, denizli,son,Masculinity&Honor
-1290,28.0,2013-01-22, konya,partner,Masculinity&Honor
-1291,25.0,2013-01-22, kocaeli,partner,Separation & Jealousy
-1292,36.0,2013-01-22, kocaeli,partner,Unknown
-1293,33.0,2013-01-21, istanbul,attacker,Sexual expectation
-1294,31.0,2013-01-19, samsun,boyfriend,Unknown
-1295,36.0,2013-01-17, van,partner,Unknown
-1296,32.0,2013-01-17, i̇zmir,boyfriend,Other
-1297,25.0,2013-01-16, kocaeli,partner,Other
-1298,34.0,2013-01-15, ankara,partner,Separation & Jealousy
-1299,25.0,2013-01-15, gaziantep,partner,Separation & Jealousy
-1300,54.0,2013-01-15, gaziantep,partner,Other
-1301,56.0,2013-01-13, konya,son,Other
-1302,28.0,2013-01-07, malatya,partner,Separation & Jealousy
-1303,25.0,2013-01-02, istanbul,ex-partner,Separation & Jealousy
-1304,33.0,2012-12-31, istanbul,partner,Separation & Jealousy
-1305,17.0,2012-12-29, diyarbakir,partner,Unknown
-1306,15.0,2012-12-28, batman,relative,Sexual expectation
-1307,33.0,2012-12-23, ardahan,partner,Unknown
-1308,57.0,2012-12-18, kayseri,partner,Other
-1309,19.0,2012-12-17, istanbul,known man,Unknown
-1310,33.0,2012-12-14, konya,boyfriend,Other
-1311,22.0,2012-12-14, adana,partner,Separation & Jealousy
-1312,27.0,2012-12-08, konya,ex-partner,Separation & Jealousy
-1313,50.0,2012-12-06, bursa,partner,Unknown
-1314,51.0,2012-12-05, istanbul,partner,Separation & Jealousy
-1315,37.0,2012-12-04, mardin,partner,Unknown
-1316,29.0,2012-12-03, i̇zmir,known man,Separation & Jealousy
-1317,42.0,2012-11-29, eskisehir,partner,Separation & Jealousy
-1318,50.0,2012-11-26, diyarbakir,partner,Separation & Jealousy
-1319,41.0,2012-11-25, erzincan,partner,Separation & Jealousy
-1320,39.0,2012-11-17, diyarbakir,partner,Separation & Jealousy
-1321,35.0,2012-11-13, aydin,partner,Separation & Jealousy
-1322,17.0,2012-11-13, sakarya,partner,Separation & Jealousy
-1323,34.0,2012-11-10, mersin,ex-partner,Other
-1324,31.0,2012-11-06, istanbul,boyfriend,Separation & Jealousy
-1325,38.0,2012-11-04, istanbul,partner,Separation & Jealousy
-1326,18.0,2012-11-04, istanbul,father,Unknown
-1327,15.0,2012-11-04, istanbul,father,Unknown
-1328,14.0,2012-11-04, istanbul,father,Unknown
-1329,43.0,2012-11-03, yozgat,father,Unknown
-1330,32.0,2012-10-28, malatya,known man,Other
-1331,17.0,2012-10-27, osmaniye,boyfriend,Masculinity&Honor
-1332,29.0,2012-10-24, antalya,attacker,Unknown
-1333,25.0,2012-10-21, kocaeli,attacker,Unknown
-1334,75.0,2012-10-17, kastamonu,partner,Other
-1335,20.0,2012-10-15, istanbul,attacker,Sexual expectation
-1336,31.0,2012-10-15, giresun,partner,Other
-1337,55.0,2012-10-14, canakkale,partner,Unknown
-1338,38.0,2012-09-29, adana,partner,Separation & Jealousy
-1339,38.0,2012-09-25, adiyaman,partner,Unknown
-1340,36.0,2012-09-21, ankara,partner,Separation & Jealousy
-1341,28.0,2012-09-18, eskisehir,ex-partner,Unknown
-1342,34.0,2012-09-18, kirklareli,partner,Other
-1343,41.0,2012-09-17, aksaray,partner,Separation & Jealousy
-1344,37.0,2012-09-16, tekirdag,partner,Unknown
-1345,31.0,2012-09-15, samsun,relative,Fight
-1346,26.0,2012-09-14, istanbul,partner,Separation & Jealousy
-1347,23.0,2012-09-13, istanbul,ex-partner,Separation & Jealousy
-1348,52.0,2012-09-11, kayseri,partner,Unknown
-1349,43.0,2012-09-11, afyonkarahisar,partner,Other
-1350,19.0,2012-09-04, mardin,relative,Unknown
-1351,27.0,2012-09-02, adana,partner,Other
-1352,53.0,2012-08-29, ankara,ex-partner,Unknown
-1353,20.0,2012-08-28, i̇zmir,relative,Other
-1354,19.0,2012-08-24, samsun,known man,Separation & Jealousy
-1355,49.0,2012-08-24, i̇zmir,boyfriend,Separation & Jealousy
-1356,75.0,2012-08-23, aydin,son,Unknown
-1357,24.0,2012-08-23, sanliurfa,ex-partner,Unknown
-1358,41.0,2012-08-23, adana,boyfriend,Separation & Jealousy
-1359,45.0,2012-08-22, canakkale,relative,Other
-1360,32.0,2012-08-20, i̇zmir,relative,Other
-1361,25.0,2012-08-19, bartin,ex-partner,Other
-1362,25.0,2012-08-18, bursa,ex-partner,Other
-1363,35.0,2012-08-17, i̇zmir,partner,Separation & Jealousy
-1364,,2012-08-15, istanbul,partner,Unknown
-1365,58.0,2012-08-11, mersin,partner,Other
-1366,50.0,2012-08-11, i̇zmir,ex-partner,Other
-1367,51.0,2012-08-05, hatay,partner,Other
-1368,27.0,2012-08-05, corum,known man,Separation & Jealousy
-1369,28.0,2012-08-01, yozgat,partner,Woman Decision and Preferences
-1370,55.0,2012-07-31, istanbul,partner,Unknown
-1371,37.0,2012-07-30, i̇zmir,partner,Separation & Jealousy
-1372,32.0,2012-07-29, ankara,ex-partner,Separation & Jealousy
-1373,24.0,2012-07-28, bolu,partner,Other
-1374,2.0,2012-07-27, kocaeli,father,Fight
-1375,30.0,2012-07-27, istanbul,partner,Separation & Jealousy
-1376,24.0,2012-07-25, agri,partner,Unknown
-1377,43.0,2012-07-24, samsun,boyfriend,Other
-1378,31.0,2012-07-23, kahramanmaras,boyfriend,Other
-1379,25.0,2012-07-20, i̇zmir,ex-partner,Separation & Jealousy
-1380,33.0,2012-07-19, istanbul,partner,Unknown
-1381,19.0,2012-07-18, istanbul,partner,Household service expectations
-1382,37.0,2012-07-12, istanbul,partner,Other
-1383,46.0,2012-07-07, cankiri,partner,Separation & Jealousy
-1384,25.0,2012-07-07, ankara,partner,Separation & Jealousy
-1385,29.0,2012-07-04, istanbul,partner,Separation & Jealousy
-1386,36.0,2012-07-02, tekirdag,partner,Separation & Jealousy
-1387,24.0,2012-07-01, istanbul,partner,Separation & Jealousy
-1388,31.0,2012-06-29, ankara,boyfriend,Other
-1389,13.0,2012-06-28, gaziantep,father,Masculinity&Honor
-1390,33.0,2012-06-28, antalya,boyfriend,Separation & Jealousy
-1391,30.0,2012-06-27, diyarbakir,partner,Unknown
-1392,25.0,2012-06-26, bursa,partner,Separation & Jealousy
-1393,48.0,2012-06-26, bursa,partner,Other
-1394,83.0,2012-06-24, corum,partner,Other
-1395,32.0,2012-06-23, mugla,boyfriend,Other
-1396,32.0,2012-06-19, adana,partner,Other
-1397,18.0,2012-06-19, adana,partner,Separation & Jealousy
-1398,22.0,2012-06-14, elazig,brother,Masculinity&Honor
-1399,41.0,2012-06-07, kars,partner,Separation & Jealousy
-1400,,2012-06-05, ankara,partner,Other
-1401,23.0,2012-06-03, ankara,father,Other
-1402,48.0,2012-06-03, ankara,ex-partner,Separation & Jealousy
-1403,19.0,2012-05-31, hatay,boyfriend,Unknown
-1404,24.0,2012-05-27, i̇zmir,partner,Woman Decision and Preferences
-1405,25.0,2012-05-24, kayseri,partner,Separation & Jealousy
-1406,35.0,2012-05-23, bursa,partner,Children
-1407,25.0,2012-05-23, balikesir,brother,Other
-1408,25.0,2012-05-23, aksaray,partner,Other
-1409,49.0,2012-05-23, balikesir,son,Other
-1410,29.0,2012-05-21, konya,partner,Separation & Jealousy
-1411,67.0,2012-05-20, i̇zmir,known man,Other
-1412,23.0,2012-05-16, tekirdag,partner,Separation & Jealousy
-1413,30.0,2012-05-14, sinop,partner,Other
-1414,36.0,2012-05-12, istanbul,partner,Other
-1415,56.0,2012-05-10, i̇zmir,partner,Woman Decision and Preferences
-1416,26.0,2012-05-10, aksaray,partner,Separation & Jealousy
-1417,40.0,2012-05-09, i̇zmir,boyfriend,Separation & Jealousy
-1418,55.0,2012-05-03, ankara,partner,Separation & Jealousy
-1419,17.0,2012-05-01, adana,ex-partner,Separation & Jealousy
-1420,21.0,2012-04-29, elazig,boyfriend,Separation & Jealousy
-1421,20.0,2012-04-26, erzurum,partner,Separation & Jealousy
-1422,34.0,2012-04-25, istanbul,partner,Unknown
-1423,30.0,2012-04-25, mersin,ex-partner,Masculinity&Honor
-1424,43.0,2012-04-22, bursa,partner,Separation & Jealousy
-1425,35.0,2012-04-17, tekirdag,boyfriend,Other
-1426,44.0,2012-04-17, samsun,partner,Separation & Jealousy
-1427,21.0,2012-04-14, van,partner,Separation & Jealousy
-1428,26.0,2012-04-12, adana,partner,Separation & Jealousy
-1429,23.0,2012-04-06, aydin,known man,Unknown
-1430,50.0,2012-04-05, konya,partner,Separation & Jealousy
-1431,23.0,2012-03-30, i̇zmir,known man,Unknown
-1432,30.0,2012-03-28, istanbul,partner,Separation & Jealousy
-1433,25.0,2012-03-28, manisa,partner,Separation & Jealousy
-1434,18.0,2012-03-27, i̇zmir,partner,Separation & Jealousy
-1435,28.0,2012-03-26, bursa,partner,Separation & Jealousy
-1436,48.0,2012-03-26, ordu,ex-partner,Separation & Jealousy
-1437,27.0,2012-03-25, istanbul,ex-partner,Masculinity&Honor
-1438,74.0,2012-03-23, sanliurfa,attacker,Other
-1439,28.0,2012-03-11, ankara,boyfriend,Woman Decision and Preferences
-1440,40.0,2012-03-09, istanbul,relative,Unknown
-1441,32.0,2012-02-29, ankara,partner,Separation & Jealousy
-1442,33.0,2012-02-29, i̇zmir,ex-partner,Separation & Jealousy
-1443,31.0,2012-02-28, istanbul,partner,Other
-1444,28.0,2012-02-27, antalya,partner,Masculinity&Honor
-1445,26.0,2012-02-26, istanbul,brother,Masculinity&Honor
-1446,22.0,2012-02-24, ankara,father,Other
-1447,19.0,2012-02-24, istanbul,partner,Woman Decision and Preferences
-1448,22.0,2012-02-24, nigde,partner,Other
-1449,16.0,2012-02-23, osmaniye,attacker,Other
-1450,16.0,2012-02-23, osmaniye,known man,Separation & Jealousy
-1451,29.0,2012-02-22, kastamonu,ex-partner,Other
-1452,80.0,2012-02-21, kayseri,partner,Unknown
-1453,25.0,2012-02-21, istanbul,known man,Separation & Jealousy
-1454,26.0,2012-02-19, kayseri,partner,Masculinity&Honor
-1455,24.0,2012-02-15, mugla,boyfriend,Separation & Jealousy
-1456,26.0,2012-02-14, kocaeli,brother,Unknown
-1457,23.0,2012-02-14, van,partner,Masculinity&Honor
-1458,52.0,2012-02-13, balikesir,partner,Other
-1459,38.0,2012-02-13, istanbul,known man,Other
-1460,42.0,2012-02-13, kahramanmaras,partner,Separation & Jealousy
-1461,30.0,2012-02-11, ankara,known man,Unknown
-1462,35.0,2012-02-11, ankara,partner,Separation & Jealousy
-1463,19.0,2012-02-10, sanliurfa,boyfriend,Masculinity&Honor
-1464,46.0,2012-02-10, manisa,partner,Other
-1465,40.0,2012-02-09, ankara,partner,Unknown
-1466,25.0,2012-02-05, usak,partner,Other
-1467,18.0,2012-02-05, aydin,partner,Separation & Jealousy
-1468,2.0,2012-02-03, diyarbakir,father,Unknown
-1469,29.0,2012-02-03, gaziantep,known man,Other
-1470,33.0,2012-02-03, diyarbakir,partner,Unknown
-1471,2.0,2012-02-03, diyarbakir,father,Unknown
-1472,23.0,2012-01-28, istanbul,partner,Unknown
-1473,33.0,2012-01-21, canakkale,partner,Unknown
-1474,17.0,2012-01-19, gaziantep,partner,Other
-1475,43.0,2012-01-19, gaziantep,partner,Unknown
-1476,47.0,2012-01-17, konya,son,Masculinity&Honor
-1477,7.0,2012-01-15, antalya,father,Unknown
-1478,35.0,2012-01-15, antalya,partner,Unknown
-1479,60.0,2012-01-12, istanbul,son,Other
-1480,38.0,2012-01-07, ankara,boyfriend,Unknown
-1481,25.0,2012-01-05, tekirdag,relative,Other
-1482,22.0,2012-01-04, adana,ex-partner,Separation & Jealousy
-1483,27.0,2012-01-03, kocaeli,partner,Other
-1484,48.0,2012-01-02, sanliurfa,partner,Other
-1485,23.0,2012-01-01, antalya,partner,Separation & Jealousy
-1486,21.0,2011-12-28, adiyaman,brother,Masculinity&Honor
-1487,33.0,2011-12-24, antalya,partner,Separation & Jealousy
-1488,12.0,2011-12-24, kahramanmaras,attacker,Sexual expectation
-1489,58.0,2011-12-23, sakarya,partner,Other
-1490,32.0,2011-12-23, kocaeli,attacker,Other
-1491,22.0,2011-12-20, malatya,ex-partner,Separation & Jealousy
-1492,19.0,2011-12-20, nevsehir,partner,Other
-1493,36.0,2011-12-19, amasya,partner,Unknown
-1494,16.0,2011-12-19, amasya,relative,Unknown
-1495,65.0,2011-12-16, nevsehir,attacker,Other
-1496,45.0,2011-12-15, kocaeli,partner,Other
-1497,30.0,2011-12-14, trabzon,partner,Separation & Jealousy
-1498,33.0,2011-12-14, konya,attacker,Sexual expectation
-1499,24.0,2011-12-14, zonguldak,ex-partner,Separation & Jealousy
-1500,45.0,2011-12-09, tokat,partner,Other
-1501,34.0,2011-12-05, denizli,ex-partner,Other
-1502,36.0,2011-12-03, istanbul,partner,Separation & Jealousy
-1503,66.0,2011-11-26, antalya,partner,Other
-1504,21.0,2011-11-23, bursa,known man,Fight
-1505,57.0,2011-11-20, antalya,partner,Masculinity&Honor
-1506,31.0,2011-11-17, istanbul,partner,Masculinity&Honor
-1507,30.0,2011-11-17, adana,ex-partner,Separation & Jealousy
-1508,40.0,2011-11-15, kahramanmaras,relative,Masculinity&Honor
-1509,22.0,2011-11-15, denizli,father-in-law,Masculinity&Honor
-1510,40.0,2011-11-14, adana,son,Unknown
-1511,37.0,2011-11-13, konya,partner,Separation & Jealousy
-1512,42.0,2011-11-12, tekirdag,partner,Separation & Jealousy
-1513,55.0,2011-11-12, ankara,partner,Separation & Jealousy
-1514,16.0,2011-11-06, i̇zmir,relative,Woman Decision and Preferences
-1515,42.0,2011-11-06, i̇zmir,partner,Woman Decision and Preferences
-1516,28.0,2011-11-02, adana,brother,Masculinity&Honor
-1517,19.0,2011-11-01, gaziantep,father,Woman Decision and Preferences
-1518,36.0,2011-10-31, bursa,attacker,Other
-1519,18.0,2011-10-29, ankara,boyfriend,Separation & Jealousy
-1520,30.0,2011-10-27, bursa,partner,Separation & Jealousy
-1521,30.0,2011-10-26, gaziantep,partner,Separation & Jealousy
-1522,24.0,2011-10-21, aydin,partner,Separation & Jealousy
-1523,31.0,2011-10-19, istanbul,partner,Separation & Jealousy
-1524,20.0,2011-10-14, gaziantep,partner,Masculinity&Honor
-1525,28.0,2011-10-14, i̇zmir,partner,Separation & Jealousy
-1526,15.0,2011-10-13, kahramanmaras,father,Masculinity&Honor
-1527,35.0,2011-10-12, ankara,son,Masculinity&Honor
-1528,32.0,2011-10-12, balikesir,partner,Separation & Jealousy
-1529,34.0,2011-10-10, cankiri,partner,Other
-1530,33.0,2011-10-08, manisa,partner,Separation & Jealousy
-1531,30.0,2011-10-08, osmaniye,partner,Other
-1532,24.0,2011-10-07, gaziantep,brother,Woman Decision and Preferences
-1533,25.0,2011-10-06, i̇zmir,ex-partner,Unknown
-1534,20.0,2011-10-04, tokat,partner,Unknown
-1535,52.0,2011-10-02, kutahya,partner,Separation & Jealousy
-1536,47.0,2011-10-01, mersin,partner,Separation & Jealousy
-1537,32.0,2011-09-27, elazig,brother,Masculinity&Honor
-1538,34.0,2011-09-26, kocaeli,ex-partner,Separation & Jealousy
-1539,34.0,2011-09-25, kirikkale,partner,Unknown
-1540,39.0,2011-09-25, adana,boyfriend,Separation & Jealousy
-1541,35.0,2011-09-24, denizli,boyfriend,Separation & Jealousy
-1542,33.0,2011-09-24, yalova,ex-partner,Masculinity&Honor
-1543,80.0,2011-09-24, mersin,attacker,Other
-1544,23.0,2011-09-22, konya,boyfriend,Separation & Jealousy
-1545,22.0,2011-09-21, bolu,partner,Other
-1546,32.0,2011-09-19, sakarya,ex-partner,Separation & Jealousy
-1547,31.0,2011-09-17, kayseri,boyfriend,Masculinity&Honor
-1548,29.0,2011-09-16, i̇zmir,boyfriend,Other
-1549,22.0,2011-09-15, diyarbakir,brother,Other
-1550,48.0,2011-09-14, kahramanmaras,boyfriend,Other
-1551,65.0,2011-09-09, kars,partner,Other
-1552,30.0,2011-09-09, adana,boyfriend,Separation & Jealousy
-1553,32.0,2011-09-08, mersin,partner,Separation & Jealousy
-1554,24.0,2011-09-08, rize,brother,Masculinity&Honor
-1555,49.0,2011-09-05, ordu,partner,Woman Decision and Preferences
-1556,34.0,2011-09-03, istanbul,partner,Separation & Jealousy
-1557,19.0,2011-09-02, mersin,boyfriend,Separation & Jealousy
-1558,51.0,2011-09-01, ankara,partner,Other
-1559,14.0,2011-09-01, zonguldak,known man,Masculinity&Honor
-1560,39.0,2011-08-30, sakarya,partner,Separation & Jealousy
-1561,58.0,2011-08-25, kastamonu,partner,Other
-1562,33.0,2011-08-25, zonguldak,partner,Separation & Jealousy
-1563,21.0,2011-08-24, corum,partner,Unknown
-1564,35.0,2011-08-24, i̇zmir,partner,Separation & Jealousy
-1565,22.0,2011-08-22, adana,partner,Separation & Jealousy
-1566,,2011-08-19, ankara,partner,Other
-1567,50.0,2011-08-19, i̇zmir,known man,Separation & Jealousy
-1568,54.0,2011-08-19, i̇zmir,known man,Separation & Jealousy
-1569,63.0,2011-08-17, istanbul,partner,Other
-1570,27.0,2011-08-09, usak,partner,Separation & Jealousy
-1571,24.0,2011-08-04, giresun,ex-partner,Separation & Jealousy
-1572,20.0,2011-08-04, i̇zmir,partner,Separation & Jealousy
-1573,38.0,2011-08-03, van,partner,Other
-1574,24.0,2011-08-01, istanbul,attacker,Woman Decision and Preferences
-1575,30.0,2011-08-01, adana,partner,Separation & Jealousy
-1576,23.0,2011-07-31, eskisehir,boyfriend,Separation & Jealousy
-1577,28.0,2011-07-30, van,partner,Other
-1578,41.0,2011-07-29, istanbul,ex-partner,Separation & Jealousy
-1579,53.0,2011-07-29, burdur,partner,Woman Decision and Preferences
-1580,37.0,2011-07-28, mersin,boyfriend,Woman Decision and Preferences
-1581,34.0,2011-07-24, ankara,partner,Separation & Jealousy
-1582,30.0,2011-07-22, kars,partner,Unknown
-1583,21.0,2011-07-20, hatay,relative,Masculinity&Honor
-1584,26.0,2011-07-19, i̇zmir,partner,Masculinity&Honor
-1585,36.0,2011-07-17, kocaeli,partner,Unknown
-1586,45.0,2011-07-15, i̇zmir,partner,Woman Decision and Preferences
-1587,16.0,2011-07-14, istanbul,attacker,Unknown
-1588,24.0,2011-07-14, konya,partner,Unknown
-1589,45.0,2011-07-12, ordu,partner,Unknown
-1590,20.0,2011-07-09, van,partner,Separation & Jealousy
-1591,21.0,2011-07-09, adana,partner,Other
-1592,33.0,2011-07-09, samsun,partner,Other
-1593,38.0,2011-07-09, istanbul,ex-partner,Unknown
-1594,18.0,2011-07-08, kahramanmaras,boyfriend,Other
-1595,33.0,2011-07-08, ankara,partner,Separation & Jealousy
-1596,73.0,2011-07-01, kirsehir,relative,Sexual expectation
-1597,61.0,2011-06-30, bursa,relative,Unknown
-1598,31.0,2011-06-29, kayseri,partner,Separation & Jealousy
-1599,37.0,2011-06-27, malatya,partner,Unknown
-1600,45.0,2011-06-25, mugla,ex-partner,Separation & Jealousy
-1601,24.0,2011-06-25, i̇zmir,partner,Separation & Jealousy
-1602,25.0,2011-06-23, bitlis,ex-partner,Other
-1603,18.0,2011-06-23, duzce,partner,Separation & Jealousy
-1604,45.0,2011-06-22, bartin,partner,Separation & Jealousy
-1605,21.0,2011-06-22, ankara,partner,Masculinity&Honor
-1606,44.0,2011-06-20, zonguldak,partner,Other
-1607,50.0,2011-06-19, denizli,partner,Separation & Jealousy
-1608,60.0,2011-06-14, i̇zmir,partner,Unknown
-1609,21.0,2011-06-14, diyarbakir,partner,Other
-1610,80.0,2011-06-11, balikesir,son,Other
-1611,13.0,2011-06-11, istanbul,known man,Unknown
-1612,38.0,2011-06-11, istanbul,ex-partner,Separation & Jealousy
-1613,,2011-06-10, tokat,ex-partner,Unknown
-1614,60.0,2011-06-10, tokat,partner,Unknown
-1615,17.0,2011-06-10, giresun,known man,Separation & Jealousy
-1616,50.0,2011-06-06, i̇zmir,known man,Separation & Jealousy
-1617,32.0,2011-05-31, kayseri,partner,Unknown
-1618,19.0,2011-05-31, hakkâri,partner,Unknown
-1619,35.0,2011-05-29, istanbul,boyfriend,Masculinity&Honor
-1620,26.0,2011-05-29, antalya,partner,Unknown
-1621,24.0,2011-05-28, kayseri,partner,Separation & Jealousy
-1622,52.0,2011-05-26, istanbul,partner,Other
-1623,39.0,2011-05-26, denizli,partner,Unknown
-1624,42.0,2011-05-20, istanbul,partner,Separation & Jealousy
-1625,73.0,2011-05-19, konya,partner,Unknown
-1626,56.0,2011-05-18, balikesir,partner,Unknown
-1627,5.0,2011-05-17, gaziantep,known man,Sexual expectation
-1628,37.0,2011-05-14, istanbul,known man,Other
-1629,21.0,2011-05-13, kirklareli,known man,Separation & Jealousy
-1630,38.0,2011-05-11, istanbul,partner,Other
-1631,22.0,2011-05-09, mardin,partner,Other
-1632,15.0,2011-05-07, elazig,relative,Separation & Jealousy
-1633,8.0,2011-05-05, gaziantep,known man,Fight
-1634,8.0,2011-05-05, gaziantep,known man,Fight
-1635,34.0,2011-05-05, gaziantep,known man,Fight
-1636,14.0,2011-05-05, gaziantep,known man,Fight
-1637,39.0,2011-05-04, aydin,known man,Separation & Jealousy
-1638,31.0,2011-04-27, istanbul,ex-partner,Children
-1639,39.0,2011-04-25, antalya,ex-partner,Separation & Jealousy
-1640,36.0,2011-04-24, i̇zmir,partner,Separation & Jealousy
-1641,52.0,2011-04-24, mugla,ex-partner,Masculinity&Honor
-1642,19.0,2011-04-21, i̇zmir,known man,Separation & Jealousy
-1643,35.0,2011-04-19, mersin,partner,Male service expectations
-1644,67.0,2011-04-18, denizli,partner,Masculinity&Honor
-1645,40.0,2011-04-15, adana,partner,Separation & Jealousy
-1646,21.0,2011-04-14, balikesir,boyfriend,Separation & Jealousy
-1647,31.0,2011-04-13, istanbul,partner,Separation & Jealousy
-1648,32.0,2011-04-12, i̇zmir,partner,Other
-1649,38.0,2011-04-11, samsun,partner,Masculinity&Honor
-1650,24.0,2011-04-04, i̇zmir,partner,Unknown
-1651,25.0,2011-04-01, kirsehir,boyfriend,Unknown
-1652,31.0,2011-04-01, istanbul,brother,Masculinity&Honor
-1653,33.0,2011-03-31, konya,boyfriend,Other
-1654,42.0,2011-03-28, samsun,partner,Separation & Jealousy
-1655,19.0,2011-03-28, balikesir,boyfriend,Separation & Jealousy
-1656,21.0,2011-03-27, antalya,partner,Unknown
-1657,20.0,2011-03-26, aydin,attacker,Sexual expectation
-1658,23.0,2011-03-25, elazig,partner,Separation & Jealousy
-1659,43.0,2011-03-25, istanbul,son,Other
-1660,19.0,2011-03-23, konya,partner,Separation & Jealousy
-1661,35.0,2011-03-22, bursa,partner,Other
-1662,,2011-03-19, ankara,ex-partner,Separation & Jealousy
-1663,24.0,2011-03-19, antalya,partner,Separation & Jealousy
-1664,33.0,2011-03-17, istanbul,partner,Separation & Jealousy
-1665,46.0,2011-03-16, adana,son,Masculinity&Honor
-1666,22.0,2011-03-16, adana,brother,Masculinity&Honor
-1667,15.0,2011-03-16, adana,brother,Masculinity&Honor
-1668,26.0,2011-03-13, osmaniye,father-in-law,Other
-1669,26.0,2011-03-10, adana,partner,Other
-1670,38.0,2011-03-07, balikesir,father,Male service expectations
-1671,42.0,2011-03-05, tekirdag,ex-partner,Other
-1672,19.0,2011-03-03, bartin,boyfriend,Unknown
-1673,19.0,2011-03-01, mersin,brother,Masculinity&Honor
-1674,34.0,2011-02-28, antalya,partner,Separation & Jealousy
-1675,31.0,2011-02-26, istanbul,boyfriend,Other
-1676,43.0,2011-02-23, istanbul,partner,Separation & Jealousy
-1677,51.0,2011-02-23, adana,partner,Separation & Jealousy
-1678,48.0,2011-02-23, mersin,partner,Other
-1679,28.0,2011-02-21, eskisehir,ex-partner,Separation & Jealousy
-1680,34.0,2011-02-20, karaman,partner,Separation & Jealousy
-1681,43.0,2011-02-20, sanliurfa,relative,Other
-1682,37.0,2011-02-19, mersin,partner,Unknown
-1683,21.0,2011-02-19, gaziantep,ex-partner,Separation & Jealousy
-1684,60.0,2011-02-16, edirne,known man,Unknown
-1685,59.0,2011-02-15, istanbul,partner,Separation & Jealousy
-1686,18.0,2011-02-14, elazig,father,Separation & Jealousy
-1687,21.0,2011-02-12, kayseri,partner,Masculinity&Honor
-1688,33.0,2011-02-10, istanbul,partner,Separation & Jealousy
-1689,50.0,2011-02-08, bartin,known man,Other
-1690,25.0,2011-02-08, istanbul,partner,Separation & Jealousy
-1691,45.0,2011-02-07, zonguldak,known man,Unknown
-1692,50.0,2011-02-07, tekirdag,ex-partner,Masculinity&Honor
-1693,43.0,2011-02-07, zonguldak,known man,Unknown
-1694,42.0,2011-02-05, sanliurfa,partner,Separation & Jealousy
-1695,34.0,2011-02-04, nevsehir,ex-partner,Woman Decision and Preferences
-1696,66.0,2011-02-04, nevsehir,relative,Unknown
-1697,29.0,2011-02-03, antalya,partner,Masculinity&Honor
-1698,59.0,2011-02-01, gaziantep,son,Masculinity&Honor
-1699,42.0,2011-01-27, mersin,partner,Unknown
-1700,41.0,2011-01-26, gaziantep,father,Masculinity&Honor
-1701,20.0,2011-01-25, yozgat,father,Masculinity&Honor
-1702,28.0,2011-01-21, sanliurfa,partner,Unknown
-1703,12.0,2011-01-20, ankara,father,Unknown
-1704,38.0,2011-01-20, i̇zmir,partner,Separation & Jealousy
-1705,19.0,2011-01-17, diyarbakir,partner,Masculinity&Honor
-1706,29.0,2011-01-16, adana,brother,Unknown
-1707,57.0,2011-01-14, igdir,relative,Fight
-1708,44.0,2011-01-12, isparta,boyfriend,Unknown
-1709,38.0,2011-01-10, kahramanmaras,partner,Woman Decision and Preferences
-1710,29.0,2011-01-09, i̇zmir,brother,Unknown
-1711,24.0,2011-01-08, balikesir,ex-partner,Separation & Jealousy
-1712,37.0,2011-01-05, manisa,partner,Other
-1713,16.0,2011-01-04, igdir,brother,Masculinity&Honor
-1714,,2011-01-02, kirikkale,partner,Separation & Jealousy
-1715,55.0,2011-01-01, istanbul,attacker,Other
-1716,,2010-12-31, ankara,partner,Separation & Jealousy
-1717,32.0,2010-12-28, nigde,partner,Separation & Jealousy
-1718,52.0,2010-12-28, nigde,partner,Other
-1719,37.0,2010-12-25, konya,known man,Sexual expectation
-1720,15.0,2010-12-23, istanbul,relative,Other
-1721,23.0,2010-12-23, ankara,partner,Other
-1722,35.0,2010-12-23, istanbul,ex-partner,Separation & Jealousy
-1723,18.0,2010-12-23, sanliurfa,relative,Other
-1724,22.0,2010-12-22, sanliurfa,partner,Other
-1725,50.0,2010-12-21, i̇zmir,partner,Other
-1726,33.0,2010-12-21, konya,ex-partner,Masculinity&Honor
-1727,63.0,2010-12-18, zonguldak,partner,Unknown
-1728,26.0,2010-12-14, istanbul,brother,Woman Decision and Preferences
-1729,27.0,2010-12-12, mersin,boyfriend,Unknown
-1730,42.0,2010-12-07, ankara,ex-partner,Unknown
-1731,39.0,2010-12-06, mugla,partner,Separation & Jealousy
-1732,36.0,2010-12-03, denizli,boyfriend,Separation & Jealousy
-1733,9.0,2010-12-02, i̇zmir,father,Children
-1734,35.0,2010-11-29, aydin,partner,Other
-1735,32.0,2010-11-24, mersin,ex-partner,Separation & Jealousy
-1736,18.0,2010-11-22, i̇zmir,ex-partner,Separation & Jealousy
-1737,20.0,2010-11-18, gaziantep,father,Masculinity&Honor
-1738,21.0,2010-11-18, gaziantep,father,Masculinity&Honor
-1739,39.0,2010-11-15, sakarya,partner,Masculinity&Honor
-1740,28.0,2010-11-15, bursa,boyfriend,Separation & Jealousy
-1741,73.0,2010-11-13, kayseri,relative,Other
-1742,20.0,2010-11-12, i̇zmir,boyfriend,Unknown
-1743,7.0,2010-11-10, van,attacker,Sexual expectation
-1744,43.0,2010-11-10, van,attacker,Unknown
-1745,15.0,2010-11-10, van,attacker,Sexual expectation
-1746,30.0,2010-11-09, mugla,partner,Other
-1747,38.0,2010-11-09, gaziantep,known man,Other
-1748,27.0,2010-11-04, malatya,partner,Unknown
-1749,28.0,2010-11-04, istanbul,boyfriend,Other
-1750,36.0,2010-10-29, mersin,partner,Other
-1751,41.0,2010-10-29, mugla,partner,Household service expectations
-1752,35.0,2010-10-28, istanbul,ex-partner,Separation & Jealousy
-1753,44.0,2010-10-27, istanbul,boyfriend,Separation & Jealousy
-1754,15.0,2010-10-25, diyarbakir,relative,Sexual expectation
-1755,23.0,2010-10-25, hakkâri,partner,Masculinity&Honor
-1756,40.0,2010-10-22, istanbul,relative,Other
-1757,25.0,2010-10-21, adana,brother,Masculinity&Honor
-1758,40.0,2010-10-21, ankara,relative,Unknown
-1759,38.0,2010-10-18, istanbul,partner,Other
-1760,18.0,2010-10-18, istanbul,partner,Separation & Jealousy
-1761,18.0,2010-10-16, adana,brother,Other
-1762,32.0,2010-10-16, adana,brother,Male service expectations
-1763,55.0,2010-10-16, adana,son,Other
-1764,51.0,2010-10-15, ankara,brother,Other
-1765,25.0,2010-10-12, aydin,boyfriend,Masculinity&Honor
-1766,44.0,2010-10-11, konya,known man,Unknown
-1767,32.0,2010-10-10, konya,relative,Other
-1768,32.0,2010-10-06, kutahya,partner,Separation & Jealousy
-1769,28.0,2010-10-04, i̇zmir,ex-partner,Unknown
-1770,30.0,2010-10-04, mersin,boyfriend,Separation & Jealousy
-1771,71.0,2010-10-01, mersin,attacker,Unknown
-1772,58.0,2010-09-30, konya,partner,Other
-1773,83.0,2010-09-28, sakarya,relative,Sexual expectation
-1774,72.0,2010-09-28, bursa,partner,Other
-1775,35.0,2010-09-27, gaziantep,boyfriend,Separation & Jealousy
-1776,36.0,2010-09-27, i̇zmir,partner,Separation & Jealousy
-1777,,2010-09-25, istanbul,partner,Separation & Jealousy
-1778,55.0,2010-09-24, hatay,relative,Other
-1779,55.0,2010-09-22, duzce,partner,Other
-1780,42.0,2010-09-18, eskisehir,partner,Masculinity&Honor
-1781,20.0,2010-09-18, kocaeli,partner,Separation & Jealousy
-1782,31.0,2010-09-15, gaziantep,partner,Unknown
-1783,34.0,2010-09-14, istanbul,ex-partner,Separation & Jealousy
-1784,11.0,2010-09-14, eskisehir,attacker,Sexual expectation
-1785,23.0,2010-09-14, istanbul,partner,Separation & Jealousy
-1786,20.0,2010-09-13, sanliurfa,brother,Masculinity&Honor
-1787,29.0,2010-09-13, gaziantep,brother,Masculinity&Honor
-1788,43.0,2010-09-09, adana,partner,Separation & Jealousy
-1789,48.0,2010-09-08, aksaray,partner,Separation & Jealousy
-1790,33.0,2010-09-06, kastamonu,partner,Other
-1791,38.0,2010-09-06, mersin,partner,Other
-1792,12.0,2010-09-02, erzurum,relative,Sexual expectation
-1793,57.0,2010-08-29, mugla,relative,Unknown
-1794,48.0,2010-08-28, istanbul,partner,Other
-1795,44.0,2010-08-28, istanbul,boyfriend,Masculinity&Honor
-1796,30.0,2010-08-28, istanbul,relative,Other
-1797,33.0,2010-08-27, trabzon,boyfriend,Other
-1798,24.0,2010-08-27, batman,partner,Other
-1799,16.0,2010-08-27, kilis,brother,Woman Decision and Preferences
-1800,43.0,2010-08-26, diyarbakir,partner,Household service expectations
-1801,27.0,2010-08-24, kayseri,partner,Separation & Jealousy
-1802,25.0,2010-08-24, siirt,partner,Separation & Jealousy
-1803,24.0,2010-08-24, adana,partner,Household service expectations
-1804,35.0,2010-08-23, adana,partner,Other
-1805,27.0,2010-08-19, istanbul,known man,Masculinity&Honor
-1806,17.0,2010-08-17, manisa,known man,Sexual expectation
-1807,50.0,2010-08-16, kocaeli,partner,Other
-1808,,2010-08-16, konya,partner,Other
-1809,53.0,2010-08-16, bursa,ex-partner,Separation & Jealousy
-1810,33.0,2010-08-15, ankara,ex-partner,Unknown
-1811,38.0,2010-08-15, ankara,relative,Other
-1812,27.0,2010-08-14, i̇zmir,partner,Separation & Jealousy
-1813,21.0,2010-08-13, kayseri,partner,Other
-1814,52.0,2010-08-13, gaziantep,partner,Other
-1815,46.0,2010-08-13, osmaniye,partner,Unknown
-1816,42.0,2010-08-13, ankara,boyfriend,Separation & Jealousy
-1817,29.0,2010-08-12, van,ex-partner,Unknown
-1818,61.0,2010-08-11, istanbul,boyfriend,Other
-1819,41.0,2010-08-11, mersin,partner,Separation & Jealousy
-1820,37.0,2010-08-10, istanbul,known man,Other
-1821,50.0,2010-08-05, antalya,father-in-law,Unknown
-1822,41.0,2010-08-04, ankara,boyfriend,Separation & Jealousy
-1823,22.0,2010-08-04, ankara,known man,Other
-1824,42.0,2010-08-04, aydin,attacker,Unknown
-1825,30.0,2010-08-04, bursa,partner,Other
-1826,48.0,2010-08-01, istanbul,partner,Unknown
-1827,19.0,2010-08-01, eskisehir,partner,Separation & Jealousy
-1828,22.0,2010-08-01, istanbul,father,Unknown
-1829,20.0,2010-07-30, sanliurfa,relative,Other
-1830,46.0,2010-07-29, eskisehir,partner,Separation & Jealousy
-1831,25.0,2010-07-29, bursa,boyfriend,Other
-1832,40.0,2010-07-28, usak,ex-partner,Separation & Jealousy
-1833,27.0,2010-07-26, adana,known man,Unknown
-1834,20.0,2010-07-26, adana,ex-partner,Unknown
-1835,19.0,2010-07-26, bursa,boyfriend,Separation & Jealousy
-1836,22.0,2010-07-23, antalya,boyfriend,Other
-1837,41.0,2010-07-22, kastamonu,partner,Other
-1838,39.0,2010-07-21, i̇zmir,boyfriend,Masculinity&Honor
-1839,22.0,2010-07-20, antalya,partner,Separation & Jealousy
-1840,44.0,2010-07-20, i̇zmir,partner,Separation & Jealousy
-1841,35.0,2010-07-17, istanbul,boyfriend,Unknown
-1842,48.0,2010-07-16, istanbul,ex-partner,Separation & Jealousy
-1843,43.0,2010-07-14, ankara,partner,Separation & Jealousy
-1844,24.0,2010-07-13, istanbul,boyfriend,Separation & Jealousy
-1845,2.0,2010-07-13, amasya,attacker,Sexual expectation
-1846,17.0,2010-07-13, mugla,ex-partner,Unknown
-1847,24.0,2010-07-11, karaman,ex-partner,Unknown
-1848,40.0,2010-07-09, ankara,father,Other
-1849,30.0,2010-07-09, bursa,partner,Separation & Jealousy
-1850,57.0,2010-07-09, ankara,partner,Other
-1851,24.0,2010-07-06, karaman,partner,Separation & Jealousy
-1852,57.0,2010-07-03, bursa,attacker,Other
-1853,45.0,2010-07-01, tekirdag,partner,Separation & Jealousy
-1854,19.0,2010-07-01, i̇zmir,relative,Woman Decision and Preferences
-1855,50.0,2010-06-28, ankara,partner,Other
-1856,24.0,2010-06-25, istanbul,ex-partner,Masculinity&Honor
-1857,50.0,2010-06-22, adana,partner,Household service expectations
-1858,36.0,2010-06-19, mugla,ex-partner,Separation & Jealousy
-1859,,2010-06-16, adana,partner,Other
-1860,53.0,2010-06-15, balikesir,attacker,Separation & Jealousy
-1861,26.0,2010-06-15, denizli,partner,Separation & Jealousy
-1862,62.0,2010-06-12, ankara,partner,Masculinity&Honor
-1863,31.0,2010-06-12, diyarbakir,partner,Other
-1864,36.0,2010-06-10, corum,partner,Separation & Jealousy
-1865,70.0,2010-06-07, ankara,partner,Unknown
-1866,48.0,2010-06-04, sanliurfa,relative,Separation & Jealousy
-1867,42.0,2010-06-02, adana,partner,Sexual expectation
-1868,50.0,2010-05-29, kayseri,son,Other
-1869,77.0,2010-05-28, kutahya,partner,Unknown
-1870,45.0,2010-05-28, istanbul,partner,Other
-1871,35.0,2010-05-27, antalya,attacker,Other
-1872,21.0,2010-05-26, hatay,partner,Separation & Jealousy
-1873,38.0,2010-05-26, gaziantep,known man,Unknown
-1874,36.0,2010-05-24, istanbul,partner,Separation & Jealousy
-1875,,2010-05-23, tekirdag,boyfriend,Separation & Jealousy
-1876,38.0,2010-05-21, denizli,ex-partner,Unknown
-1877,21.0,2010-05-20, istanbul,boyfriend,Woman Decision and Preferences
-1878,24.0,2010-05-19, mersin,partner,Unknown
-1879,26.0,2010-05-17, antalya,boyfriend,Woman Decision and Preferences
-1880,22.0,2010-05-14, adana,partner,Other
-1881,39.0,2010-05-14, mersin,partner,Woman Decision and Preferences
-1882,18.0,2010-05-08, ankara,known man,Separation & Jealousy
-1883,26.0,2010-05-08, kahramanmaras,ex-partner,Other
-1884,32.0,2010-05-07, ankara,partner,Separation & Jealousy
-1885,45.0,2010-05-06, mugla,partner,Unknown
-1886,25.0,2010-05-05, istanbul,ex-partner,Separation & Jealousy
-1887,16.0,2010-05-04, corum,attacker,Separation & Jealousy
-1888,42.0,2010-04-30, ordu,partner,Unknown
-1889,20.0,2010-04-29, kars,partner,Unknown
-1890,42.0,2010-04-29, mugla,relative,Unknown
-1891,39.0,2010-04-28, manisa,partner,Separation & Jealousy
-1892,35.0,2010-04-28, antalya,partner,Separation & Jealousy
-1893,41.0,2010-04-26, adana,relative,Separation & Jealousy
-1894,,2010-04-26, aydin,partner,Masculinity&Honor
-1895,22.0,2010-04-26, i̇zmir,attacker,Unknown
-1896,27.0,2010-04-26, i̇zmir,attacker,Unknown
-1897,22.0,2010-04-24, bursa,ex-partner,Other
-1898,22.0,2010-04-23, agri,brother,Masculinity&Honor
-1899,51.0,2010-04-21, istanbul,ex-partner,Unknown
-1900,29.0,2010-04-17, bursa,ex-partner,Separation & Jealousy
-1901,36.0,2010-04-15, gaziantep,ex-partner,Unknown
-1902,37.0,2010-04-12, kocaeli,partner,Separation & Jealousy
-1903,32.0,2010-04-09, mugla,partner,Separation & Jealousy
-1904,38.0,2010-04-08, igdir,partner,Unknown
-1905,28.0,2010-04-08, diyarbakir,partner,Household service expectations
-1906,6.0,2010-04-07, i̇zmir,father,Other
-1907,25.0,2010-04-06, aydin,ex-partner,Children
-1908,50.0,2010-04-06, aydin,relative,Other
-1909,33.0,2010-04-03, aydin,partner,Separation & Jealousy
-1910,18.0,2010-04-01, istanbul,attacker,Other
-1911,41.0,2010-04-01, tekirdag,partner,Unknown
-1912,30.0,2010-03-30, cankiri,ex-partner,Unknown
-1913,,2010-03-28, adana,partner,Other
-1914,56.0,2010-03-28, istanbul,partner,Children
-1915,47.0,2010-03-22, kahramanmaras,attacker,Sexual expectation
-1916,27.0,2010-03-22, erzincan,partner,Masculinity&Honor
-1917,19.0,2010-03-20, i̇zmir,boyfriend,Separation & Jealousy
-1918,51.0,2010-03-18, diyarbakir,partner,Unknown
-1919,,2010-03-18, istanbul,ex-partner,Masculinity&Honor
-1920,39.0,2010-03-18, tekirdag,ex-partner,Unknown
-1921,50.0,2010-03-18, istanbul,relative,Other
-1922,16.0,2010-03-18, edirne,boyfriend,Unknown
-1923,39.0,2010-03-17, gaziantep,brother,Masculinity&Honor
-1924,37.0,2010-03-12, bursa,partner,Other
-1925,17.0,2010-03-12, bursa,father,Other
-1926,43.0,2010-03-12, adana,relative,Children
-1927,9.0,2010-03-12, ankara,attacker,Unknown
-1928,24.0,2010-03-12, ardahan,attacker,Separation & Jealousy
-1929,50.0,2010-03-11, edirne,partner,Separation & Jealousy
-1930,0.0,2010-03-08, malatya,father,Unknown
-1931,47.0,2010-03-05, i̇zmir,partner,Other
-1932,40.0,2010-03-05, samsun,partner,Other
-1933,25.0,2010-03-04, istanbul,ex-partner,Separation & Jealousy
-1934,35.0,2010-03-01, istanbul,relative,Separation & Jealousy
-1935,63.0,2010-03-01, samsun,partner,Unknown
-1936,24.0,2010-02-27, malatya,attacker,Sexual expectation
-1937,44.0,2010-02-23, canakkale,partner,Unknown
-1938,14.0,2010-02-23, canakkale,father,Unknown
-1939,20.0,2010-02-23, mersin,boyfriend,Separation & Jealousy
-1940,10.0,2010-02-23, canakkale,father,Unknown
-1941,18.0,2010-02-22, eskisehir,brother,Other
-1942,44.0,2010-02-22, eskisehir,son,Other
-1943,42.0,2010-02-21, malatya,partner,Separation & Jealousy
-1944,40.0,2010-02-20, malatya,partner,Other
-1945,30.0,2010-02-20, diyarbakir,relative,Unknown
-1946,35.0,2010-02-19, istanbul,partner,Other
-1947,29.0,2010-02-18, istanbul,ex-partner,Unknown
-1948,28.0,2010-02-17, duzce,attacker,Sexual expectation
-1949,35.0,2010-02-15, sakarya,ex-partner,Unknown
-1950,35.0,2010-02-13, adana,partner,Other
-1951,50.0,2010-02-12, eskisehir,son,Unknown
-1952,46.0,2010-02-11, bolu,son,Other
-1953,44.0,2010-02-07, yalova,partner,Other
-1954,23.0,2010-02-06, adana,partner,Separation & Jealousy
-1955,4.0,2010-02-03, gaziantep,relative,Fight
-1956,29.0,2010-01-28, kocaeli,known man,Other
-1957,34.0,2010-01-28, gaziantep,partner,Other
-1958,20.0,2010-01-17, diyarbakir,partner,Unknown
-1959,24.0,2010-01-14, ankara,relative,Masculinity&Honor
-1960,34.0,2010-01-12, adana,attacker,Separation & Jealousy
-1961,57.0,2010-01-12, kutahya,brother,Unknown
-1962,34.0,2010-01-11, adana,boyfriend,Unknown
-1963,,2010-01-03, bitlis,partner,Separation & Jealousy
+0,18,12/31/2017, istanbul,boyfriend,Unknown
+1,17,12/31/2017, burdur,boyfriend,Separation & Jealousy
+2,38,12/30/2017, bolu,boyfriend,Other
+3,53,12/27/2017, ankara,boyfriend,Separation & Jealousy
+4,22,12/25/2017, diyarbakir,partner,Separation & Jealousy
+5,49,12/24/2017, usak,son,Unknown
+6,38,12/24/2017, mugla,boyfriend,Separation & Jealousy
+7,38,12/23/2017, hatay,ex-partner,Separation & Jealousy
+8,28,12/23/2017, adana,ex-partner,Other
+9,40,12/19/2017, i̇zmir,boyfriend,Unknown
+10,21,12/19/2017, i̇zmir,known man,Other
+11,37,12/18/2017, adana,boyfriend,Separation & Jealousy
+12,36,12/18/2017, adana,known man,Other
+13,43,12/17/2017, manisa,partner,Other
+14,33,12/13/2017, sivas,partner,Other
+15,7,12/13/2017, kayseri,father,Other
+16,41,12/13/2017, kayseri,partner,Other
+17,16,12/13/2017, kayseri,father,Other
+18,30,12/11/2017, kocaeli,partner,Other
+19,40,12/10/2017, bursa,known man,Separation & Jealousy
+20,35,12/9/2017, istanbul,son,Unknown
+21,41,12/6/2017, amasya,partner,Separation & Jealousy
+22,35,12/5/2017, batman,relative,Unknown
+23,27,12/5/2017, antalya,partner,Separation & Jealousy
+24,19,12/5/2017, tekirdag,known man,Separation & Jealousy
+25,,12/4/2017, diyarbakir,partner,Unknown
+26,11,12/3/2017, zonguldak,father,Other
+27,22,12/3/2017, bursa,partner,Separation & Jealousy
+28,17,12/3/2017, istanbul,boyfriend,Separation & Jealousy
+29,39,12/3/2017, zonguldak,ex-partner,Other
+30,40,11/30/2017, duzce,partner,Other
+31,16,11/27/2017, istanbul,boyfriend,Sexual expectation
+32,40,11/27/2017, istanbul,partner,Separation & Jealousy
+33,20,11/26/2017, sanliurfa,father,Unknown
+34,,11/25/2017, zonguldak,son,Other
+35,60,11/24/2017, konya,partner,Unknown
+36,19,11/19/2017, sakarya,father,Unknown
+37,28,11/18/2017, yozgat,partner,Separation & Jealousy
+38,35,11/17/2017, adana,son,Other
+39,49,11/16/2017, diyarbakir,brother,Other
+40,32,11/14/2017, istanbul,partner,Unknown
+41,25,11/12/2017, mersin,boyfriend,Unknown
+42,24,11/11/2017, sakarya,ex-partner,Unknown
+43,64,11/4/2017, aksaray,partner,Unknown
+44,35,11/2/2017, denizli,ex-partner,Separation & Jealousy
+45,35,10/31/2017, istanbul,partner,Separation & Jealousy
+46,21,10/30/2017, adana,known man,Unknown
+47,38,10/28/2017, antalya,boyfriend,Other
+48,62,10/28/2017, istanbul,partner,Separation & Jealousy
+49,31,10/22/2017, afyonkarahisar,partner,Unknown
+50,31,10/20/2017, kocaeli,boyfriend,Masculinity&Honor
+51,32,10/17/2017, gaziantep,partner,Separation & Jealousy
+52,33,10/15/2017, kocaeli,partner,Unknown
+53,47,10/15/2017, antalya,partner,Unknown
+54,23,10/15/2017, antalya,father,Unknown
+55,17,10/14/2017, istanbul,known man,Separation & Jealousy
+56,24,10/14/2017, istanbul,brother,Masculinity&Honor
+57,22,10/13/2017, elazig,father,Other
+58,39,10/12/2017, duzce,partner,Unknown
+59,36,10/11/2017, istanbul,ex-partner,Separation & Jealousy
+60,20,10/10/2017, istanbul,relative,Woman Decision and Preferences
+61,44,10/10/2017, zonguldak,son,Masculinity&Honor
+62,47,10/9/2017, tekirdag,partner,Masculinity&Honor
+63,25,10/8/2017, kars,partner,Other
+64,55,10/8/2017, manisa,partner,Other
+65,23,10/7/2017, yozgat,partner,Unknown
+66,56,10/7/2017, yozgat,partner,Unknown
+67,35,10/7/2017, bolu,partner,Unknown
+68,37,10/7/2017, aydin,known man,Sexual expectation
+69,53,10/5/2017, tekirdag,partner,Unknown
+70,75,10/5/2017, manisa,partner,Other
+71,36,10/4/2017, kastamonu,partner,Separation & Jealousy
+72,42,10/4/2017, tokat,known man,Fight
+73,,10/3/2017, isparta,partner,Other
+74,26,9/30/2017, tokat,relative,Masculinity&Honor
+75,31,9/28/2017, usak,ex-partner,Unknown
+76,31,9/27/2017, denizli,ex-partner,Masculinity&Honor
+77,6,9/26/2017, balikesir,known man,Other
+78,70,9/26/2017, sanliurfa,son,Other
+79,32,9/23/2017, i̇zmir,known man,Other
+80,60,9/22/2017, istanbul,relative,Other
+81,22,9/22/2017, istanbul,relative,Other
+82,42,9/21/2017, kilis,partner,Other
+83,45,9/21/2017, tekirdag,partner,Separation & Jealousy
+84,25,9/21/2017, kilis,partner,Separation & Jealousy
+85,35,9/21/2017, bursa,partner,Other
+86,20,9/20/2017, burdur,boyfriend,Other
+87,62,9/20/2017, bolu,partner,Other
+88,,9/20/2017, mersin,ex-partner,Unknown
+89,23,9/19/2017, mersin,known man,Other
+90,26,9/19/2017, istanbul,partner,Separation & Jealousy
+91,55,9/14/2017, konya,known man,Fight
+92,22,9/14/2017, istanbul,partner,Separation & Jealousy
+93,30,9/14/2017, istanbul,relative,Other
+94,35,9/14/2017, konya,partner,Separation & Jealousy
+95,51,9/11/2017, antalya,boyfriend,Other
+96,36,9/9/2017, mus,brother,Unknown
+97,,9/9/2017, mus,partner,Unknown
+98,,9/9/2017, mus,relative,Unknown
+99,,9/9/2017, mus,relative,Unknown
+100,42,9/9/2017, gaziantep,partner,Unknown
+101,31,9/8/2017, i̇zmir,attacker,Other
+102,5,9/7/2017, nevsehir,relative,Unknown
+103,33,9/4/2017, sanliurfa,relative,Unknown
+104,46,9/4/2017, samsun,relative,Separation & Jealousy
+105,36,9/2/2017, i̇zmir,ex-partner,Separation & Jealousy
+106,30,9/2/2017, istanbul,partner,Separation & Jealousy
+107,36,9/1/2017, aydin,partner,Unknown
+108,24,8/31/2017, balikesir,partner,Other
+109,37,8/31/2017, konya,partner,Separation & Jealousy
+110,,8/21/2017, gaziantep,partner,Other
+111,45,8/19/2017, konya,boyfriend,Woman Decision and Preferences
+112,24,8/18/2017, trabzon,known man,Sexual expectation
+113,70,8/17/2017, istanbul,relative,Other
+114,37,8/17/2017, antalya,partner,Other
+115,26,8/16/2017, i̇zmir,partner,Unknown
+116,41,8/14/2017, manisa,known man,Unknown
+117,25,8/11/2017, kocaeli,partner,Unknown
+118,51,8/10/2017, kocaeli,partner,Separation & Jealousy
+119,21,7/31/2017, agri,partner,Unknown
+120,17,7/30/2017, tokat,boyfriend,Separation & Jealousy
+121,40,7/30/2017, sanliurfa,ex-partner,Other
+122,20,7/30/2017, sanliurfa,father,Other
+123,27,7/27/2017, konya,partner,Unknown
+124,70,7/21/2017, sinop,partner,Other
+125,47,7/20/2017, adana,ex-partner,Other
+126,33,7/13/2017, kayseri,partner,Unknown
+127,35,7/11/2017, manisa,ex-partner,Masculinity&Honor
+128,34,7/11/2017, kutahya,boyfriend,Separation & Jealousy
+129,63,7/9/2017, adana,known man,Other
+130,34,7/9/2017, adana,relative,Other
+131,24,7/9/2017, corum,known man,Unknown
+132,65,7/6/2017, mersin,relative,Unknown
+133,20,7/6/2017, sakarya,attacker,Sexual expectation
+134,33,7/5/2017, manisa,partner,Other
+135,20,7/2/2017, gaziantep,partner,Separation & Jealousy
+136,33,7/1/2017, hatay,partner,Woman Decision and Preferences
+137,88,6/30/2017, elazig,son,Unknown
+138,46,6/29/2017, bursa,partner,Separation & Jealousy
+139,24,6/26/2017, ankara,ex-partner,Unknown
+140,17,6/20/2017, kocaeli,father,Woman Decision and Preferences
+141,26,6/18/2017, adana,partner,Separation & Jealousy
+142,29,6/17/2017, bilecik,partner,Separation & Jealousy
+143,51,6/15/2017, i̇zmir,partner,Masculinity&Honor
+144,26,6/13/2017, bursa,known man,Other
+145,36,6/13/2017, konya,boyfriend,Unknown
+146,16,6/4/2017, afyonkarahisar,relative,Other
+147,30,6/3/2017, antalya,partner,Separation & Jealousy
+148,31,6/3/2017, antalya,relative,Other
+149,50,6/3/2017, denizli,relative,Other
+150,55,6/3/2017, denizli,partner,Separation & Jealousy
+151,6,6/2/2017, yalova,attacker,Sexual expectation
+152,45,6/2/2017, i̇zmir,boyfriend,Masculinity&Honor
+153,35,6/2/2017, istanbul,partner,Masculinity&Honor
+154,5,5/30/2017, i̇zmir,father,Unknown
+155,34,5/30/2017, i̇zmir,partner,Unknown
+156,1,5/28/2017, gaziantep,father,Other
+157,21,5/28/2017, hatay,partner,Separation & Jealousy
+158,6,5/28/2017, gaziantep,father,Other
+159,28,5/28/2017, gaziantep,partner,Other
+160,18,5/27/2017, istanbul,brother,Masculinity&Honor
+161,2,5/26/2017, edirne,relative,Other
+162,,5/26/2017, edirne,relative,Fight
+163,54,5/24/2017, hatay,son,Unknown
+164,30,5/24/2017, diyarbakir,partner,Separation & Jealousy
+165,37,5/23/2017, bursa,partner,Other
+166,23,5/21/2017, bursa,partner,Other
+167,55,5/21/2017, aydin,known man,Woman Decision and Preferences
+168,44,5/18/2017, antalya,boyfriend,Unknown
+169,41,5/17/2017, konya,ex-partner,Children
+170,59,5/17/2017, konya,relative,Other
+171,32,5/16/2017, i̇zmir,ex-partner,Other
+172,35,5/16/2017, ankara,partner,Separation & Jealousy
+173,18,5/12/2017, mugla,known man,Separation & Jealousy
+174,24,5/10/2017, kayseri,boyfriend,Other
+175,28,5/10/2017, i̇zmir,relative,Masculinity&Honor
+176,79,5/8/2017, kilis,relative,Unknown
+177,46,5/8/2017, samsun,partner,Separation & Jealousy
+178,40,5/6/2017, i̇zmir,ex-partner,Other
+179,,5/6/2017, istanbul,boyfriend,Other
+180,19,5/5/2017, istanbul,partner,Separation & Jealousy
+181,16,5/5/2017, bursa,boyfriend,Unknown
+182,41,5/3/2017, adana,relative,Separation & Jealousy
+183,31,5/3/2017, istanbul,boyfriend,Unknown
+184,66,5/3/2017, adana,relative,Separation & Jealousy
+185,68,5/3/2017, adana,relative,Separation & Jealousy
+186,18,4/30/2017, siirt,boyfriend,Masculinity&Honor
+187,35,4/30/2017, adana,relative,Other
+188,32,4/30/2017, adana,relative,Other
+189,30,4/30/2017, yozgat,brother,Other
+190,55,4/28/2017, bursa,son,Separation & Jealousy
+191,39,4/27/2017, istanbul,ex-partner,Unknown
+192,60,4/25/2017, sanliurfa,partner,Other
+193,63,4/23/2017, bursa,partner,Unknown
+194,40,4/23/2017, adana,partner,Unknown
+195,45,4/19/2017, antalya,boyfriend,Masculinity&Honor
+196,51,4/19/2017, van,partner,Other
+197,27,4/16/2017, istanbul,partner,Separation & Jealousy
+198,20,4/14/2017, aydin,father,Separation & Jealousy
+199,35,4/13/2017, ankara,brother,Masculinity&Honor
+200,22,4/13/2017, balikesir,partner,Unknown
+201,21,4/11/2017, adana,relative,Masculinity&Honor
+202,31,4/11/2017, adana,relative,Masculinity&Honor
+203,55,4/10/2017, istanbul,ex-partner,Separation & Jealousy
+204,35,4/8/2017, afyonkarahisar,relative,Other
+205,26,4/3/2017, tekirdag,boyfriend,Separation & Jealousy
+206,,3/31/2017, agri,son,Unknown
+207,,3/31/2017, kastamonu,boyfriend,Unknown
+208,37,3/31/2017, bursa,partner,Separation & Jealousy
+209,26,3/28/2017, manisa,boyfriend,Separation & Jealousy
+210,5,3/28/2017, hatay,father,Other
+211,28,3/28/2017, hatay,ex-partner,Separation & Jealousy
+212,29,3/27/2017, afyonkarahisar,ex-partner,Separation & Jealousy
+213,,3/22/2017, ankara,ex-partner,Unknown
+214,64,3/21/2017, kayseri,known man,Other
+215,28,3/21/2017, i̇zmir,boyfriend,Separation & Jealousy
+216,60,3/21/2017, gaziantep,partner,Unknown
+217,43,3/20/2017, istanbul,known man,Other
+218,32,3/19/2017, bursa,brother,Other
+219,34,3/19/2017, kahramanmaras,partner,Other
+220,38,3/18/2017, gaziantep,brother,Masculinity&Honor
+221,39,3/17/2017, tokat,partner,Separation & Jealousy
+222,45,3/16/2017, istanbul,partner,Unknown
+223,38,3/16/2017, balikesir,partner,Household service expectations
+224,,3/15/2017, istanbul,ex-partner,Unknown
+225,48,3/14/2017, denizli,boyfriend,Masculinity&Honor
+226,23,3/11/2017, gaziantep,partner,Masculinity&Honor
+227,68,3/11/2017, mugla,partner,Unknown
+228,3,3/11/2017, gaziantep,relative,Other
+229,20,3/10/2017, bursa,partner,Separation & Jealousy
+230,59,3/9/2017, bursa,son,Unknown
+231,25,3/9/2017, mugla,ex-partner,Masculinity&Honor
+232,,3/7/2017, i̇zmir,boyfriend,Masculinity&Honor
+233,42,3/7/2017, antalya,ex-partner,Woman Decision and Preferences
+234,79,3/6/2017, i̇zmir,relative,Unknown
+235,62,3/2/2017, kastamonu,partner,Unknown
+236,24,3/1/2017, istanbul,brother,Unknown
+237,50,2/28/2017, balikesir,attacker,Unknown
+238,29,2/27/2017, diyarbakir,relative,Other
+239,25,2/25/2017, agri,partner,Unknown
+240,64,2/22/2017, eskisehir,attacker,Other
+241,27,2/21/2017, manisa,partner,Separation & Jealousy
+242,10,2/21/2017, manisa,father,Other
+243,29,2/19/2017, antalya,partner,Separation & Jealousy
+244,25,2/18/2017, kayseri,partner,Separation & Jealousy
+245,26,2/16/2017, aksaray,boyfriend,Separation & Jealousy
+246,83,2/15/2017, bolu,attacker,Sexual expectation
+247,37,2/14/2017, antalya,partner,Unknown
+248,13,2/14/2017, antalya,father,Unknown
+249,37,2/11/2017, i̇zmir,boyfriend,Unknown
+250,17,2/10/2017, istanbul,ex-partner,Separation & Jealousy
+251,25,2/9/2017, istanbul,partner,Unknown
+252,53,2/8/2017, i̇zmir,partner,Other
+253,24,2/8/2017, mersin,ex-partner,Separation & Jealousy
+254,62,2/5/2017, yozgat,partner,Unknown
+255,35,2/3/2017, bursa,partner,Separation & Jealousy
+256,26,2/1/2017, istanbul,partner,Separation & Jealousy
+257,30,1/30/2017, sanliurfa,partner,Other
+258,20,1/28/2017, van,partner,Separation & Jealousy
+259,19,1/28/2017, sanliurfa,partner,Masculinity&Honor
+260,35,1/28/2017, samsun,ex-partner,Separation & Jealousy
+261,,1/28/2017, balikesir,partner,Separation & Jealousy
+262,46,1/27/2017, yozgat,partner,Separation & Jealousy
+263,23,1/25/2017, i̇zmir,relative,Unknown
+264,27,1/21/2017, sanliurfa,brother,Masculinity&Honor
+265,22,1/21/2017, istanbul,partner,Other
+266,42,1/20/2017, giresun,partner,Other
+267,18,1/20/2017, giresun,partner,Separation & Jealousy
+268,47,1/18/2017, i̇zmir,known man,Woman Decision and Preferences
+269,23,1/18/2017, i̇zmir,known man,Other
+270,20,1/18/2017, i̇zmir,known man,Unknown
+271,43,1/17/2017, istanbul,boyfriend,Other
+272,36,1/17/2017, i̇zmir,partner,Separation & Jealousy
+273,51,1/16/2017, kocaeli,partner,Other
+274,32,1/16/2017, kocaeli,relative,Other
+275,42,1/16/2017, adana,boyfriend,Separation & Jealousy
+276,29,1/16/2017, sivas,known man,Woman Decision and Preferences
+277,35,1/13/2017, antalya,known man,Unknown
+278,38,1/12/2017, balikesir,partner,Separation & Jealousy
+279,48,1/5/2017, trabzon,brother,Other
+280,50,1/5/2017, trabzon,brother,Other
+281,23,1/5/2017, konya,known man,Other
+282,22,1/5/2017, istanbul,partner,Other
+283,75,1/5/2017, trabzon,son,Other
+284,47,1/3/2017, balikesir,partner,Separation & Jealousy
+285,46,12/29/2016, i̇zmir,partner,Separation & Jealousy
+286,86,12/28/2016, eskisehir,attacker,Other
+287,25,12/27/2016, kirklareli,ex-partner,Unknown
+288,24,12/27/2016, van,partner,Unknown
+289,38,12/23/2016, kayseri,partner,Other
+290,35,12/22/2016, mersin,partner,Separation & Jealousy
+291,22,12/18/2016, i̇zmir,partner,Other
+292,68,12/17/2016, yalova,partner,Other
+293,45,12/17/2016, yalova,partner,Separation & Jealousy
+294,23,12/17/2016, antalya,partner,Separation & Jealousy
+295,,12/16/2016, diyarbakir,son,Unknown
+296,18,12/10/2016, bolu,ex-partner,Separation & Jealousy
+297,22,12/9/2016, istanbul,partner,Separation & Jealousy
+298,27,12/7/2016, adana,attacker,Other
+299,21,12/7/2016, adana,partner,Masculinity&Honor
+300,25,12/3/2016, bursa,known man,Separation & Jealousy
+301,28,12/3/2016, kutahya,partner,Separation & Jealousy
+302,,11/30/2016, balikesir,son,Other
+303,34,11/27/2016, balikesir,partner,Unknown
+304,48,11/25/2016, mugla,boyfriend,Masculinity&Honor
+305,49,11/24/2016, eskisehir,partner,Masculinity&Honor
+306,37,11/20/2016, adana,partner,Other
+307,22,11/19/2016, istanbul,partner,Other
+308,24,11/18/2016, elazig,partner,Unknown
+309,37,11/17/2016, i̇zmir,ex-partner,Unknown
+310,32,11/17/2016, konya,ex-partner,Separation & Jealousy
+311,71,11/17/2016, konya,relative,Other
+312,36,11/13/2016, konya,boyfriend,Unknown
+313,38,11/12/2016, antalya,partner,Unknown
+314,31,11/10/2016, istanbul,boyfriend,Separation & Jealousy
+315,43,11/10/2016, ordu,son,Unknown
+316,45,11/7/2016, adana,partner,Separation & Jealousy
+317,24,11/6/2016, kayseri,partner,Separation & Jealousy
+318,20,11/3/2016, gaziantep,partner,Other
+319,63,11/3/2016, afyonkarahisar,attacker,Other
+320,29,11/2/2016, gaziantep,partner,Other
+321,26,10/28/2016, erzincan,partner,Unknown
+322,50,10/27/2016, ordu,partner,Unknown
+323,22,10/26/2016, istanbul,ex-partner,Children
+324,29,10/25/2016, antalya,boyfriend,Separation & Jealousy
+325,30,10/23/2016, i̇zmir,ex-partner,Masculinity&Honor
+326,29,10/17/2016, van,partner,Unknown
+327,66,10/17/2016, balikesir,boyfriend,Other
+328,4,10/14/2016, manisa,attacker,Sexual expectation
+329,20,10/14/2016, tokat,partner,Separation & Jealousy
+330,17,10/11/2016, sanliurfa,brother,Masculinity&Honor
+331,35,10/11/2016, istanbul,ex-partner,Unknown
+332,44,10/11/2016, balikesir,known man,Unknown
+333,22,10/9/2016, aydin,partner,Separation & Jealousy
+334,45,10/9/2016, aydin,partner,Other
+335,44,10/8/2016, mugla,ex-partner,Separation & Jealousy
+336,36,10/8/2016, mersin,partner,Other
+337,82,10/7/2016, osmaniye,son,Other
+338,38,10/6/2016, istanbul,partner,Separation & Jealousy
+339,20,10/6/2016, trabzon,ex-partner,Other
+340,27,10/5/2016, sanliurfa,partner,Separation & Jealousy
+341,30,10/4/2016, eskisehir,partner,Woman Decision and Preferences
+342,41,10/1/2016, malatya,partner,Unknown
+343,,10/1/2016, corum,partner,Unknown
+344,33,9/30/2016, ankara,partner,Separation & Jealousy
+345,70,9/29/2016, bolu,partner,Other
+346,18,9/28/2016, i̇zmir,ex-partner,Unknown
+347,17,9/27/2016, antalya,known man,Separation & Jealousy
+348,35,9/26/2016, istanbul,boyfriend,Unknown
+349,22,9/21/2016, malatya,partner,Masculinity&Honor
+350,37,9/21/2016, kutahya,ex-partner,Unknown
+351,62,9/21/2016, corum,partner,Other
+352,29,9/20/2016, ankara,partner,Separation & Jealousy
+353,22,9/19/2016, mersin,relative,Unknown
+354,39,9/19/2016, gaziantep,ex-partner,Masculinity&Honor
+355,18,9/18/2016, bursa,known man,Separation & Jealousy
+356,27,9/17/2016, ankara,partner,Unknown
+357,39,9/14/2016, antalya,ex-partner,Separation & Jealousy
+358,30,9/12/2016, sanliurfa,partner,Separation & Jealousy
+359,29,9/9/2016, i̇zmir,boyfriend,Other
+360,,9/8/2016, kahramanmaras,partner,Other
+361,34,9/4/2016, mersin,brother,Separation & Jealousy
+362,60,9/2/2016, edirne,known man,Fight
+363,39,8/30/2016, kayseri,partner,Separation & Jealousy
+364,24,8/30/2016, diyarbakir,partner,Unknown
+365,26,8/28/2016, denizli,partner,Other
+366,20,8/28/2016, antalya,partner,Unknown
+367,39,8/25/2016, karaman,partner,Separation & Jealousy
+368,55,8/20/2016, antalya,ex-partner,Unknown
+369,66,8/18/2016, corum,partner,Unknown
+370,33,8/17/2016, trabzon,brother,Other
+371,64,8/17/2016, gaziantep,partner,Other
+372,22,8/16/2016, antalya,known man,Other
+373,26,8/16/2016, bitlis,partner,Unknown
+374,46,8/15/2016, manisa,partner,Other
+375,30,8/13/2016, konya,father,Other
+376,,8/12/2016, konya,partner,Separation & Jealousy
+377,23,8/12/2016, istanbul,attacker,Woman Decision and Preferences
+378,25,8/11/2016, manisa,partner,Separation & Jealousy
+380,17,8/5/2016, eskisehir,attacker,Sexual expectation
+381,42,8/4/2016, konya,partner,Unknown
+382,6,8/4/2016, konya,father,Unknown
+383,73,8/3/2016, duzce,son,Other
+384,45,8/3/2016, duzce,brother,Other
+385,17,8/3/2016, batman,brother,Woman Decision and Preferences
+386,45,7/23/2016, burdur,brother,Other
+387,35,7/23/2016, van,partner,Woman Decision and Preferences
+388,,7/18/2016, mardin,partner,Other
+389,,7/18/2016, mardin,relative,Other
+390,88,7/17/2016, sanliurfa,partner,Unknown
+391,54,7/14/2016, bayburt,known man,Unknown
+392,41,7/13/2016, karaman,partner,Fight
+393,32,7/12/2016, ankara,partner,Unknown
+394,25,7/12/2016, i̇zmir,boyfriend,Unknown
+395,50,7/12/2016, kirikkale,partner,Other
+396,5,7/11/2016, antalya,relative,Other
+397,31,7/11/2016, kayseri,partner,Other
+398,45,7/11/2016, antalya,partner,Fight
+399,39,7/10/2016, bursa,known man,Separation & Jealousy
+400,30,7/9/2016, adana,partner,Other
+401,45,7/7/2016, giresun,ex-partner,Unknown
+402,47,7/7/2016, mersin,partner,Masculinity&Honor
+403,49,7/5/2016, kocaeli,known man,Other
+404,24,7/4/2016, konya,boyfriend,Unknown
+405,42,7/2/2016, antalya,partner,Unknown
+406,57,6/27/2016, kocaeli,partner,Masculinity&Honor
+407,12,6/25/2016, yalova,relative,Sexual expectation
+408,27,6/23/2016, kocaeli,partner,Separation & Jealousy
+409,33,6/23/2016, gaziantep,relative,Other
+410,30,6/23/2016, mugla,partner,Woman Decision and Preferences
+411,34,6/22/2016, ankara,partner,Other
+412,31,6/20/2016, antalya,partner,Unknown
+413,32,6/19/2016, gaziantep,partner,Separation & Jealousy
+415,29,6/16/2016, istanbul,known man,Unknown
+416,60,6/15/2016, i̇zmir,ex-partner,Other
+417,35,6/15/2016, elazig,partner,Unknown
+418,21,6/15/2016, istanbul,partner,Separation & Jealousy
+419,23,6/14/2016, igdir,ex-partner,Unknown
+420,68,6/13/2016, i̇zmir,attacker,Other
+421,61,6/13/2016, istanbul,partner,Other
+422,30,6/12/2016, mugla,ex-partner,Unknown
+423,3,6/8/2016, mersin,father,Unknown
+424,30,6/8/2016, mersin,partner,Unknown
+425,26,6/7/2016, sakarya,partner,Separation & Jealousy
+426,54,6/2/2016, antalya,partner,Unknown
+427,22,5/31/2016, van,partner,Separation & Jealousy
+428,26,5/31/2016, ankara,partner,Other
+429,20,5/30/2016, eskisehir,partner,Unknown
+430,24,5/29/2016, balikesir,ex-partner,Unknown
+431,29,5/28/2016, mugla,ex-partner,Masculinity&Honor
+432,40,5/28/2016, istanbul,known man,Other
+433,41,5/27/2016, adana,boyfriend,Separation & Jealousy
+434,,5/25/2016, samsun,known man,Unknown
+435,35,5/21/2016, trabzon,partner,Masculinity&Honor
+436,41,5/14/2016, mugla,boyfriend,Unknown
+437,30,5/11/2016, edirne,ex-partner,Other
+439,67,5/11/2016, i̇zmir,relative,Unknown
+440,33,5/8/2016, igdir,partner,Woman Decision and Preferences
+441,33,5/6/2016, istanbul,partner,Separation & Jealousy
+442,43,5/4/2016, istanbul,son,Masculinity&Honor
+443,19,5/1/2016, igdir,partner,Separation & Jealousy
+444,36,4/29/2016, istanbul,boyfriend,Other
+445,49,4/29/2016, karabuk,partner,Separation & Jealousy
+446,23,4/28/2016, i̇zmir,partner,Separation & Jealousy
+447,25,4/27/2016, adana,brother,Masculinity&Honor
+448,27,4/26/2016, ankara,ex-partner,Unknown
+449,27,4/25/2016, antalya,partner,Other
+450,22,4/19/2016, denizli,boyfriend,Separation & Jealousy
+451,55,4/18/2016, i̇zmir,relative,Unknown
+452,66,4/17/2016, bursa,partner,Unknown
+453,25,4/14/2016, gaziantep,brother,Masculinity&Honor
+454,75,4/14/2016, kocaeli,son,Other
+455,30,4/13/2016, elazig,partner,Separation & Jealousy
+456,39,4/13/2016, kocaeli,boyfriend,Unknown
+457,33,4/11/2016, i̇zmir,partner,Unknown
+458,36,4/11/2016, gaziantep,partner,Unknown
+459,6,4/10/2016, istanbul,relative,Sexual expectation
+460,33,4/9/2016, mersin,ex-partner,Unknown
+461,43,4/4/2016, kayseri,partner,Separation & Jealousy
+462,52,4/2/2016, istanbul,brother,Fight
+463,33,3/31/2016, konya,boyfriend,Other
+464,37,3/30/2016, sanliurfa,boyfriend,Unknown
+465,45,3/29/2016, manisa,partner,Other
+466,41,3/29/2016, istanbul,known man,Sexual expectation
+467,31,3/28/2016, erzurum,ex-partner,Separation & Jealousy
+468,76,3/23/2016, istanbul,relative,Other
+469,52,3/23/2016, aydin,partner,Other
+470,35,3/20/2016, tekirdag,known man,Other
+471,,3/18/2016, ankara,ex-partner,Separation & Jealousy
+472,,3/18/2016, ankara,ex-partner,Masculinity&Honor
+473,17,3/17/2016, i̇zmir,ex-partner,Masculinity&Honor
+474,51,3/15/2016, trabzon,partner,Unknown
+475,18,3/15/2016, trabzon,father,Unknown
+476,21,3/12/2016, usak,partner,Unknown
+477,31,3/9/2016, gaziantep,brother,Other
+478,18,3/8/2016, hakkâri,relative,Other
+479,16,3/8/2016, hakkâri,relative,Other
+480,31,3/8/2016, sanliurfa,son,Unknown
+481,47,3/8/2016, i̇zmir,boyfriend,Other
+482,5,3/8/2016, hakkâri,father,Other
+483,27,3/7/2016, istanbul,partner,Separation & Jealousy
+484,55,3/7/2016, i̇zmir,partner,Separation & Jealousy
+485,28,3/6/2016, istanbul,partner,Separation & Jealousy
+486,39,3/6/2016, zonguldak,boyfriend,Separation & Jealousy
+487,57,3/6/2016, zonguldak,known man,Other
+488,31,3/6/2016, istanbul,known man,Unknown
+489,20,3/5/2016, adana,brother,Woman Decision and Preferences
+490,52,3/2/2016, kocaeli,partner,Unknown
+491,66,3/1/2016, kocaeli,partner,Other
+492,47,3/1/2016, kocaeli,partner,Separation & Jealousy
+493,45,2/26/2016, i̇zmir,ex-partner,Separation & Jealousy
+494,47,2/25/2016, tokat,known man,Other
+495,23,2/24/2016, zonguldak,attacker,Unknown
+496,23,2/23/2016, bartin,partner,Separation & Jealousy
+497,24,2/22/2016, istanbul,partner,Separation & Jealousy
+498,29,2/16/2016, amasya,known man,Separation & Jealousy
+499,25,2/15/2016, adana,known man,Separation & Jealousy
+500,31,2/15/2016, diyarbakir,boyfriend,Separation & Jealousy
+501,25,2/14/2016, istanbul,partner,Other
+502,52,2/12/2016, denizli,attacker,Unknown
+503,16,2/11/2016, aksaray,boyfriend,Separation & Jealousy
+504,33,2/9/2016, sanliurfa,partner,Unknown
+505,21,2/5/2016, gaziantep,partner,Separation & Jealousy
+506,13,2/5/2016, gaziantep,relative,Other
+507,20,2/5/2016, ankara,relative,Other
+508,48,2/5/2016, gaziantep,relative,Other
+509,35,2/5/2016, istanbul,partner,Fight
+510,22,2/5/2016, gaziantep,relative,Other
+511,40,2/5/2016, ankara,relative,Other
+512,36,2/5/2016, gaziantep,relative,Other
+513,48,2/4/2016, antalya,partner,Unknown
+514,31,2/3/2016, adana,brother,Masculinity&Honor
+515,50,2/3/2016, bursa,partner,Masculinity&Honor
+516,22,2/1/2016, kastamonu,partner,Unknown
+517,34,1/30/2016, istanbul,partner,Separation & Jealousy
+518,40,1/30/2016, istanbul,known man,Separation & Jealousy
+519,22,1/28/2016, yozgat,partner,Other
+520,20,1/28/2016, kocaeli,partner,Separation & Jealousy
+521,18,1/27/2016, ankara,father,Unknown
+522,45,1/27/2016, ankara,partner,Unknown
+523,16,1/24/2016, elazig,relative,Fight
+524,33,1/20/2016, antalya,partner,Separation & Jealousy
+525,53,1/20/2016, isparta,son,Other
+526,15,1/20/2016, balikesir,boyfriend,Masculinity&Honor
+527,67,1/20/2016, samsun,son,Other
+528,,1/20/2016, isparta,known man,Other
+529,63,1/20/2016, batman,relative,Other
+530,46,1/19/2016, artvin,partner,Other
+531,84,1/19/2016, konya,attacker,Other
+532,60,1/18/2016, gaziantep,partner,Other
+533,26,1/15/2016, aydin,boyfriend,Separation & Jealousy
+534,37,1/15/2016, duzce,son,Woman Decision and Preferences
+535,30,1/15/2016, kocaeli,partner,Separation & Jealousy
+536,31,1/14/2016, i̇zmir,ex-partner,Unknown
+537,49,1/9/2016, corum,son,Other
+538,19,1/8/2016, adana,father,Other
+539,26,1/7/2016, bursa,ex-partner,Masculinity&Honor
+540,27,1/7/2016, zonguldak,boyfriend,Unknown
+541,35,1/6/2016, rize,known man,Sexual expectation
+542,26,1/4/2016, i̇zmir,known man,Other
+543,23,1/3/2016, batman,boyfriend,Unknown
+544,40,1/1/2016, aydin,ex-partner,Children
+545,28,1/1/2016, osmaniye,father,Separation & Jealousy
+546,30,12/28/2015, tokat,partner,Unknown
+547,20,12/26/2015, gaziantep,attacker,Unknown
+548,36,12/25/2015, samsun,partner,Separation & Jealousy
+549,,12/23/2015, istanbul,known man,Woman Decision and Preferences
+550,43,12/22/2015, trabzon,ex-partner,Woman Decision and Preferences
+551,24,12/19/2015, kirklareli,ex-partner,Separation & Jealousy
+552,23,12/14/2015, kayseri,boyfriend,Other
+553,41,12/13/2015, gaziantep,brother,Other
+554,42,12/13/2015, gaziantep,brother,Other
+555,35,12/13/2015, erzincan,known man,Other
+556,26,12/12/2015, kars,partner,Separation & Jealousy
+557,50,12/8/2015, bingol,brother,Unknown
+558,30,12/7/2015, antalya,boyfriend,Sexual expectation
+559,20,12/6/2015, aydin,partner,Separation & Jealousy
+560,3,12/6/2015, aydin,father,Unknown
+561,,12/3/2015, istanbul,attacker,Woman Decision and Preferences
+562,23,12/3/2015, i̇zmir,partner,Separation & Jealousy
+563,16,12/3/2015, kirikkale,father,Masculinity&Honor
+564,52,12/3/2015, aydin,boyfriend,Unknown
+565,21,12/1/2015, bursa,relative,Other
+566,41,12/1/2015, bursa,boyfriend,Other
+567,40,11/29/2015, konya,partner,Separation & Jealousy
+568,50,11/28/2015, istanbul,attacker,Other
+569,33,11/24/2015, istanbul,known man,Woman Decision and Preferences
+570,20,11/23/2015, istanbul,ex-partner,Masculinity&Honor
+571,60,11/22/2015, mugla,son,Unknown
+572,40,11/20/2015, istanbul,boyfriend,Other
+573,49,11/19/2015, samsun,known man,Other
+574,40,11/15/2015, istanbul,partner,Separation & Jealousy
+575,30,11/15/2015, gaziantep,boyfriend,Other
+576,43,11/13/2015, trabzon,partner,Separation & Jealousy
+577,38,11/12/2015, manisa,ex-partner,Unknown
+578,32,11/11/2015, bursa,boyfriend,Masculinity&Honor
+579,25,11/11/2015, kocaeli,partner,Separation & Jealousy
+580,37,11/9/2015, bursa,partner,Other
+581,10,11/9/2015, bursa,father,Other
+582,60,11/8/2015, mugla,known man,Other
+583,45,11/7/2015, i̇zmir,brother,Other
+584,26,11/4/2015, igdir,partner,Unknown
+585,46,11/3/2015, hatay,partner,Separation & Jealousy
+586,31,11/3/2015, istanbul,partner,Unknown
+587,30,11/2/2015, kutahya,partner,Separation & Jealousy
+588,83,11/2/2015, balikesir,partner,Other
+589,57,11/2/2015, balikesir,partner,Separation & Jealousy
+590,18,11/1/2015, gaziantep,boyfriend,Other
+591,20,10/30/2015, gaziantep,boyfriend,Separation & Jealousy
+592,34,10/30/2015, istanbul,boyfriend,Unknown
+593,43,10/30/2015, edirne,known man,Separation & Jealousy
+594,34,10/29/2015, istanbul,partner,Separation & Jealousy
+595,48,10/28/2015, i̇zmir,partner,Other
+596,19,10/27/2015, afyonkarahisar,partner,Other
+597,57,10/26/2015, mersin,ex-partner,Masculinity&Honor
+598,27,10/25/2015, zonguldak,partner,Separation & Jealousy
+599,,10/22/2015, istanbul,partner,Other
+600,72,10/21/2015, kirikkale,partner,Other
+601,31,10/21/2015, gaziantep,father-in-law,Sexual expectation
+602,51,10/21/2015, gaziantep,partner,Other
+603,29,10/20/2015, ardahan,boyfriend,Woman Decision and Preferences
+604,22,10/20/2015, ardahan,known man,Other
+605,51,10/16/2015, eskisehir,partner,Masculinity&Honor
+606,21,10/15/2015, bolu,known man,Separation & Jealousy
+607,51,10/9/2015, giresun,partner,Other
+608,45,10/8/2015, aydin,partner,Other
+609,60,10/6/2015, gaziantep,brother,Other
+610,33,10/4/2015, kocaeli,known man,Separation & Jealousy
+611,18,10/3/2015, kocaeli,father,Masculinity&Honor
+612,32,9/29/2015, antalya,partner,Separation & Jealousy
+613,23,9/28/2015, trabzon,brother,Woman Decision and Preferences
+614,45,9/25/2015, bursa,partner,Fight
+615,20,9/24/2015, istanbul,boyfriend,Other
+616,24,9/23/2015, manisa,relative,Other
+617,22,9/19/2015, hatay,ex-partner,Other
+618,47,9/19/2015, sakarya,partner,Other
+619,53,9/19/2015, manisa,partner,Other
+620,28,9/19/2015, istanbul,boyfriend,Masculinity&Honor
+621,14,9/16/2015, adana,relative,Other
+622,44,9/14/2015, canakkale,partner,Separation & Jealousy
+623,40,9/14/2015, istanbul,known man,Other
+624,25,9/14/2015, adana,brother,Masculinity&Honor
+625,37,9/14/2015, istanbul,ex-partner,Separation & Jealousy
+626,32,9/11/2015, bursa,partner,Masculinity&Honor
+627,51,9/8/2015, duzce,relative,Fight
+628,52,9/8/2015, duzce,relative,Fight
+629,31,9/8/2015, i̇zmir,ex-partner,Separation & Jealousy
+630,39,9/7/2015, konya,son,Fight
+631,33,9/7/2015, antalya,ex-partner,Separation & Jealousy
+632,37,9/6/2015, sivas,ex-partner,Separation & Jealousy
+633,17,9/6/2015, samsun,partner,Other
+634,,9/4/2015, trabzon,known man,Woman Decision and Preferences
+635,24,9/4/2015, mersin,partner,Other
+636,32,9/3/2015, diyarbakir,partner,Separation & Jealousy
+637,18,9/1/2015, ankara,partner,Separation & Jealousy
+638,38,8/29/2015, manisa,boyfriend,Other
+639,32,8/28/2015, aydin,relative,Sexual expectation
+640,35,8/27/2015, giresun,partner,Unknown
+641,43,8/27/2015, antalya,known man,Fight
+642,23,8/26/2015, mersin,boyfriend,Unknown
+643,77,8/19/2015, ankara,son,Unknown
+644,52,8/19/2015, mersin,known man,Other
+645,42,8/17/2015, mugla,partner,Other
+646,65,8/16/2015, i̇zmir,partner,Other
+647,18,8/16/2015, ankara,partner,Separation & Jealousy
+648,36,8/16/2015, kocaeli,known man,Sexual expectation
+649,18,8/14/2015, erzurum,boyfriend,Separation & Jealousy
+650,29,8/13/2015, eskisehir,partner,Separation & Jealousy
+651,64,8/12/2015, samsun,partner,Other
+652,45,8/12/2015, adana,known man,Other
+653,35,8/11/2015, istanbul,boyfriend,Woman Decision and Preferences
+654,,8/10/2015, diyarbakir,partner,Separation & Jealousy
+655,32,8/9/2015, sivas,partner,Unknown
+656,25,8/8/2015, balikesir,partner,Other
+657,30,8/8/2015, diyarbakir,ex-partner,Other
+658,,8/7/2015, istanbul,known man,Unknown
+659,35,8/5/2015, kirsehir,father-in-law,Other
+660,,7/31/2015, diyarbakir,brother,Masculinity&Honor
+661,21,7/31/2015, giresun,known man,Woman Decision and Preferences
+662,48,7/31/2015, giresun,known man,Woman Decision and Preferences
+663,42,7/30/2015, ankara,partner,Other
+664,17,7/28/2015, i̇zmir,father,Woman Decision and Preferences
+665,67,7/24/2015, mersin,partner,Other
+666,20,7/22/2015, i̇zmir,partner,Other
+667,26,7/17/2015, afyonkarahisar,partner,Unknown
+668,15,7/15/2015, manisa,father,Unknown
+669,24,7/14/2015, i̇zmir,boyfriend,Other
+670,,7/14/2015, tekirdag,boyfriend,Other
+671,32,7/13/2015, aksaray,relative,Other
+672,60,7/13/2015, aksaray,partner,Other
+673,31,7/13/2015, aksaray,partner,Separation & Jealousy
+674,60,7/10/2015, istanbul,partner,Unknown
+675,17,7/8/2015, kocaeli,boyfriend,Unknown
+676,36,7/6/2015, bilecik,partner,Separation & Jealousy
+677,73,7/3/2015, konya,son,Other
+678,38,7/3/2015, samsun,partner,Other
+679,32,7/2/2015, tokat,partner,Unknown
+680,41,6/28/2015, adiyaman,ex-partner,Other
+681,20,6/27/2015, karaman,ex-partner,Children
+682,43,6/27/2015, karaman,relative,Other
+683,12,6/27/2015, karaman,relative,Other
+684,13,6/27/2015, karaman,relative,Other
+685,41,6/25/2015, adana,partner,Other
+686,35,6/20/2015, ankara,boyfriend,Masculinity&Honor
+687,18,6/18/2015, mugla,known man,Sexual expectation
+688,25,6/18/2015, gaziantep,partner,Other
+689,42,6/18/2015, bursa,boyfriend,Other
+690,75,6/18/2015, bursa,relative,Other
+691,39,6/18/2015, ankara,partner,Other
+692,6,6/16/2015, antalya,relative,Unknown
+693,42,6/16/2015, antalya,brother,Unknown
+694,24,6/15/2015, corum,partner,Masculinity&Honor
+695,19,6/13/2015, malatya,relative,Unknown
+696,35,6/10/2015, malatya,partner,Unknown
+697,5,6/10/2015, malatya,father,Unknown
+698,47,6/10/2015, balikesir,known man,Woman Decision and Preferences
+699,43,6/9/2015, kocaeli,son,Unknown
+700,55,6/7/2015, bolu,partner,Separation & Jealousy
+701,18,6/2/2015, antalya,partner,Masculinity&Honor
+702,65,6/2/2015, hatay,partner,Other
+703,26,6/1/2015, mugla,partner,Household service expectations
+704,23,6/1/2015, mugla,ex-partner,Unknown
+705,33,6/1/2015, manisa,relative,Unknown
+706,63,5/27/2015, elazig,partner,Other
+707,19,5/27/2015, kocaeli,partner,Separation & Jealousy
+708,39,5/27/2015, mugla,ex-partner,Separation & Jealousy
+709,33,5/25/2015, denizli,partner,Woman Decision and Preferences
+710,54,5/23/2015, igdir,known man,Other
+711,32,5/23/2015, ankara,partner,Unknown
+712,39,5/23/2015, corum,boyfriend,Unknown
+713,11,5/23/2015, ankara,father,Unknown
+714,19,5/22/2015, nevsehir,brother,Masculinity&Honor
+715,,5/22/2015, corum,relative,Other
+716,28,5/22/2015, diyarbakir,partner,Other
+717,43,5/21/2015, bursa,known man,Unknown
+718,,5/18/2015, ankara,ex-partner,Unknown
+719,40,5/18/2015, kirklareli,ex-partner,Separation & Jealousy
+720,53,5/16/2015, ankara,partner,Unknown
+721,26,5/16/2015, ankara,partner,Unknown
+722,44,5/16/2015, kastamonu,boyfriend,Unknown
+723,59,5/15/2015, antalya,boyfriend,Unknown
+724,41,5/14/2015, istanbul,partner,Separation & Jealousy
+725,55,5/12/2015, istanbul,known man,Other
+726,30,5/11/2015, siirt,partner,Unknown
+727,39,5/9/2015, istanbul,attacker,Sexual expectation
+728,,5/9/2015, giresun,partner,Separation & Jealousy
+729,47,5/9/2015, giresun,partner,Separation & Jealousy
+730,75,5/9/2015, balikesir,partner,Unknown
+731,31,5/7/2015, yalova,ex-partner,Separation & Jealousy
+732,32,5/6/2015, konya,relative,Other
+733,27,5/3/2015, edirne,partner,Unknown
+734,63,4/30/2015, kahramanmaras,attacker,Unknown
+735,27,4/28/2015, ankara,partner,Separation & Jealousy
+736,27,4/25/2015, adana,known man,Male service expectations
+737,24,4/23/2015, bursa,boyfriend,Other
+738,36,4/22/2015, adana,relative,Other
+739,39,4/21/2015, kahramanmaras,known man,Unknown
+740,21,4/20/2015, manisa,boyfriend,Separation & Jealousy
+741,27,4/18/2015, hatay,partner,Separation & Jealousy
+742,57,4/17/2015, adana,partner,Masculinity&Honor
+743,42,4/17/2015, istanbul,ex-partner,Separation & Jealousy
+744,23,4/17/2015, mardin,relative,Sexual expectation
+745,21,4/16/2015, istanbul,boyfriend,Other
+746,40,4/11/2015, ankara,partner,Separation & Jealousy
+747,34,4/9/2015, i̇zmir,partner,Separation & Jealousy
+748,38,4/7/2015, usak,boyfriend,Separation & Jealousy
+749,29,4/7/2015, osmaniye,partner,Unknown
+750,43,4/6/2015, kirikkale,known man,Other
+751,32,4/6/2015, gaziantep,partner,Other
+752,34,4/3/2015, samsun,boyfriend,Other
+753,28,4/2/2015, usak,boyfriend,Separation & Jealousy
+754,28,4/1/2015, mersin,partner,Children
+755,34,3/31/2015, malatya,partner,Separation & Jealousy
+756,77,3/30/2015, kocaeli,partner,Unknown
+757,44,3/27/2015, i̇zmir,partner,Separation & Jealousy
+758,32,3/26/2015, ankara,boyfriend,Unknown
+759,20,3/26/2015, istanbul,boyfriend,Unknown
+760,30,3/23/2015, konya,partner,Separation & Jealousy
+761,43,3/23/2015, yalova,boyfriend,Other
+762,21,3/21/2015, istanbul,ex-partner,Separation & Jealousy
+763,29,3/20/2015, sivas,partner,Masculinity&Honor
+764,28,3/19/2015, gaziantep,relative,Sexual expectation
+765,32,3/18/2015, erzurum,boyfriend,Masculinity&Honor
+766,35,3/18/2015, antalya,known man,Separation & Jealousy
+767,62,3/17/2015, diyarbakir,partner,Separation & Jealousy
+768,58,3/17/2015, i̇zmir,partner,Other
+769,0,3/17/2015, istanbul,father,Other
+770,47,3/17/2015, adana,partner,Other
+771,23,3/17/2015, adana,brother,Woman Decision and Preferences
+772,27,3/13/2015, i̇zmir,relative,Masculinity&Honor
+773,32,3/7/2015, gaziantep,partner,Unknown
+774,35,3/7/2015, sanliurfa,partner,Masculinity&Honor
+775,32,3/7/2015, istanbul,partner,Masculinity&Honor
+776,38,3/5/2015, i̇zmir,partner,Unknown
+777,20,3/4/2015, antalya,boyfriend,Other
+778,30,3/4/2015, adana,relative,Household service expectations
+779,59,3/4/2015, erzurum,partner,Separation & Jealousy
+780,56,2/25/2015, kahramanmaras,attacker,Sexual expectation
+781,18,2/24/2015, manisa,partner,Other
+782,32,2/24/2015, kirikkale,relative,Other
+783,36,2/23/2015, denizli,boyfriend,Other
+784,28,2/22/2015, kahramanmaras,partner,Unknown
+785,5,2/22/2015, kahramanmaras,father,Unknown
+786,38,2/21/2015, ankara,boyfriend,Unknown
+787,23,2/20/2015, antalya,boyfriend,Separation & Jealousy
+788,42,2/19/2015, istanbul,partner,Other
+789,45,2/17/2015, i̇zmir,boyfriend,Other
+790,27,2/14/2015, diyarbakir,partner,Other
+791,20,2/11/2015, mersin,attacker,Sexual expectation
+792,59,2/10/2015, i̇zmir,partner,Unknown
+793,32,2/10/2015, i̇zmir,father,Unknown
+794,35,2/10/2015, i̇zmir,father,Unknown
+795,45,2/9/2015, mugla,relative,Other
+796,81,2/8/2015, karaman,attacker,Sexual expectation
+797,23,2/7/2015, kars,partner,Unknown
+798,1,2/7/2015, kars,father,Unknown
+799,30,2/7/2015, istanbul,boyfriend,Other
+800,52,2/5/2015, adana,partner,Other
+801,22,2/4/2015, kutahya,boyfriend,Separation & Jealousy
+802,37,1/30/2015, i̇zmir,attacker,Unknown
+803,,1/30/2015, istanbul,known man,Other
+804,19,1/30/2015, adana,partner,Other
+805,17,1/29/2015, sanliurfa,father,Unknown
+806,20,1/29/2015, istanbul,partner,Other
+807,21,1/26/2015, i̇zmir,partner,Other
+808,,1/25/2015, tekirdag,partner,Unknown
+809,,1/25/2015, ankara,partner,Other
+810,,1/25/2015, ankara,partner,Other
+811,21,1/22/2015, kocaeli,known man,Other
+812,29,1/20/2015, eskisehir,partner,Separation & Jealousy
+813,31,1/18/2015, bolu,boyfriend,Separation & Jealousy
+814,35,1/17/2015, mersin,partner,Unknown
+815,39,1/16/2015, istanbul,partner,Separation & Jealousy
+816,29,1/16/2015, mersin,boyfriend,Unknown
+817,71,1/14/2015, ankara,relative,Sexual expectation
+818,28,1/14/2015, istanbul,partner,Separation & Jealousy
+819,21,1/13/2015, aksaray,boyfriend,Masculinity&Honor
+820,,1/13/2015, hatay,partner,Unknown
+821,25,1/12/2015, antalya,partner,Unknown
+822,51,1/12/2015, mersin,relative,Other
+823,17,1/10/2015, kocaeli,boyfriend,Masculinity&Honor
+824,42,1/10/2015, kocaeli,relative,Other
+825,59,1/10/2015, balikesir,boyfriend,Other
+826,20,1/9/2015, istanbul,partner,Other
+827,54,1/3/2015, aydin,attacker,Other
+828,39,1/2/2015, kirklareli,ex-partner,Other
+829,45,12/31/2014, ankara,son,Other
+830,25,12/31/2014, istanbul,partner,Separation & Jealousy
+831,,12/29/2014, istanbul,ex-partner,Other
+832,32,12/29/2014, van,ex-partner,Unknown
+833,63,12/25/2014, duzce,partner,Other
+834,3,12/24/2014, adana,father,Unknown
+835,30,12/24/2014, adana,partner,Unknown
+836,0,12/24/2014, adana,father,Unknown
+837,23,12/23/2014, istanbul,known man,Unknown
+838,38,12/23/2014, aydin,partner,Woman Decision and Preferences
+839,63,12/20/2014, istanbul,son,Unknown
+840,35,12/19/2014, bursa,partner,Separation & Jealousy
+841,,12/19/2014, ankara,relative,Other
+842,25,12/17/2014, antalya,ex-partner,Separation & Jealousy
+843,33,12/16/2014, i̇zmir,partner,Separation & Jealousy
+844,28,12/14/2014, ankara,partner,Separation & Jealousy
+845,40,12/14/2014, konya,known man,Woman Decision and Preferences
+846,10,12/14/2014, konya,known man,Woman Decision and Preferences
+847,36,12/12/2014, burdur,partner,Other
+848,22,12/12/2014, karaman,partner,Masculinity&Honor
+849,46,12/11/2014, aydin,partner,Unknown
+850,38,12/11/2014, kutahya,boyfriend,Other
+851,20,12/10/2014, van,known man,Unknown
+852,42,12/10/2014, mersin,ex-partner,Separation & Jealousy
+853,59,12/8/2014, ankara,son,Unknown
+854,33,12/8/2014, rize,known man,Unknown
+855,33,12/7/2014, i̇zmir,brother,Masculinity&Honor
+856,27,12/2/2014, kocaeli,partner,Masculinity&Honor
+857,35,12/1/2014, diyarbakir,partner,Other
+858,41,12/1/2014, i̇zmir,ex-partner,Other
+859,,12/1/2014, van,partner,Masculinity&Honor
+860,49,11/26/2014, antalya,known man,Other
+861,29,11/24/2014, edirne,boyfriend,Woman Decision and Preferences
+862,17,11/20/2014, kayseri,boyfriend,Separation & Jealousy
+863,33,11/19/2014, corum,partner,Other
+864,17,11/18/2014, kastamonu,father,Other
+865,33,11/17/2014, kocaeli,partner,Other
+866,20,11/17/2014, kocaeli,partner,Other
+867,17,11/14/2014, i̇zmir,brother,Woman Decision and Preferences
+868,21,11/13/2014, hatay,partner,Separation & Jealousy
+869,28,11/13/2014, kutahya,ex-partner,Separation & Jealousy
+870,26,11/12/2014, usak,boyfriend,Separation & Jealousy
+871,21,11/12/2014, trabzon,boyfriend,Separation & Jealousy
+872,27,11/11/2014, bolu,known man,Unknown
+873,37,11/6/2014, kayseri,partner,Separation & Jealousy
+874,31,11/6/2014, konya,partner,Unknown
+875,15,11/4/2014, agri,relative,Other
+876,42,11/3/2014, mersin,ex-partner,Masculinity&Honor
+877,57,11/2/2014, bursa,partner,Household service expectations
+878,29,11/1/2014, karaman,partner,Other
+879,23,10/28/2014, ankara,ex-partner,Separation & Jealousy
+880,52,10/28/2014, giresun,partner,Unknown
+881,42,10/25/2014, hatay,known man,Other
+882,39,10/25/2014, igdir,partner,Separation & Jealousy
+883,28,10/23/2014, istanbul,partner,Separation & Jealousy
+884,31,10/19/2014, bursa,relative,Other
+885,40,10/18/2014, eskisehir,partner,Separation & Jealousy
+886,50,10/16/2014, duzce,partner,Other
+887,18,10/13/2014, adana,brother,Masculinity&Honor
+888,27,10/11/2014, hatay,partner,Male service expectations
+889,32,10/11/2014, aydin,boyfriend,Separation & Jealousy
+890,30,10/11/2014, istanbul,son,Unknown
+891,31,10/9/2014, mersin,boyfriend,Separation & Jealousy
+892,42,10/9/2014, kocaeli,partner,Separation & Jealousy
+893,31,10/8/2014, sanliurfa,relative,Other
+894,39,10/7/2014, zonguldak,ex-partner,Masculinity&Honor
+895,35,10/7/2014, ankara,partner,Separation & Jealousy
+896,20,10/6/2014, kocaeli,partner,Other
+897,40,10/1/2014, gaziantep,partner,Separation & Jealousy
+898,33,10/1/2014, edirne,ex-partner,Separation & Jealousy
+899,28,9/29/2014, ankara,partner,Separation & Jealousy
+900,16,9/27/2014, diyarbakir,partner,Unknown
+901,31,9/26/2014, gaziantep,boyfriend,Other
+902,44,9/24/2014, istanbul,partner,Separation & Jealousy
+903,35,9/23/2014, ordu,partner,Other
+904,33,9/19/2014, ankara,known man,Separation & Jealousy
+905,,9/19/2014, istanbul,partner,Unknown
+906,18,9/18/2014, sanliurfa,father,Masculinity&Honor
+907,39,9/17/2014, istanbul,attacker,Sexual expectation
+908,38,9/15/2014, eskisehir,partner,Other
+909,34,9/13/2014, istanbul,boyfriend,Other
+910,19,9/11/2014, adana,partner,Separation & Jealousy
+911,55,9/9/2014, manisa,relative,Other
+912,45,9/9/2014, istanbul,known man,Woman Decision and Preferences
+913,,9/8/2014, mus,partner,Other
+914,20,9/8/2014, mersin,boyfriend,Other
+915,44,9/7/2014, adana,partner,Separation & Jealousy
+916,42,9/3/2014, i̇zmir,ex-partner,Separation & Jealousy
+917,26,9/3/2014, gaziantep,brother,Masculinity&Honor
+918,20,9/2/2014, gumushane,relative,Separation & Jealousy
+919,27,9/1/2014, denizli,known man,Unknown
+920,39,8/30/2014, i̇zmir,known man,Woman Decision and Preferences
+921,17,8/30/2014, kahramanmaras,boyfriend,Unknown
+922,14,8/26/2014, antalya,relative,Other
+923,45,8/25/2014, gaziantep,partner,Other
+924,29,8/24/2014, malatya,partner,Other
+925,37,8/24/2014, tunceli,partner,Other
+926,43,8/20/2014, bursa,relative,Woman Decision and Preferences
+927,40,8/17/2014, ankara,ex-partner,Unknown
+928,55,8/15/2014, ankara,partner,Sexual expectation
+929,23,8/15/2014, istanbul,known man,Masculinity&Honor
+930,19,8/15/2014, istanbul,boyfriend,Masculinity&Honor
+931,69,8/14/2014, giresun,brother,Other
+932,74,8/14/2014, giresun,brother,Other
+933,36,8/13/2014, usak,boyfriend,Other
+934,56,8/12/2014, trabzon,partner,Children
+935,26,8/10/2014, istanbul,known man,Unknown
+936,30,8/8/2014, batman,known man,Separation & Jealousy
+937,18,8/8/2014, sanliurfa,brother,Masculinity&Honor
+938,50,8/8/2014, batman,known man,Separation & Jealousy
+939,15,8/8/2014, batman,known man,Separation & Jealousy
+940,18,8/8/2014, batman,known man,Separation & Jealousy
+941,47,8/2/2014, istanbul,partner,Children
+942,27,8/1/2014, i̇zmir,boyfriend,Other
+943,26,7/28/2014, istanbul,partner,Separation & Jealousy
+944,37,7/26/2014, denizli,partner,Separation & Jealousy
+945,49,7/25/2014, adana,partner,Other
+946,37,7/24/2014, istanbul,partner,Unknown
+947,34,7/23/2014, kocaeli,boyfriend,Unknown
+948,24,7/22/2014, adana,partner,Separation & Jealousy
+949,50,7/22/2014, antalya,known man,Unknown
+950,40,7/19/2014, istanbul,partner,Other
+951,63,7/15/2014, kirikkale,partner,Masculinity&Honor
+952,24,7/14/2014, istanbul,partner,Other
+953,38,7/13/2014, antalya,ex-partner,Masculinity&Honor
+954,20,7/10/2014, istanbul,boyfriend,Other
+955,19,7/9/2014, sakarya,boyfriend,Masculinity&Honor
+956,21,7/8/2014, canakkale,partner,Separation & Jealousy
+957,25,7/8/2014, i̇zmir,partner,Unknown
+958,56,7/6/2014, bursa,son,Other
+959,29,7/6/2014, ankara,father,Masculinity&Honor
+960,20,7/4/2014, sanliurfa,brother,Masculinity&Honor
+961,36,7/3/2014, istanbul,partner,Separation & Jealousy
+962,27,7/3/2014, i̇zmir,partner,Other
+963,34,7/3/2014, adana,partner,Unknown
+964,74,7/2/2014, erzurum,partner,Masculinity&Honor
+965,18,7/2/2014, istanbul,partner,Unknown
+966,33,7/1/2014, samsun,partner,Masculinity&Honor
+967,,7/1/2014, ankara,known man,Other
+968,31,7/1/2014, bilecik,ex-partner,Other
+969,50,7/1/2014, mugla,boyfriend,Unknown
+970,,7/1/2014, ankara,ex-partner,Separation & Jealousy
+971,74,6/26/2014, sivas,partner,Other
+972,54,6/24/2014, eskisehir,partner,Other
+973,38,6/19/2014, tekirdag,partner,Unknown
+974,,6/19/2014, erzurum,partner,Separation & Jealousy
+975,40,6/18/2014, i̇zmir,partner,Other
+976,48,6/16/2014, istanbul,partner,Unknown
+977,14,6/16/2014, istanbul,father,Unknown
+978,29,6/16/2014, istanbul,boyfriend,Other
+979,37,6/13/2014, istanbul,partner,Unknown
+980,30,6/9/2014, sirnak,partner,Other
+981,24,6/8/2014, agri,known man,Sexual expectation
+982,24,6/7/2014, istanbul,brother,Woman Decision and Preferences
+983,22,6/6/2014, burdur,relative,Other
+984,84,6/4/2014, eskisehir,known man,Other
+985,34,5/31/2014, adana,partner,Separation & Jealousy
+986,33,5/30/2014, karaman,partner,Other
+987,23,5/30/2014, gaziantep,brother,Other
+988,25,5/30/2014, gaziantep,brother,Other
+989,33,5/30/2014, gaziantep,partner,Separation & Jealousy
+990,30,5/28/2014, erzurum,partner,Woman Decision and Preferences
+991,22,5/27/2014, manisa,partner,Unknown
+992,37,5/24/2014, istanbul,partner,Separation & Jealousy
+993,17,5/22/2014, istanbul,relative,Unknown
+994,45,5/22/2014, istanbul,partner,Unknown
+995,17,5/22/2014, istanbul,relative,Unknown
+996,24,5/20/2014, corum,ex-partner,Separation & Jealousy
+997,63,5/17/2014, osmaniye,partner,Unknown
+998,23,5/13/2014, istanbul,boyfriend,Other
+999,8,5/10/2014, hatay,father,Other
+1000,28,5/10/2014, hatay,partner,Other
+1001,43,5/10/2014, hatay,boyfriend,Other
+1002,21,5/8/2014, konya,relative,Other
+1003,19,5/8/2014, konya,partner,Other
+1004,26,5/6/2014, mugla,boyfriend,Masculinity&Honor
+1005,37,5/4/2014, erzurum,father-in-law,Unknown
+1006,27,5/4/2014, amasya,partner,Children
+1007,37,5/3/2014, istanbul,partner,Other
+1008,33,5/2/2014, yozgat,partner,Separation & Jealousy
+1009,33,4/29/2014, istanbul,partner,Separation & Jealousy
+1010,28,4/26/2014, gaziantep,partner,Unknown
+1011,31,4/26/2014, konya,ex-partner,Separation & Jealousy
+1012,44,4/23/2014, adana,partner,Other
+1013,15,4/23/2014, adana,father,Other
+1014,18,4/22/2014, tokat,boyfriend,Unknown
+1015,41,4/22/2014, eskisehir,ex-partner,Separation & Jealousy
+1016,25,4/21/2014, istanbul,attacker,Woman Decision and Preferences
+1017,41,4/20/2014, hatay,partner,Unknown
+1018,42,4/20/2014, kocaeli,ex-partner,Unknown
+1019,20,4/17/2014, i̇zmir,known man,Other
+1020,35,4/16/2014, istanbul,attacker,Other
+1021,58,4/16/2014, istanbul,attacker,Other
+1022,25,4/14/2014, ankara,partner,Unknown
+1023,42,4/12/2014, denizli,partner,Separation & Jealousy
+1024,28,4/9/2014, bursa,boyfriend,Unknown
+1025,34,4/8/2014, balikesir,partner,Other
+1026,53,4/8/2014, malatya,partner,Masculinity&Honor
+1027,28,4/8/2014, zonguldak,partner,Unknown
+1028,49,4/8/2014, zonguldak,partner,Unknown
+1029,39,4/7/2014, mugla,partner,Separation & Jealousy
+1030,46,4/6/2014, adana,partner,Separation & Jealousy
+1031,23,4/5/2014, kayseri,partner,Woman Decision and Preferences
+1032,35,4/5/2014, gaziantep,partner,Separation & Jealousy
+1033,47,4/5/2014, mersin,partner,Children
+1034,52,4/4/2014, corum,partner,Other
+1035,21,4/1/2014, edirne,boyfriend,Unknown
+1036,30,3/31/2014, mugla,partner,Woman Decision and Preferences
+1037,33,3/31/2014, bursa,partner,Separation & Jealousy
+1038,61,3/29/2014, batman,partner,Other
+1039,48,3/28/2014, gaziantep,partner,Other
+1040,30,3/26/2014, ordu,partner,Separation & Jealousy
+1041,22,3/25/2014, kahramanmaras,boyfriend,Woman Decision and Preferences
+1042,40,3/24/2014, konya,relative,Unknown
+1043,18,3/19/2014, afyonkarahisar,partner,Separation & Jealousy
+1044,15,3/19/2014, afyonkarahisar,relative,Other
+1045,33,3/17/2014, sakarya,relative,Other
+1046,32,3/15/2014, antalya,partner,Other
+1047,43,3/12/2014, istanbul,son,Masculinity&Honor
+1048,41,3/11/2014, elazig,relative,Children
+1049,0,3/10/2014, mugla,father,Fight
+1050,35,3/10/2014, mugla,partner,Fight
+1051,21,3/7/2014, istanbul,ex-partner,Separation & Jealousy
+1052,34,3/6/2014, mersin,relative,Other
+1053,42,3/5/2014, istanbul,son,Other
+1054,21,3/5/2014, istanbul,partner,Other
+1055,34,3/5/2014, hatay,partner,Other
+1056,30,3/4/2014, kayseri,partner,Unknown
+1057,1,3/4/2014, kayseri,father,Unknown
+1058,58,3/4/2014, bursa,partner,Woman Decision and Preferences
+1059,33,3/2/2014, konya,partner,Other
+1060,18,2/25/2014, yozgat,boyfriend,Unknown
+1061,33,2/25/2014, antalya,boyfriend,Separation & Jealousy
+1062,42,2/25/2014, istanbul,father-in-law,Woman Decision and Preferences
+1063,75,2/23/2014, i̇zmir,attacker,Other
+1064,70,2/22/2014, mersin,partner,Unknown
+1065,39,2/22/2014, zonguldak,partner,Separation & Jealousy
+1066,59,2/22/2014, zonguldak,partner,Separation & Jealousy
+1067,28,2/18/2014, gaziantep,boyfriend,Unknown
+1068,24,2/17/2014, i̇zmir,partner,Separation & Jealousy
+1069,26,2/15/2014, mersin,known man,Unknown
+1070,40,2/11/2014, istanbul,boyfriend,Other
+1071,25,2/6/2014, tokat,partner,Separation & Jealousy
+1072,34,2/4/2014, gaziantep,boyfriend,Other
+1073,42,2/4/2014, batman,partner,Unknown
+1074,19,1/31/2014, sanliurfa,relative,Masculinity&Honor
+1075,43,1/29/2014, antalya,partner,Unknown
+1076,74,1/28/2014, i̇zmir,relative,Unknown
+1077,34,1/27/2014, konya,known man,Separation & Jealousy
+1078,33,1/24/2014, diyarbakir,partner,Male service expectations
+1079,54,1/24/2014, hatay,partner,Children
+1080,48,1/22/2014, aydin,partner,Separation & Jealousy
+1081,17,1/22/2014, istanbul,brother,Masculinity&Honor
+1082,47,1/18/2014, manisa,partner,Separation & Jealousy
+1083,37,1/16/2014, kirsehir,ex-partner,Other
+1084,42,1/15/2014, istanbul,partner,Separation & Jealousy
+1085,36,1/15/2014, kars,partner,Separation & Jealousy
+1086,42,1/13/2014, balikesir,partner,Other
+1087,33,1/13/2014, mersin,partner,Separation & Jealousy
+1088,28,1/13/2014, aydin,ex-partner,Masculinity&Honor
+1089,24,1/11/2014, diyarbakir,brother,Masculinity&Honor
+1090,32,1/11/2014, sanliurfa,partner,Other
+1091,45,1/8/2014, sanliurfa,partner,Unknown
+1092,28,1/2/2014, istanbul,known man,Separation & Jealousy
+1093,30,1/2/2014, adana,ex-partner,Separation & Jealousy
+1094,51,1/2/2014, konya,partner,Separation & Jealousy
+1095,76,12/31/2013, edirne,son,Unknown
+1096,67,12/31/2013, isparta,partner,Woman Decision and Preferences
+1097,29,12/30/2013, kastamonu,partner,Other
+1098,41,12/30/2013, kirsehir,partner,Unknown
+1099,39,12/29/2013, sakarya,partner,Other
+1100,21,12/29/2013, adana,partner,Separation & Jealousy
+1101,31,12/27/2013, istanbul,known man,Separation & Jealousy
+1102,19,12/26/2013, mersin,partner,Separation & Jealousy
+1103,37,12/26/2013, antalya,boyfriend,Other
+1104,27,12/23/2013, usak,ex-partner,Separation & Jealousy
+1105,35,12/22/2013, bursa,boyfriend,Masculinity&Honor
+1106,15,12/19/2013, konya,father,Masculinity&Honor
+1107,38,12/16/2013, i̇zmir,ex-partner,Other
+1108,28,12/16/2013, yalova,partner,Separation & Jealousy
+1109,42,12/16/2013, corum,partner,Other
+1110,51,12/15/2013, antalya,partner,Other
+1111,20,12/15/2013, antalya,partner,Separation & Jealousy
+1112,58,12/11/2013, istanbul,partner,Male service expectations
+1113,23,12/10/2013, corum,ex-partner,Separation & Jealousy
+1114,33,12/7/2013, erzurum,known man,Sexual expectation
+1115,39,12/6/2013, istanbul,partner,Separation & Jealousy
+1116,26,12/1/2013, istanbul,relative,Unknown
+1117,35,11/30/2013, adana,partner,Separation & Jealousy
+1118,36,11/29/2013, gaziantep,partner,Separation & Jealousy
+1119,35,11/29/2013, balikesir,partner,Unknown
+1120,80,11/27/2013, kutahya,partner,Other
+1121,46,11/25/2013, balikesir,partner,Unknown
+1122,17,11/25/2013, diyarbakir,partner,Other
+1123,25,11/24/2013, adana,partner,Other
+1124,19,11/20/2013, istanbul,father-in-law,Masculinity&Honor
+1125,33,11/18/2013, kocaeli,partner,Separation & Jealousy
+1126,37,11/17/2013, malatya,known man,Woman Decision and Preferences
+1127,52,11/17/2013, malatya,known man,Woman Decision and Preferences
+1128,,11/15/2013, istanbul,partner,Separation & Jealousy
+1129,28,11/14/2013, elazig,ex-partner,Separation & Jealousy
+1130,45,11/12/2013, kirikkale,partner,Woman Decision and Preferences
+1131,20,11/6/2013, istanbul,father,Other
+1132,25,11/6/2013, diyarbakir,relative,Household service expectations
+1133,54,11/6/2013, istanbul,partner,Other
+1134,18,11/6/2013, istanbul,father,Other
+1135,39,11/5/2013, kayseri,ex-partner,Unknown
+1136,46,11/4/2013, ankara,partner,Separation & Jealousy
+1137,39,10/31/2013, ankara,boyfriend,Other
+1138,37,10/28/2013, aydin,partner,Other
+1139,23,10/27/2013, i̇zmir,ex-partner,Separation & Jealousy
+1140,32,10/27/2013, gaziantep,partner,Other
+1141,31,10/26/2013, bursa,partner,Separation & Jealousy
+1142,23,10/26/2013, mersin,boyfriend,Separation & Jealousy
+1143,40,10/24/2013, ankara,partner,Separation & Jealousy
+1144,21,10/23/2013, sirnak,partner,Separation & Jealousy
+1145,39,10/23/2013, usak,partner,Separation & Jealousy
+1146,20,10/21/2013, igdir,father,Masculinity&Honor
+1147,4,10/21/2013, igdir,relative,Masculinity&Honor
+1148,50,10/21/2013, igdir,relative,Masculinity&Honor
+1149,22,10/18/2013, konya,boyfriend,Other
+1150,45,10/16/2013, ordu,partner,Separation & Jealousy
+1151,33,10/15/2013, batman,ex-partner,Separation & Jealousy
+1152,46,10/14/2013, kayseri,boyfriend,Woman Decision and Preferences
+1153,19,10/13/2013, denizli,partner,Woman Decision and Preferences
+1154,26,10/13/2013, diyarbakir,brother,Masculinity&Honor
+1155,60,10/13/2013, diyarbakir,son,Masculinity&Honor
+1156,27,10/12/2013, zonguldak,relative,Other
+1157,59,10/7/2013, batman,known man,Unknown
+1158,18,10/4/2013, gaziantep,father,Masculinity&Honor
+1159,36,10/3/2013, sivas,partner,Separation & Jealousy
+1160,44,9/30/2013, istanbul,partner,Separation & Jealousy
+1161,23,9/28/2013, elazig,partner,Other
+1162,42,9/28/2013, elazig,partner,Other
+1163,,9/28/2013, diyarbakir,partner,Unknown
+1164,32,9/27/2013, samsun,relative,Other
+1165,20,9/25/2013, osmaniye,father,Masculinity&Honor
+1166,39,9/25/2013, antalya,relative,Unknown
+1167,35,9/23/2013, i̇zmir,partner,Other
+1168,27,9/20/2013, mardin,attacker,Other
+1169,38,9/20/2013, mardin,attacker,Other
+1170,11,9/20/2013, mardin,attacker,Other
+1171,46,9/19/2013, gaziantep,father,Unknown
+1172,36,9/19/2013, diyarbakir,partner,Separation & Jealousy
+1173,26,9/16/2013, ankara,known man,Other
+1174,26,9/15/2013, mugla,partner,Separation & Jealousy
+1175,16,9/14/2013, zonguldak,father,Fight
+1176,22,9/13/2013, nevsehir,attacker,Sexual expectation
+1177,20,9/10/2013, burdur,ex-partner,Other
+1178,61,9/10/2013, adana,relative,Other
+1179,40,9/10/2013, burdur,relative,Other
+1180,16,9/9/2013, bursa,boyfriend,Separation & Jealousy
+1181,56,9/9/2013, mugla,boyfriend,Separation & Jealousy
+1182,69,9/8/2013, aksaray,son,Other
+1183,21,9/7/2013, zonguldak,ex-partner,Masculinity&Honor
+1184,50,9/2/2013, i̇zmir,known man,Male service expectations
+1185,3,9/1/2013, sanliurfa,father,Unknown
+1186,64,9/1/2013, istanbul,ex-partner,Other
+1187,25,9/1/2013, istanbul,boyfriend,Separation & Jealousy
+1188,25,9/1/2013, sanliurfa,partner,Unknown
+1189,63,8/29/2013, mersin,partner,Unknown
+1190,36,8/28/2013, diyarbakir,partner,Separation & Jealousy
+1191,19,8/27/2013, aksaray,partner,Other
+1192,36,8/26/2013, cankiri,partner,Other
+1193,30,8/26/2013, antalya,boyfriend,Other
+1194,31,8/25/2013, kocaeli,boyfriend,Masculinity&Honor
+1195,67,8/24/2013, adiyaman,partner,Other
+1196,30,8/21/2013, diyarbakir,known man,Separation & Jealousy
+1197,37,8/21/2013, istanbul,brother,Masculinity&Honor
+1198,37,8/21/2013, diyarbakir,known man,Woman Decision and Preferences
+1199,8,8/17/2013, afyonkarahisar,attacker,Unknown
+1200,37,8/16/2013, i̇zmir,boyfriend,Masculinity&Honor
+1201,74,8/15/2013, istanbul,attacker,Other
+1202,17,8/14/2013, istanbul,partner,Separation & Jealousy
+1203,33,8/14/2013, erzincan,partner,Woman Decision and Preferences
+1204,41,8/14/2013, istanbul,partner,Other
+1205,22,8/14/2013, i̇zmir,partner,Separation & Jealousy
+1206,44,8/13/2013, ordu,partner,Unknown
+1207,73,8/12/2013, istanbul,partner,Other
+1208,47,8/11/2013, samsun,partner,Other
+1209,36,8/10/2013, istanbul,partner,Other
+1210,22,8/8/2013, agri,partner,Separation & Jealousy
+1211,26,8/7/2013, antalya,ex-partner,Unknown
+1212,56,8/5/2013, igdir,partner,Unknown
+1213,41,8/2/2013, erzincan,known man,Unknown
+1214,44,8/1/2013, i̇zmir,boyfriend,Masculinity&Honor
+1215,44,7/29/2013, i̇zmir,attacker,Sexual expectation
+1216,27,7/21/2013, adana,partner,Separation & Jealousy
+1217,25,7/17/2013, usak,ex-partner,Separation & Jealousy
+1218,47,7/17/2013, kocaeli,partner,Other
+1219,27,7/16/2013, aydin,ex-partner,Other
+1220,23,7/15/2013, batman,partner,Other
+1221,32,7/11/2013, mugla,ex-partner,Separation & Jealousy
+1222,24,7/11/2013, aydin,known man,Unknown
+1223,39,7/9/2013, afyonkarahisar,partner,Unknown
+1224,35,7/2/2013, antalya,partner,Masculinity&Honor
+1225,31,6/28/2013, istanbul,partner,Separation & Jealousy
+1226,18,6/26/2013, agri,partner,Masculinity&Honor
+1227,54,6/25/2013, kocaeli,partner,Unknown
+1228,15,6/25/2013, konya,father,Other
+1229,36,6/25/2013, konya,partner,Other
+1230,49,6/24/2013, konya,partner,Separation & Jealousy
+1231,53,6/18/2013, istanbul,partner,Separation & Jealousy
+1232,32,6/16/2013, gaziantep,partner,Other
+1233,39,6/11/2013, aydin,ex-partner,Separation & Jealousy
+1234,21,6/6/2013, diyarbakir,partner,Separation & Jealousy
+1235,39,6/5/2013, igdir,partner,Masculinity&Honor
+1236,37,6/4/2013, usak,partner,Other
+1237,14,6/3/2013, erzurum,brother,Masculinity&Honor
+1238,25,6/2/2013, duzce,partner,Separation & Jealousy
+1239,68,5/31/2013, tekirdag,attacker,Other
+1240,22,5/30/2013, denizli,brother,Masculinity&Honor
+1241,39,5/28/2013, aydin,partner,Other
+1242,35,5/26/2013, sakarya,known man,Other
+1243,18,5/26/2013, sakarya,known man,Separation & Jealousy
+1244,41,5/23/2013, i̇zmir,partner,Other
+1245,38,5/22/2013, ankara,partner,Woman Decision and Preferences
+1246,37,5/20/2013, i̇zmir,ex-partner,Separation & Jealousy
+1247,24,5/15/2013, istanbul,ex-partner,Separation & Jealousy
+1248,24,5/10/2013, corum,ex-partner,Separation & Jealousy
+1249,19,5/8/2013, gaziantep,boyfriend,Masculinity&Honor
+1250,16,5/3/2013, mersin,relative,Masculinity&Honor
+1251,19,4/30/2013, batman,partner,Other
+1252,39,4/30/2013, istanbul,known man,Unknown
+1253,,4/29/2013, duzce,partner,Other
+1254,35,4/27/2013, nevsehir,ex-partner,Separation & Jealousy
+1255,47,4/27/2013, bursa,ex-partner,Other
+1256,19,4/19/2013, i̇zmir,partner,Masculinity&Honor
+1257,26,4/17/2013, mersin,partner,Other
+1258,32,4/13/2013, manisa,partner,Separation & Jealousy
+1259,68,4/11/2013, ankara,partner,Separation & Jealousy
+1260,29,4/10/2013, osmaniye,partner,Other
+1261,33,4/9/2013, mardin,brother,Woman Decision and Preferences
+1262,48,4/9/2013, konya,partner,Other
+1263,36,4/8/2013, i̇zmir,ex-partner,Masculinity&Honor
+1264,33,4/8/2013, antalya,relative,Other
+1265,37,4/8/2013, antalya,ex-partner,Separation & Jealousy
+1266,49,4/2/2013, denizli,partner,Other
+1267,38,3/28/2013, edirne,partner,Separation & Jealousy
+1268,34,3/26/2013, ankara,partner,Separation & Jealousy
+1269,,3/18/2013, ankara,partner,Separation & Jealousy
+1270,30,3/17/2013, istanbul,ex-partner,Separation & Jealousy
+1271,48,3/17/2013, istanbul,relative,Other
+1272,39,3/15/2013, antalya,boyfriend,Other
+1273,39,3/10/2013, mugla,partner,Separation & Jealousy
+1274,38,3/8/2013, manisa,partner,Masculinity&Honor
+1275,41,3/5/2013, kocaeli,brother,Masculinity&Honor
+1276,64,3/4/2013, i̇zmir,partner,Other
+1277,31,3/1/2013, hatay,ex-partner,Unknown
+1278,0,3/1/2013, hatay,relative,Unknown
+1279,60,3/1/2013, gaziantep,partner,Other
+1280,57,2/27/2013, istanbul,relative,Other
+1281,25,2/25/2013, i̇zmir,partner,Separation & Jealousy
+1282,19,2/5/2013, adiyaman,boyfriend,Woman Decision and Preferences
+1283,28,2/4/2013, i̇zmir,partner,Separation & Jealousy
+1284,44,2/4/2013, istanbul,boyfriend,Unknown
+1285,21,2/3/2013, samsun,partner,Separation & Jealousy
+1286,60,1/30/2013, adana,partner,Unknown
+1287,31,1/30/2013, adana,father,Unknown
+1288,48,1/30/2013, usak,ex-partner,Unknown
+1289,32,1/22/2013, denizli,son,Masculinity&Honor
+1290,28,1/22/2013, konya,partner,Masculinity&Honor
+1291,25,1/22/2013, kocaeli,partner,Separation & Jealousy
+1292,36,1/22/2013, kocaeli,partner,Unknown
+1293,33,1/21/2013, istanbul,attacker,Sexual expectation
+1294,31,1/19/2013, samsun,boyfriend,Unknown
+1295,36,1/17/2013, van,partner,Unknown
+1296,32,1/17/2013, i̇zmir,boyfriend,Other
+1297,25,1/16/2013, kocaeli,partner,Other
+1298,34,1/15/2013, ankara,partner,Separation & Jealousy
+1299,25,1/15/2013, gaziantep,partner,Separation & Jealousy
+1300,54,1/15/2013, gaziantep,partner,Other
+1301,56,1/13/2013, konya,son,Other
+1302,28,1/7/2013, malatya,partner,Separation & Jealousy
+1303,25,1/2/2013, istanbul,ex-partner,Separation & Jealousy
+1304,33,12/31/2012, istanbul,partner,Separation & Jealousy
+1305,17,12/29/2012, diyarbakir,partner,Unknown
+1306,15,12/28/2012, batman,relative,Sexual expectation
+1307,33,12/23/2012, ardahan,partner,Unknown
+1308,57,12/18/2012, kayseri,partner,Other
+1309,19,12/17/2012, istanbul,known man,Unknown
+1310,33,12/14/2012, konya,boyfriend,Other
+1311,22,12/14/2012, adana,partner,Separation & Jealousy
+1312,27,12/8/2012, konya,ex-partner,Separation & Jealousy
+1313,50,12/6/2012, bursa,partner,Unknown
+1314,51,12/5/2012, istanbul,partner,Separation & Jealousy
+1315,37,12/4/2012, mardin,partner,Unknown
+1316,29,12/3/2012, i̇zmir,known man,Separation & Jealousy
+1317,42,11/29/2012, eskisehir,partner,Separation & Jealousy
+1318,50,11/26/2012, diyarbakir,partner,Separation & Jealousy
+1319,41,11/25/2012, erzincan,partner,Separation & Jealousy
+1320,39,11/17/2012, diyarbakir,partner,Separation & Jealousy
+1321,35,11/13/2012, aydin,partner,Separation & Jealousy
+1322,17,11/13/2012, sakarya,partner,Separation & Jealousy
+1323,34,11/10/2012, mersin,ex-partner,Other
+1324,31,11/6/2012, istanbul,boyfriend,Separation & Jealousy
+1325,38,11/4/2012, istanbul,partner,Separation & Jealousy
+1326,18,11/4/2012, istanbul,father,Unknown
+1327,15,11/4/2012, istanbul,father,Unknown
+1328,14,11/4/2012, istanbul,father,Unknown
+1329,43,11/3/2012, yozgat,father,Unknown
+1330,32,10/28/2012, malatya,known man,Other
+1331,17,10/27/2012, osmaniye,boyfriend,Masculinity&Honor
+1332,29,10/24/2012, antalya,attacker,Unknown
+1333,25,10/21/2012, kocaeli,attacker,Unknown
+1334,75,10/17/2012, kastamonu,partner,Other
+1335,20,10/15/2012, istanbul,attacker,Sexual expectation
+1336,31,10/15/2012, giresun,partner,Other
+1337,55,10/14/2012, canakkale,partner,Unknown
+1338,38,9/29/2012, adana,partner,Separation & Jealousy
+1339,38,9/25/2012, adiyaman,partner,Unknown
+1340,36,9/21/2012, ankara,partner,Separation & Jealousy
+1341,28,9/18/2012, eskisehir,ex-partner,Unknown
+1342,34,9/18/2012, kirklareli,partner,Other
+1343,41,9/17/2012, aksaray,partner,Separation & Jealousy
+1344,37,9/16/2012, tekirdag,partner,Unknown
+1345,31,9/15/2012, samsun,relative,Fight
+1346,26,9/14/2012, istanbul,partner,Separation & Jealousy
+1347,23,9/13/2012, istanbul,ex-partner,Separation & Jealousy
+1348,52,9/11/2012, kayseri,partner,Unknown
+1349,43,9/11/2012, afyonkarahisar,partner,Other
+1350,19,9/4/2012, mardin,relative,Unknown
+1351,27,9/2/2012, adana,partner,Other
+1352,53,8/29/2012, ankara,ex-partner,Unknown
+1353,20,8/28/2012, i̇zmir,relative,Other
+1354,19,8/24/2012, samsun,known man,Separation & Jealousy
+1355,49,8/24/2012, i̇zmir,boyfriend,Separation & Jealousy
+1356,75,8/23/2012, aydin,son,Unknown
+1357,24,8/23/2012, sanliurfa,ex-partner,Unknown
+1358,41,8/23/2012, adana,boyfriend,Separation & Jealousy
+1359,45,8/22/2012, canakkale,relative,Other
+1360,32,8/20/2012, i̇zmir,relative,Other
+1361,25,8/19/2012, bartin,ex-partner,Other
+1362,25,8/18/2012, bursa,ex-partner,Other
+1363,35,8/17/2012, i̇zmir,partner,Separation & Jealousy
+1364,,8/15/2012, istanbul,partner,Unknown
+1365,58,8/11/2012, mersin,partner,Other
+1366,50,8/11/2012, i̇zmir,ex-partner,Other
+1367,51,8/5/2012, hatay,partner,Other
+1368,27,8/5/2012, corum,known man,Separation & Jealousy
+1369,28,8/1/2012, yozgat,partner,Woman Decision and Preferences
+1370,55,7/31/2012, istanbul,partner,Unknown
+1371,37,7/30/2012, i̇zmir,partner,Separation & Jealousy
+1372,32,7/29/2012, ankara,ex-partner,Separation & Jealousy
+1373,24,7/28/2012, bolu,partner,Other
+1374,2,7/27/2012, kocaeli,father,Fight
+1375,30,7/27/2012, istanbul,partner,Separation & Jealousy
+1376,24,7/25/2012, agri,partner,Unknown
+1377,43,7/24/2012, samsun,boyfriend,Other
+1378,31,7/23/2012, kahramanmaras,boyfriend,Other
+1379,25,7/20/2012, i̇zmir,ex-partner,Separation & Jealousy
+1380,33,7/19/2012, istanbul,partner,Unknown
+1381,19,7/18/2012, istanbul,partner,Household service expectations
+1382,37,7/12/2012, istanbul,partner,Other
+1383,46,7/7/2012, cankiri,partner,Separation & Jealousy
+1384,25,7/7/2012, ankara,partner,Separation & Jealousy
+1385,29,7/4/2012, istanbul,partner,Separation & Jealousy
+1386,36,7/2/2012, tekirdag,partner,Separation & Jealousy
+1387,24,7/1/2012, istanbul,partner,Separation & Jealousy
+1388,31,6/29/2012, ankara,boyfriend,Other
+1389,13,6/28/2012, gaziantep,father,Masculinity&Honor
+1390,33,6/28/2012, antalya,boyfriend,Separation & Jealousy
+1391,30,6/27/2012, diyarbakir,partner,Unknown
+1392,25,6/26/2012, bursa,partner,Separation & Jealousy
+1393,48,6/26/2012, bursa,partner,Other
+1394,83,6/24/2012, corum,partner,Other
+1395,32,6/23/2012, mugla,boyfriend,Other
+1396,32,6/19/2012, adana,partner,Other
+1397,18,6/19/2012, adana,partner,Separation & Jealousy
+1398,22,6/14/2012, elazig,brother,Masculinity&Honor
+1399,41,6/7/2012, kars,partner,Separation & Jealousy
+1400,,6/5/2012, ankara,partner,Other
+1401,23,6/3/2012, ankara,father,Other
+1402,48,6/3/2012, ankara,ex-partner,Separation & Jealousy
+1403,19,5/31/2012, hatay,boyfriend,Unknown
+1404,24,5/27/2012, i̇zmir,partner,Woman Decision and Preferences
+1405,25,5/24/2012, kayseri,partner,Separation & Jealousy
+1406,35,5/23/2012, bursa,partner,Children
+1407,25,5/23/2012, balikesir,brother,Other
+1408,25,5/23/2012, aksaray,partner,Other
+1409,49,5/23/2012, balikesir,son,Other
+1410,29,5/21/2012, konya,partner,Separation & Jealousy
+1411,67,5/20/2012, i̇zmir,known man,Other
+1412,23,5/16/2012, tekirdag,partner,Separation & Jealousy
+1413,30,5/14/2012, sinop,partner,Other
+1414,36,5/12/2012, istanbul,partner,Other
+1415,56,5/10/2012, i̇zmir,partner,Woman Decision and Preferences
+1416,26,5/10/2012, aksaray,partner,Separation & Jealousy
+1417,40,5/9/2012, i̇zmir,boyfriend,Separation & Jealousy
+1418,55,5/3/2012, ankara,partner,Separation & Jealousy
+1419,17,5/1/2012, adana,ex-partner,Separation & Jealousy
+1420,21,4/29/2012, elazig,boyfriend,Separation & Jealousy
+1421,20,4/26/2012, erzurum,partner,Separation & Jealousy
+1422,34,4/25/2012, istanbul,partner,Unknown
+1423,30,4/25/2012, mersin,ex-partner,Masculinity&Honor
+1424,43,4/22/2012, bursa,partner,Separation & Jealousy
+1425,35,4/17/2012, tekirdag,boyfriend,Other
+1426,44,4/17/2012, samsun,partner,Separation & Jealousy
+1427,21,4/14/2012, van,partner,Separation & Jealousy
+1428,26,4/12/2012, adana,partner,Separation & Jealousy
+1429,23,4/6/2012, aydin,known man,Unknown
+1430,50,4/5/2012, konya,partner,Separation & Jealousy
+1431,23,3/30/2012, i̇zmir,known man,Unknown
+1432,30,3/28/2012, istanbul,partner,Separation & Jealousy
+1433,25,3/28/2012, manisa,partner,Separation & Jealousy
+1434,18,3/27/2012, i̇zmir,partner,Separation & Jealousy
+1435,28,3/26/2012, bursa,partner,Separation & Jealousy
+1436,48,3/26/2012, ordu,ex-partner,Separation & Jealousy
+1437,27,3/25/2012, istanbul,ex-partner,Masculinity&Honor
+1438,74,3/23/2012, sanliurfa,attacker,Other
+1439,28,3/11/2012, ankara,boyfriend,Woman Decision and Preferences
+1440,40,3/9/2012, istanbul,relative,Unknown
+1441,32,2/29/2012, ankara,partner,Separation & Jealousy
+1442,33,2/29/2012, i̇zmir,ex-partner,Separation & Jealousy
+1443,31,2/28/2012, istanbul,partner,Other
+1444,28,2/27/2012, antalya,partner,Masculinity&Honor
+1445,26,2/26/2012, istanbul,brother,Masculinity&Honor
+1446,22,2/24/2012, ankara,father,Other
+1447,19,2/24/2012, istanbul,partner,Woman Decision and Preferences
+1448,22,2/24/2012, nigde,partner,Other
+1449,16,2/23/2012, osmaniye,attacker,Other
+1450,16,2/23/2012, osmaniye,known man,Separation & Jealousy
+1451,29,2/22/2012, kastamonu,ex-partner,Other
+1452,80,2/21/2012, kayseri,partner,Unknown
+1453,25,2/21/2012, istanbul,known man,Separation & Jealousy
+1454,26,2/19/2012, kayseri,partner,Masculinity&Honor
+1455,24,2/15/2012, mugla,boyfriend,Separation & Jealousy
+1456,26,2/14/2012, kocaeli,brother,Unknown
+1457,23,2/14/2012, van,partner,Masculinity&Honor
+1458,52,2/13/2012, balikesir,partner,Other
+1459,38,2/13/2012, istanbul,known man,Other
+1460,42,2/13/2012, kahramanmaras,partner,Separation & Jealousy
+1461,30,2/11/2012, ankara,known man,Unknown
+1462,35,2/11/2012, ankara,partner,Separation & Jealousy
+1463,19,2/10/2012, sanliurfa,boyfriend,Masculinity&Honor
+1464,46,2/10/2012, manisa,partner,Other
+1465,40,2/9/2012, ankara,partner,Unknown
+1466,25,2/5/2012, usak,partner,Other
+1467,18,2/5/2012, aydin,partner,Separation & Jealousy
+1468,2,2/3/2012, diyarbakir,father,Unknown
+1469,29,2/3/2012, gaziantep,known man,Other
+1470,33,2/3/2012, diyarbakir,partner,Unknown
+1471,2,2/3/2012, diyarbakir,father,Unknown
+1472,23,1/28/2012, istanbul,partner,Unknown
+1473,33,1/21/2012, canakkale,partner,Unknown
+1474,17,1/19/2012, gaziantep,partner,Other
+1475,43,1/19/2012, gaziantep,partner,Unknown
+1476,47,1/17/2012, konya,son,Masculinity&Honor
+1477,7,1/15/2012, antalya,father,Unknown
+1478,35,1/15/2012, antalya,partner,Unknown
+1479,60,1/12/2012, istanbul,son,Other
+1480,38,1/7/2012, ankara,boyfriend,Unknown
+1481,25,1/5/2012, tekirdag,relative,Other
+1482,22,1/4/2012, adana,ex-partner,Separation & Jealousy
+1483,27,1/3/2012, kocaeli,partner,Other
+1484,48,1/2/2012, sanliurfa,partner,Other
+1485,23,1/1/2012, antalya,partner,Separation & Jealousy
+1486,21,12/28/2011, adiyaman,brother,Masculinity&Honor
+1487,33,12/24/2011, antalya,partner,Separation & Jealousy
+1488,12,12/24/2011, kahramanmaras,attacker,Sexual expectation
+1489,58,12/23/2011, sakarya,partner,Other
+1490,32,12/23/2011, kocaeli,attacker,Other
+1491,22,12/20/2011, malatya,ex-partner,Separation & Jealousy
+1492,19,12/20/2011, nevsehir,partner,Other
+1493,36,12/19/2011, amasya,partner,Unknown
+1494,16,12/19/2011, amasya,relative,Unknown
+1495,65,12/16/2011, nevsehir,attacker,Other
+1496,45,12/15/2011, kocaeli,partner,Other
+1497,30,12/14/2011, trabzon,partner,Separation & Jealousy
+1498,33,12/14/2011, konya,attacker,Sexual expectation
+1499,24,12/14/2011, zonguldak,ex-partner,Separation & Jealousy
+1500,45,12/9/2011, tokat,partner,Other
+1501,34,12/5/2011, denizli,ex-partner,Other
+1502,36,12/3/2011, istanbul,partner,Separation & Jealousy
+1503,66,11/26/2011, antalya,partner,Other
+1504,21,11/23/2011, bursa,known man,Fight
+1505,57,11/20/2011, antalya,partner,Masculinity&Honor
+1506,31,11/17/2011, istanbul,partner,Masculinity&Honor
+1507,30,11/17/2011, adana,ex-partner,Separation & Jealousy
+1508,40,11/15/2011, kahramanmaras,relative,Masculinity&Honor
+1509,22,11/15/2011, denizli,father-in-law,Masculinity&Honor
+1510,40,11/14/2011, adana,son,Unknown
+1511,37,11/13/2011, konya,partner,Separation & Jealousy
+1512,42,11/12/2011, tekirdag,partner,Separation & Jealousy
+1513,55,11/12/2011, ankara,partner,Separation & Jealousy
+1514,16,11/6/2011, i̇zmir,relative,Woman Decision and Preferences
+1515,42,11/6/2011, i̇zmir,partner,Woman Decision and Preferences
+1516,28,11/2/2011, adana,brother,Masculinity&Honor
+1517,19,11/1/2011, gaziantep,father,Woman Decision and Preferences
+1518,36,10/31/2011, bursa,attacker,Other
+1519,18,10/29/2011, ankara,boyfriend,Separation & Jealousy
+1520,30,10/27/2011, bursa,partner,Separation & Jealousy
+1521,30,10/26/2011, gaziantep,partner,Separation & Jealousy
+1522,24,10/21/2011, aydin,partner,Separation & Jealousy
+1523,31,10/19/2011, istanbul,partner,Separation & Jealousy
+1524,20,10/14/2011, gaziantep,partner,Masculinity&Honor
+1525,28,10/14/2011, i̇zmir,partner,Separation & Jealousy
+1526,15,10/13/2011, kahramanmaras,father,Masculinity&Honor
+1527,35,10/12/2011, ankara,son,Masculinity&Honor
+1528,32,10/12/2011, balikesir,partner,Separation & Jealousy
+1529,34,10/10/2011, cankiri,partner,Other
+1530,33,10/8/2011, manisa,partner,Separation & Jealousy
+1531,30,10/8/2011, osmaniye,partner,Other
+1532,24,10/7/2011, gaziantep,brother,Woman Decision and Preferences
+1533,25,10/6/2011, i̇zmir,ex-partner,Unknown
+1534,20,10/4/2011, tokat,partner,Unknown
+1535,52,10/2/2011, kutahya,partner,Separation & Jealousy
+1536,47,10/1/2011, mersin,partner,Separation & Jealousy
+1537,32,9/27/2011, elazig,brother,Masculinity&Honor
+1538,34,9/26/2011, kocaeli,ex-partner,Separation & Jealousy
+1539,34,9/25/2011, kirikkale,partner,Unknown
+1540,39,9/25/2011, adana,boyfriend,Separation & Jealousy
+1541,35,9/24/2011, denizli,boyfriend,Separation & Jealousy
+1542,33,9/24/2011, yalova,ex-partner,Masculinity&Honor
+1543,80,9/24/2011, mersin,attacker,Other
+1544,23,9/22/2011, konya,boyfriend,Separation & Jealousy
+1545,22,9/21/2011, bolu,partner,Other
+1546,32,9/19/2011, sakarya,ex-partner,Separation & Jealousy
+1547,31,9/17/2011, kayseri,boyfriend,Masculinity&Honor
+1548,29,9/16/2011, i̇zmir,boyfriend,Other
+1549,22,9/15/2011, diyarbakir,brother,Other
+1550,48,9/14/2011, kahramanmaras,boyfriend,Other
+1551,65,9/9/2011, kars,partner,Other
+1552,30,9/9/2011, adana,boyfriend,Separation & Jealousy
+1553,32,9/8/2011, mersin,partner,Separation & Jealousy
+1554,24,9/8/2011, rize,brother,Masculinity&Honor
+1555,49,9/5/2011, ordu,partner,Woman Decision and Preferences
+1556,34,9/3/2011, istanbul,partner,Separation & Jealousy
+1557,19,9/2/2011, mersin,boyfriend,Separation & Jealousy
+1558,51,9/1/2011, ankara,partner,Other
+1559,14,9/1/2011, zonguldak,known man,Masculinity&Honor
+1560,39,8/30/2011, sakarya,partner,Separation & Jealousy
+1561,58,8/25/2011, kastamonu,partner,Other
+1562,33,8/25/2011, zonguldak,partner,Separation & Jealousy
+1563,21,8/24/2011, corum,partner,Unknown
+1564,35,8/24/2011, i̇zmir,partner,Separation & Jealousy
+1565,22,8/22/2011, adana,partner,Separation & Jealousy
+1566,,8/19/2011, ankara,partner,Other
+1567,50,8/19/2011, i̇zmir,known man,Separation & Jealousy
+1568,54,8/19/2011, i̇zmir,known man,Separation & Jealousy
+1569,63,8/17/2011, istanbul,partner,Other
+1570,27,8/9/2011, usak,partner,Separation & Jealousy
+1571,24,8/4/2011, giresun,ex-partner,Separation & Jealousy
+1572,20,8/4/2011, i̇zmir,partner,Separation & Jealousy
+1573,38,8/3/2011, van,partner,Other
+1574,24,8/1/2011, istanbul,attacker,Woman Decision and Preferences
+1575,30,8/1/2011, adana,partner,Separation & Jealousy
+1576,23,7/31/2011, eskisehir,boyfriend,Separation & Jealousy
+1577,28,7/30/2011, van,partner,Other
+1578,41,7/29/2011, istanbul,ex-partner,Separation & Jealousy
+1579,53,7/29/2011, burdur,partner,Woman Decision and Preferences
+1580,37,7/28/2011, mersin,boyfriend,Woman Decision and Preferences
+1581,34,7/24/2011, ankara,partner,Separation & Jealousy
+1582,30,7/22/2011, kars,partner,Unknown
+1583,21,7/20/2011, hatay,relative,Masculinity&Honor
+1584,26,7/19/2011, i̇zmir,partner,Masculinity&Honor
+1585,36,7/17/2011, kocaeli,partner,Unknown
+1586,45,7/15/2011, i̇zmir,partner,Woman Decision and Preferences
+1587,16,7/14/2011, istanbul,attacker,Unknown
+1588,24,7/14/2011, konya,partner,Unknown
+1589,45,7/12/2011, ordu,partner,Unknown
+1590,20,7/9/2011, van,partner,Separation & Jealousy
+1591,21,7/9/2011, adana,partner,Other
+1592,33,7/9/2011, samsun,partner,Other
+1593,38,7/9/2011, istanbul,ex-partner,Unknown
+1594,18,7/8/2011, kahramanmaras,boyfriend,Other
+1595,33,7/8/2011, ankara,partner,Separation & Jealousy
+1596,73,7/1/2011, kirsehir,relative,Sexual expectation
+1597,61,6/30/2011, bursa,relative,Unknown
+1598,31,6/29/2011, kayseri,partner,Separation & Jealousy
+1599,37,6/27/2011, malatya,partner,Unknown
+1600,45,6/25/2011, mugla,ex-partner,Separation & Jealousy
+1601,24,6/25/2011, i̇zmir,partner,Separation & Jealousy
+1602,25,6/23/2011, bitlis,ex-partner,Other
+1603,18,6/23/2011, duzce,partner,Separation & Jealousy
+1604,45,6/22/2011, bartin,partner,Separation & Jealousy
+1605,21,6/22/2011, ankara,partner,Masculinity&Honor
+1606,44,6/20/2011, zonguldak,partner,Other
+1607,50,6/19/2011, denizli,partner,Separation & Jealousy
+1608,60,6/14/2011, i̇zmir,partner,Unknown
+1609,21,6/14/2011, diyarbakir,partner,Other
+1610,80,6/11/2011, balikesir,son,Other
+1611,13,6/11/2011, istanbul,known man,Unknown
+1612,38,6/11/2011, istanbul,ex-partner,Separation & Jealousy
+1613,,6/10/2011, tokat,ex-partner,Unknown
+1614,60,6/10/2011, tokat,partner,Unknown
+1615,17,6/10/2011, giresun,known man,Separation & Jealousy
+1616,50,6/6/2011, i̇zmir,known man,Separation & Jealousy
+1617,32,5/31/2011, kayseri,partner,Unknown
+1618,19,5/31/2011, hakkâri,partner,Unknown
+1619,35,5/29/2011, istanbul,boyfriend,Masculinity&Honor
+1620,26,5/29/2011, antalya,partner,Unknown
+1621,24,5/28/2011, kayseri,partner,Separation & Jealousy
+1622,52,5/26/2011, istanbul,partner,Other
+1623,39,5/26/2011, denizli,partner,Unknown
+1624,42,5/20/2011, istanbul,partner,Separation & Jealousy
+1625,73,5/19/2011, konya,partner,Unknown
+1626,56,5/18/2011, balikesir,partner,Unknown
+1627,5,5/17/2011, gaziantep,known man,Sexual expectation
+1628,37,5/14/2011, istanbul,known man,Other
+1629,21,5/13/2011, kirklareli,known man,Separation & Jealousy
+1630,38,5/11/2011, istanbul,partner,Other
+1631,22,5/9/2011, mardin,partner,Other
+1632,15,5/7/2011, elazig,relative,Separation & Jealousy
+1633,8,5/5/2011, gaziantep,known man,Fight
+1634,8,5/5/2011, gaziantep,known man,Fight
+1635,34,5/5/2011, gaziantep,known man,Fight
+1636,14,5/5/2011, gaziantep,known man,Fight
+1637,39,5/4/2011, aydin,known man,Separation & Jealousy
+1638,31,4/27/2011, istanbul,ex-partner,Children
+1639,39,4/25/2011, antalya,ex-partner,Separation & Jealousy
+1640,36,4/24/2011, i̇zmir,partner,Separation & Jealousy
+1641,52,4/24/2011, mugla,ex-partner,Masculinity&Honor
+1642,19,4/21/2011, i̇zmir,known man,Separation & Jealousy
+1643,35,4/19/2011, mersin,partner,Male service expectations
+1644,67,4/18/2011, denizli,partner,Masculinity&Honor
+1645,40,4/15/2011, adana,partner,Separation & Jealousy
+1646,21,4/14/2011, balikesir,boyfriend,Separation & Jealousy
+1647,31,4/13/2011, istanbul,partner,Separation & Jealousy
+1648,32,4/12/2011, i̇zmir,partner,Other
+1649,38,4/11/2011, samsun,partner,Masculinity&Honor
+1650,24,4/4/2011, i̇zmir,partner,Unknown
+1651,25,4/1/2011, kirsehir,boyfriend,Unknown
+1652,31,4/1/2011, istanbul,brother,Masculinity&Honor
+1653,33,3/31/2011, konya,boyfriend,Other
+1654,42,3/28/2011, samsun,partner,Separation & Jealousy
+1655,19,3/28/2011, balikesir,boyfriend,Separation & Jealousy
+1656,21,3/27/2011, antalya,partner,Unknown
+1657,20,3/26/2011, aydin,attacker,Sexual expectation
+1658,23,3/25/2011, elazig,partner,Separation & Jealousy
+1659,43,3/25/2011, istanbul,son,Other
+1660,19,3/23/2011, konya,partner,Separation & Jealousy
+1661,35,3/22/2011, bursa,partner,Other
+1662,,3/19/2011, ankara,ex-partner,Separation & Jealousy
+1663,24,3/19/2011, antalya,partner,Separation & Jealousy
+1664,33,3/17/2011, istanbul,partner,Separation & Jealousy
+1665,46,3/16/2011, adana,son,Masculinity&Honor
+1666,22,3/16/2011, adana,brother,Masculinity&Honor
+1667,15,3/16/2011, adana,brother,Masculinity&Honor
+1668,26,3/13/2011, osmaniye,father-in-law,Other
+1669,26,3/10/2011, adana,partner,Other
+1670,38,3/7/2011, balikesir,father,Male service expectations
+1671,42,3/5/2011, tekirdag,ex-partner,Other
+1672,19,3/3/2011, bartin,boyfriend,Unknown
+1673,19,3/1/2011, mersin,brother,Masculinity&Honor
+1674,34,2/28/2011, antalya,partner,Separation & Jealousy
+1675,31,2/26/2011, istanbul,boyfriend,Other
+1676,43,2/23/2011, istanbul,partner,Separation & Jealousy
+1677,51,2/23/2011, adana,partner,Separation & Jealousy
+1678,48,2/23/2011, mersin,partner,Other
+1679,28,2/21/2011, eskisehir,ex-partner,Separation & Jealousy
+1680,34,2/20/2011, karaman,partner,Separation & Jealousy
+1681,43,2/20/2011, sanliurfa,relative,Other
+1682,37,2/19/2011, mersin,partner,Unknown
+1683,21,2/19/2011, gaziantep,ex-partner,Separation & Jealousy
+1684,60,2/16/2011, edirne,known man,Unknown
+1685,59,2/15/2011, istanbul,partner,Separation & Jealousy
+1686,18,2/14/2011, elazig,father,Separation & Jealousy
+1687,21,2/12/2011, kayseri,partner,Masculinity&Honor
+1688,33,2/10/2011, istanbul,partner,Separation & Jealousy
+1689,50,2/8/2011, bartin,known man,Other
+1690,25,2/8/2011, istanbul,partner,Separation & Jealousy
+1691,45,2/7/2011, zonguldak,known man,Unknown
+1692,50,2/7/2011, tekirdag,ex-partner,Masculinity&Honor
+1693,43,2/7/2011, zonguldak,known man,Unknown
+1694,42,2/5/2011, sanliurfa,partner,Separation & Jealousy
+1695,34,2/4/2011, nevsehir,ex-partner,Woman Decision and Preferences
+1696,66,2/4/2011, nevsehir,relative,Unknown
+1697,29,2/3/2011, antalya,partner,Masculinity&Honor
+1698,59,2/1/2011, gaziantep,son,Masculinity&Honor
+1699,42,1/27/2011, mersin,partner,Unknown
+1700,41,1/26/2011, gaziantep,father,Masculinity&Honor
+1701,20,1/25/2011, yozgat,father,Masculinity&Honor
+1702,28,1/21/2011, sanliurfa,partner,Unknown
+1703,12,1/20/2011, ankara,father,Unknown
+1704,38,1/20/2011, i̇zmir,partner,Separation & Jealousy
+1705,19,1/17/2011, diyarbakir,partner,Masculinity&Honor
+1706,29,1/16/2011, adana,brother,Unknown
+1707,57,1/14/2011, igdir,relative,Fight
+1708,44,1/12/2011, isparta,boyfriend,Unknown
+1709,38,1/10/2011, kahramanmaras,partner,Woman Decision and Preferences
+1710,29,1/9/2011, i̇zmir,brother,Unknown
+1711,24,1/8/2011, balikesir,ex-partner,Separation & Jealousy
+1712,37,1/5/2011, manisa,partner,Other
+1713,16,1/4/2011, igdir,brother,Masculinity&Honor
+1714,,1/2/2011, kirikkale,partner,Separation & Jealousy
+1715,55,1/1/2011, istanbul,attacker,Other
+1716,,12/31/2010, ankara,partner,Separation & Jealousy
+1717,32,12/28/2010, nigde,partner,Separation & Jealousy
+1718,52,12/28/2010, nigde,partner,Other
+1719,37,12/25/2010, konya,known man,Sexual expectation
+1720,15,12/23/2010, istanbul,relative,Other
+1721,23,12/23/2010, ankara,partner,Other
+1722,35,12/23/2010, istanbul,ex-partner,Separation & Jealousy
+1723,18,12/23/2010, sanliurfa,relative,Other
+1724,22,12/22/2010, sanliurfa,partner,Other
+1725,50,12/21/2010, i̇zmir,partner,Other
+1726,33,12/21/2010, konya,ex-partner,Masculinity&Honor
+1727,63,12/18/2010, zonguldak,partner,Unknown
+1728,26,12/14/2010, istanbul,brother,Woman Decision and Preferences
+1729,27,12/12/2010, mersin,boyfriend,Unknown
+1730,42,12/7/2010, ankara,ex-partner,Unknown
+1731,39,12/6/2010, mugla,partner,Separation & Jealousy
+1732,36,12/3/2010, denizli,boyfriend,Separation & Jealousy
+1733,9,12/2/2010, i̇zmir,father,Children
+1734,35,11/29/2010, aydin,partner,Other
+1735,32,11/24/2010, mersin,ex-partner,Separation & Jealousy
+1736,18,11/22/2010, i̇zmir,ex-partner,Separation & Jealousy
+1737,20,11/18/2010, gaziantep,father,Masculinity&Honor
+1738,21,11/18/2010, gaziantep,father,Masculinity&Honor
+1739,39,11/15/2010, sakarya,partner,Masculinity&Honor
+1740,28,11/15/2010, bursa,boyfriend,Separation & Jealousy
+1741,73,11/13/2010, kayseri,relative,Other
+1742,20,11/12/2010, i̇zmir,boyfriend,Unknown
+1743,7,11/10/2010, van,attacker,Sexual expectation
+1744,43,11/10/2010, van,attacker,Unknown
+1745,15,11/10/2010, van,attacker,Sexual expectation
+1746,30,11/9/2010, mugla,partner,Other
+1747,38,11/9/2010, gaziantep,known man,Other
+1748,27,11/4/2010, malatya,partner,Unknown
+1749,28,11/4/2010, istanbul,boyfriend,Other
+1750,36,10/29/2010, mersin,partner,Other
+1751,41,10/29/2010, mugla,partner,Household service expectations
+1752,35,10/28/2010, istanbul,ex-partner,Separation & Jealousy
+1753,44,10/27/2010, istanbul,boyfriend,Separation & Jealousy
+1754,15,10/25/2010, diyarbakir,relative,Sexual expectation
+1755,23,10/25/2010, hakkâri,partner,Masculinity&Honor
+1756,40,10/22/2010, istanbul,relative,Other
+1757,25,10/21/2010, adana,brother,Masculinity&Honor
+1758,40,10/21/2010, ankara,relative,Unknown
+1759,38,10/18/2010, istanbul,partner,Other
+1760,18,10/18/2010, istanbul,partner,Separation & Jealousy
+1761,18,10/16/2010, adana,brother,Other
+1762,32,10/16/2010, adana,brother,Male service expectations
+1763,55,10/16/2010, adana,son,Other
+1764,51,10/15/2010, ankara,brother,Other
+1765,25,10/12/2010, aydin,boyfriend,Masculinity&Honor
+1766,44,10/11/2010, konya,known man,Unknown
+1767,32,10/10/2010, konya,relative,Other
+1768,32,10/6/2010, kutahya,partner,Separation & Jealousy
+1769,28,10/4/2010, i̇zmir,ex-partner,Unknown
+1770,30,10/4/2010, mersin,boyfriend,Separation & Jealousy
+1771,71,10/1/2010, mersin,attacker,Unknown
+1772,58,9/30/2010, konya,partner,Other
+1773,83,9/28/2010, sakarya,relative,Sexual expectation
+1774,72,9/28/2010, bursa,partner,Other
+1775,35,9/27/2010, gaziantep,boyfriend,Separation & Jealousy
+1776,36,9/27/2010, i̇zmir,partner,Separation & Jealousy
+1777,,9/25/2010, istanbul,partner,Separation & Jealousy
+1778,55,9/24/2010, hatay,relative,Other
+1779,55,9/22/2010, duzce,partner,Other
+1780,42,9/18/2010, eskisehir,partner,Masculinity&Honor
+1781,20,9/18/2010, kocaeli,partner,Separation & Jealousy
+1782,31,9/15/2010, gaziantep,partner,Unknown
+1783,34,9/14/2010, istanbul,ex-partner,Separation & Jealousy
+1784,11,9/14/2010, eskisehir,attacker,Sexual expectation
+1785,23,9/14/2010, istanbul,partner,Separation & Jealousy
+1786,20,9/13/2010, sanliurfa,brother,Masculinity&Honor
+1787,29,9/13/2010, gaziantep,brother,Masculinity&Honor
+1788,43,9/9/2010, adana,partner,Separation & Jealousy
+1789,48,9/8/2010, aksaray,partner,Separation & Jealousy
+1790,33,9/6/2010, kastamonu,partner,Other
+1791,38,9/6/2010, mersin,partner,Other
+1792,12,9/2/2010, erzurum,relative,Sexual expectation
+1793,57,8/29/2010, mugla,relative,Unknown
+1794,48,8/28/2010, istanbul,partner,Other
+1795,44,8/28/2010, istanbul,boyfriend,Masculinity&Honor
+1796,30,8/28/2010, istanbul,relative,Other
+1797,33,8/27/2010, trabzon,boyfriend,Other
+1798,24,8/27/2010, batman,partner,Other
+1799,16,8/27/2010, kilis,brother,Woman Decision and Preferences
+1800,43,8/26/2010, diyarbakir,partner,Household service expectations
+1801,27,8/24/2010, kayseri,partner,Separation & Jealousy
+1802,25,8/24/2010, siirt,partner,Separation & Jealousy
+1803,24,8/24/2010, adana,partner,Household service expectations
+1804,35,8/23/2010, adana,partner,Other
+1805,27,8/19/2010, istanbul,known man,Masculinity&Honor
+1806,17,8/17/2010, manisa,known man,Sexual expectation
+1807,50,8/16/2010, kocaeli,partner,Other
+1808,,8/16/2010, konya,partner,Other
+1809,53,8/16/2010, bursa,ex-partner,Separation & Jealousy
+1810,33,8/15/2010, ankara,ex-partner,Unknown
+1811,38,8/15/2010, ankara,relative,Other
+1812,27,8/14/2010, i̇zmir,partner,Separation & Jealousy
+1813,21,8/13/2010, kayseri,partner,Other
+1814,52,8/13/2010, gaziantep,partner,Other
+1815,46,8/13/2010, osmaniye,partner,Unknown
+1816,42,8/13/2010, ankara,boyfriend,Separation & Jealousy
+1817,29,8/12/2010, van,ex-partner,Unknown
+1818,61,8/11/2010, istanbul,boyfriend,Other
+1819,41,8/11/2010, mersin,partner,Separation & Jealousy
+1820,37,8/10/2010, istanbul,known man,Other
+1821,50,8/5/2010, antalya,father-in-law,Unknown
+1822,41,8/4/2010, ankara,boyfriend,Separation & Jealousy
+1823,22,8/4/2010, ankara,known man,Other
+1824,42,8/4/2010, aydin,attacker,Unknown
+1825,30,8/4/2010, bursa,partner,Other
+1826,48,8/1/2010, istanbul,partner,Unknown
+1827,19,8/1/2010, eskisehir,partner,Separation & Jealousy
+1828,22,8/1/2010, istanbul,father,Unknown
+1829,20,7/30/2010, sanliurfa,relative,Other
+1830,46,7/29/2010, eskisehir,partner,Separation & Jealousy
+1831,25,7/29/2010, bursa,boyfriend,Other
+1832,40,7/28/2010, usak,ex-partner,Separation & Jealousy
+1833,27,7/26/2010, adana,known man,Unknown
+1834,20,7/26/2010, adana,ex-partner,Unknown
+1835,19,7/26/2010, bursa,boyfriend,Separation & Jealousy
+1836,22,7/23/2010, antalya,boyfriend,Other
+1837,41,7/22/2010, kastamonu,partner,Other
+1838,39,7/21/2010, i̇zmir,boyfriend,Masculinity&Honor
+1839,22,7/20/2010, antalya,partner,Separation & Jealousy
+1840,44,7/20/2010, i̇zmir,partner,Separation & Jealousy
+1841,35,7/17/2010, istanbul,boyfriend,Unknown
+1842,48,7/16/2010, istanbul,ex-partner,Separation & Jealousy
+1843,43,7/14/2010, ankara,partner,Separation & Jealousy
+1844,24,7/13/2010, istanbul,boyfriend,Separation & Jealousy
+1845,2,7/13/2010, amasya,attacker,Sexual expectation
+1846,17,7/13/2010, mugla,ex-partner,Unknown
+1847,24,7/11/2010, karaman,ex-partner,Unknown
+1848,40,7/9/2010, ankara,father,Other
+1849,30,7/9/2010, bursa,partner,Separation & Jealousy
+1850,57,7/9/2010, ankara,partner,Other
+1851,24,7/6/2010, karaman,partner,Separation & Jealousy
+1852,57,7/3/2010, bursa,attacker,Other
+1853,45,7/1/2010, tekirdag,partner,Separation & Jealousy
+1854,19,7/1/2010, i̇zmir,relative,Woman Decision and Preferences
+1855,50,6/28/2010, ankara,partner,Other
+1856,24,6/25/2010, istanbul,ex-partner,Masculinity&Honor
+1857,50,6/22/2010, adana,partner,Household service expectations
+1858,36,6/19/2010, mugla,ex-partner,Separation & Jealousy
+1859,,6/16/2010, adana,partner,Other
+1860,53,6/15/2010, balikesir,attacker,Separation & Jealousy
+1861,26,6/15/2010, denizli,partner,Separation & Jealousy
+1862,62,6/12/2010, ankara,partner,Masculinity&Honor
+1863,31,6/12/2010, diyarbakir,partner,Other
+1864,36,6/10/2010, corum,partner,Separation & Jealousy
+1865,70,6/7/2010, ankara,partner,Unknown
+1866,48,6/4/2010, sanliurfa,relative,Separation & Jealousy
+1867,42,6/2/2010, adana,partner,Sexual expectation
+1868,50,5/29/2010, kayseri,son,Other
+1869,77,5/28/2010, kutahya,partner,Unknown
+1870,45,5/28/2010, istanbul,partner,Other
+1871,35,5/27/2010, antalya,attacker,Other
+1872,21,5/26/2010, hatay,partner,Separation & Jealousy
+1873,38,5/26/2010, gaziantep,known man,Unknown
+1874,36,5/24/2010, istanbul,partner,Separation & Jealousy
+1875,,5/23/2010, tekirdag,boyfriend,Separation & Jealousy
+1876,38,5/21/2010, denizli,ex-partner,Unknown
+1877,21,5/20/2010, istanbul,boyfriend,Woman Decision and Preferences
+1878,24,5/19/2010, mersin,partner,Unknown
+1879,26,5/17/2010, antalya,boyfriend,Woman Decision and Preferences
+1880,22,5/14/2010, adana,partner,Other
+1881,39,5/14/2010, mersin,partner,Woman Decision and Preferences
+1882,18,5/8/2010, ankara,known man,Separation & Jealousy
+1883,26,5/8/2010, kahramanmaras,ex-partner,Other
+1884,32,5/7/2010, ankara,partner,Separation & Jealousy
+1885,45,5/6/2010, mugla,partner,Unknown
+1886,25,5/5/2010, istanbul,ex-partner,Separation & Jealousy
+1887,16,5/4/2010, corum,attacker,Separation & Jealousy
+1888,42,4/30/2010, ordu,partner,Unknown
+1889,20,4/29/2010, kars,partner,Unknown
+1890,42,4/29/2010, mugla,relative,Unknown
+1891,39,4/28/2010, manisa,partner,Separation & Jealousy
+1892,35,4/28/2010, antalya,partner,Separation & Jealousy
+1893,41,4/26/2010, adana,relative,Separation & Jealousy
+1894,,4/26/2010, aydin,partner,Masculinity&Honor
+1895,22,4/26/2010, i̇zmir,attacker,Unknown
+1896,27,4/26/2010, i̇zmir,attacker,Unknown
+1897,22,4/24/2010, bursa,ex-partner,Other
+1898,22,4/23/2010, agri,brother,Masculinity&Honor
+1899,51,4/21/2010, istanbul,ex-partner,Unknown
+1900,29,4/17/2010, bursa,ex-partner,Separation & Jealousy
+1901,36,4/15/2010, gaziantep,ex-partner,Unknown
+1902,37,4/12/2010, kocaeli,partner,Separation & Jealousy
+1903,32,4/9/2010, mugla,partner,Separation & Jealousy
+1904,38,4/8/2010, igdir,partner,Unknown
+1905,28,4/8/2010, diyarbakir,partner,Household service expectations
+1906,6,4/7/2010, i̇zmir,father,Other
+1907,25,4/6/2010, aydin,ex-partner,Children
+1908,50,4/6/2010, aydin,relative,Other
+1909,33,4/3/2010, aydin,partner,Separation & Jealousy
+1910,18,4/1/2010, istanbul,attacker,Other
+1911,41,4/1/2010, tekirdag,partner,Unknown
+1912,30,3/30/2010, cankiri,ex-partner,Unknown
+1913,,3/28/2010, adana,partner,Other
+1914,56,3/28/2010, istanbul,partner,Children
+1915,47,3/22/2010, kahramanmaras,attacker,Sexual expectation
+1916,27,3/22/2010, erzincan,partner,Masculinity&Honor
+1917,19,3/20/2010, i̇zmir,boyfriend,Separation & Jealousy
+1918,51,3/18/2010, diyarbakir,partner,Unknown
+1919,,3/18/2010, istanbul,ex-partner,Masculinity&Honor
+1920,39,3/18/2010, tekirdag,ex-partner,Unknown
+1921,50,3/18/2010, istanbul,relative,Other
+1922,16,3/18/2010, edirne,boyfriend,Unknown
+1923,39,3/17/2010, gaziantep,brother,Masculinity&Honor
+1924,37,3/12/2010, bursa,partner,Other
+1925,17,3/12/2010, bursa,father,Other
+1926,43,3/12/2010, adana,relative,Children
+1927,9,3/12/2010, ankara,attacker,Unknown
+1928,24,3/12/2010, ardahan,attacker,Separation & Jealousy
+1929,50,3/11/2010, edirne,partner,Separation & Jealousy
+1930,0,3/8/2010, malatya,father,Unknown
+1931,47,3/5/2010, i̇zmir,partner,Other
+1932,40,3/5/2010, samsun,partner,Other
+1933,25,3/4/2010, istanbul,ex-partner,Separation & Jealousy
+1934,35,3/1/2010, istanbul,relative,Separation & Jealousy
+1935,63,3/1/2010, samsun,partner,Unknown
+1936,24,2/27/2010, malatya,attacker,Sexual expectation
+1937,44,2/23/2010, canakkale,partner,Unknown
+1938,14,2/23/2010, canakkale,father,Unknown
+1939,20,2/23/2010, mersin,boyfriend,Separation & Jealousy
+1940,10,2/23/2010, canakkale,father,Unknown
+1941,18,2/22/2010, eskisehir,brother,Other
+1942,44,2/22/2010, eskisehir,son,Other
+1943,42,2/21/2010, malatya,partner,Separation & Jealousy
+1944,40,2/20/2010, malatya,partner,Other
+1945,30,2/20/2010, diyarbakir,relative,Unknown
+1946,35,2/19/2010, istanbul,partner,Other
+1947,29,2/18/2010, istanbul,ex-partner,Unknown
+1948,28,2/17/2010, duzce,attacker,Sexual expectation
+1949,35,2/15/2010, sakarya,ex-partner,Unknown
+1950,35,2/13/2010, adana,partner,Other
+1951,50,2/12/2010, eskisehir,son,Unknown
+1952,46,2/11/2010, bolu,son,Other
+1953,44,2/7/2010, yalova,partner,Other
+1954,23,2/6/2010, adana,partner,Separation & Jealousy
+1955,4,2/3/2010, gaziantep,relative,Fight
+1956,29,1/28/2010, kocaeli,known man,Other
+1957,34,1/28/2010, gaziantep,partner,Other
+1958,20,1/17/2010, diyarbakir,partner,Unknown
+1959,24,1/14/2010, ankara,relative,Masculinity&Honor
+1960,34,1/12/2010, adana,attacker,Separation & Jealousy
+1961,57,1/12/2010, kutahya,brother,Unknown
+1962,34,1/11/2010, adana,boyfriend,Unknown
+1963,,1/3/2010, bitlis,partner,Separation & Jealousy
