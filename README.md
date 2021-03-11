@@ -52,14 +52,14 @@ Selected only the years matching the victim level database<br/>
 The data columns were checked for null values. <br/>
 The data type of each column was checked. <br/>
 
-#### ** Cleaning of victim level data*<br/>
+#### * Cleaning of victim level data*<br/>
 All the fields were translated from Turkish to English. <br/>
 The location information was cleared so that only a column with the provinces <br/>
 The excuses given for the murders <br/>
 Data columns were renamed and stylized as snake_case.
 After merging with demographics, I scaled the count to count per 100k per region. <br/>
 
-#### ** Cleaning of elections data*<br/>
+#### * Cleaning of elections data*<br/>
 Scaled the elections results based on party orientation. Then weighted the scale based by percentage of votes party won with.<br/>
 Assigned election results to region demographics, based on the following logic: <br/>
 - 2010 - 2012 attitude: election results from 2009
