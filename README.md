@@ -22,7 +22,6 @@ Specifically, my first research question was:
 Are there any demographics patterns in connection to regions that have more cases?<br/>
 Considering the increasing polarization of the country towards a right-wing, conservative and religious party (AKP), my second research question was:
 Can we find patterns of polarization on a regional level, and any relation between political attitudes and number of cases? <br/>
-*My final presentation*: *insert* <br/>
 
 ## Code and Resources Used
 - Python Version: 3.7 <br/>
